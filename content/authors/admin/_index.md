@@ -3,7 +3,7 @@
 title: Naomi Baes
 
 # Name pronunciation (optional)
-name_pronunciation: nay OH mee bay es
+name_pronunciation: nay-OH-mee bay-es
 
 # Full name (for SEO)
 first_name: Naomi
@@ -20,92 +20,104 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate - Social Psychology/ Natural Language Processing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Melbourne
+    url: https://findanexpert.unimelb.edu.au/profile/855406-naomi-baes
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:naomi_baes@hotmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/naomi_baes
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/naomibaes
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/naomibaes/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=AtBlGyEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3873-5021
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Social Science
+  - Lexical Semantics
+  - Natural Language Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Social Psychology/ Natural Language Processing
+    institution: University of Melbourne
+    date_start: 2023-06-30
+    date_end: 2027-29-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Developing and evaluating a scalable multidimensional model of lexical semantic change: SIBling. Supervised by [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam). Presented PhD papers at ACL-related conferences with the contributions being published in xx journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Graduate Diploma in Psychology (Adavanced)
+    institution: University of Melbourne
+    date_start: 2021-01-01
+    date_end: 2021-11-30
     summary: |
-      GPA: 3.8/4.0
+      Awarded with Honours. Thesis, "The semantic inflation of 'trauma' in psychology",  resulted in publication: https://sciendo.com/article/10.58734/plc-2023-0002
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - area: BSc Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant in Concept Creep
+    company_name: University of Melbourne
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-07-30
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Source/compile new corpora after consulting with experts (academies, New York Times, PubMed)
+      - Pre-process (clean, lemmatize, dependency parse) diachronic text corpora for further analysis and language modelling
+      - Extract information (relative frequencies, collocates, adjective modifiers, counts) from corpora with dynamic programming
+      - Exploratory analysis (multi-dimensional scaling, descriptive statistics) and hypothesis testing (logistic regression analysis)
+      - Supervize and train RAs: to code binary labels and to compile corpus data (scrape PubMed databases, NYT articles
+  - position: Predoctoral Research Assistant in Concept Creep
+    company_name: University of Melbourne
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-07
+    date_end: 2023-06-29
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Manage 12 projects independently and with principal investigator (4 to completion; progressed 4; developed 4)
+      - Program files (Bash, Python) to pre-process, extract and analyze/model corpus data
+      - Hypothesis testing on big datasets for scientific papers: logistic regression, t-tests, analysis of variance
+      - Develop collaborations with senior academics in the School of Computing and Information Systems, Faculty of Engineering and Information Systems
+  - position: Academic Tutor
+    company_name: Private Tutoring Service
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: Ongoing
+    summary: |
+      Responsibilities include:
+      - Provide tutoring services to > 70 university students (87% University of Melbourne) across 28 psychology subjects (higher education AQF levels 7-9) in confidential setting, securing positive review
+      - Consult on entry into academic programs, research design and statistical analysis, time management and proofread/provided feedback on assessments (1,500 word lab reports; up to 10,000 word theses
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -124,63 +136,58 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+ # - name: Hobbies
+ #   color: '#eeac02'
+ #   color_border: '#f0bf23'
+ #   items:
+ #     - name: Hiking
+ #       description: ''
+ #       percent: 60
+ #       icon: person-simple-walk
+ #     - name: Cats
+ #       description: ''
+ #       percent: 100
+ #       icon: cat
+ #     - name: Photography
+ #       description: ''
+ #       percent: 80
+ #       icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Romanian
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Research Training Program Scholarship (~$135,000 AUD)
+    url: https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: Australian Commonwealth Government
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      One of 350 candidates awarded The Research Training Program Scholarship, supported by the Australian Commonwealth Government and the University of Melbourne offered to high-achieving domestic and international research students, to support an up to 3.5-year full-time doctoral degree (full fee offset and living allowance).
+  - title: Empirical Methods in Natural Language Processing (EMNLP) Sponsorship ($200 USD)
+    url: iguanodon.ai
+    date: '2023-11-01'
+    awarder: iguanodon.ai
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      EMNLP Conference Registration Fee (partial) and Association for Computational Linguistics Membership Fe
+#  - title: 'Object-Oriented Programming in R'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+#    date: '2023-01-21'
+#    awarder: datacamp
+#    icon: datacamp
+#    summary: |
+#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Naomi Baes is a Ph.D. candidate examining dimensions of lexical semantic change under the supervision of Prof Nick Haslam and Dr Ekaterina Vylomova. 
