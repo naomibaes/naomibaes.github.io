@@ -3,7 +3,7 @@
 title: Naomi Baes
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: nay OH mee bay es
 
 # Full name (for SEO)
 first_name: Naomi
