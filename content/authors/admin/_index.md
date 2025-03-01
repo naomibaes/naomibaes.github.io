@@ -113,7 +113,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
-    date_end: Ongoing
+    date_end: 2025-06-30
     summary: |
       Responsibilities include:
       - Provide tutoring services to > 70 university students (87% University of Melbourne) across 28 psychology subjects (higher education AQF levels 7-9) in confidential setting, securing positive review
