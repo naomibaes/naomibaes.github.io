@@ -53,7 +53,7 @@ education:
   - area: PhD Social Psychology/ Natural Language Processing
     institution: University of Melbourne
     date_start: 2023-06-30
-    date_end: 2027-29-03
+    date_end: 2027-03-29
     summary: |
       Developing and evaluating a scalable multidimensional model of lexical semantic change: SIBling. Supervised by [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam). Presented PhD papers at ACL-related conferences with the contributions being published in xx journals.
     button:
