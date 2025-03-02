@@ -1,28 +1,29 @@
 ---
-title: Example Talk
+title: "Semantic Shifts in Mental Health-Related Concepts"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Empirical Methods in Natural Language Processing 2023 Conference (Singapore)
+event_url: https://aclanthology.org/volumes/2023.lchange-1/
 
-location: Hugo Blox Builder HQ
+location: Resorts World Convention Centre
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 8 Sentosa Gateway 
+  city: ''
+  region: ''
+  postcode: '098269'
+  country: Singapore
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: " 'Semantic Shifts in Mental Health-Related Concepts' - accepted in The 4th International Workshop on Computational Approaches to Historical Language Change 2023 (LChange'23), collocated with the EMNLP-2023 conference"
+
+abstract: 'This talk introduced the first study of my PhD evaluating semantic shifts in mental health-related concepts in two diachronic corpora spanning 1970-2016, one academic and one general. It evaluated whether their meanings have broadened to encompass less severe phenomena and whether they have become more pathology related. It applies a recently proposed methodology (Baes et al., 2023) to examine whether words collocating with a sample of mental health concepts have become less emotionally intense and develops a new way to examine whether the concepts increasingly co-occur with pathology-related terms. In support of the first hypothesis, mental health-related concepts became associated with less emotionally intense language in the psychology corpus (addiction, anger, stress, worry) and in the general corpus (addiction, grief, stress, worry). In support of the second hypothesis, mental health-related concepts came to be more associated with pathology-related language in psychology (addiction, grief, stress, worry) and in the general corpus (grief, stress). Findings demonstrate that some mental health concepts have become normalized and/or pathologized, a conclusion with important social and cultural implications.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2030-12-06T11:20:GMT+8'
+date_end: '2030-12-06T11:40:GMT+8'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-03-02T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +34,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://x.com/naomi_baes/status/1734132267789013395/photo/2)'
   focal_point: Right
 
 #links:
@@ -68,8 +69,6 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+- **Slides** [_Slides_](https://www.slideshare.net/slideshow/semantic-shifts-in-mental-healthrelated-concepts/264396458)
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
