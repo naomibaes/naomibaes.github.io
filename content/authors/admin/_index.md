@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate - Social Psychology/ Natural Language Processing
+role: Ph.D. Candidate - Psychology/ Natural Language Processing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -190,4 +190,4 @@ awards:
 
 ## About Me
 
-Naomi Baes is a Ph.D. candidate examining dimensions of lexical semantic change under the supervision of Prof Nick Haslam and Dr Ekaterina Vylomova. 
+Naomi Baes is a Ph.D. candidate developing a model of conceptual change under the guidance of Prof Nick Haslam and Dr Ekaterina Vylomova. She has proposed "SIBling", a theoretical framework designed to characterize the major dimensions of lexical semantic change (i.e., innovations that modify the lexical meaning of words) with unique application in the humanities and social sciences.
