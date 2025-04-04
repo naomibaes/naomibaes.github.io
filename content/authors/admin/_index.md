@@ -50,7 +50,7 @@ interests:
   - Natural Language Processing
 
 education:
-  - area: PhD Social Psychology/ Natural Language Processing
+  - area: Ph.D., Psychology/ Natural Language Processing
     institution: University of Melbourne
     date_start: 2023-06-30
     date_end: 2027-03-29
@@ -190,4 +190,4 @@ awards:
 
 ## About Me
 
-Naomi Baes is a Ph.D. candidate developing a model of conceptual change under the guidance of Prof Nick Haslam and Dr Ekaterina Vylomova. She has proposed "SIBling", a theoretical framework designed to characterize the major dimensions of lexical semantic change (i.e., innovations that modify the lexical meaning of words) with unique application in the humanities and social sciences.
+Naomi Baes is a PhD candidate at the intersection of Psychology and Natural Language Processing, supervised by Professor Nick Haslam and Ekaterina Vylomova. She has developed a multilingual model of conceptual change called "SIBling". This theoretical framework is designed to characterize the major dimensions of lexical semantic change with unique application in the humanities and social sciences.
