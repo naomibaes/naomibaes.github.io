@@ -35,7 +35,7 @@ abstract: Lexical Semantic Change (LSC) offers insights into cultural and social
 summary: We introduce a scalable, domain-general framework that creates diachronic, LLM-generated synthetic datasets to simulate theory-driven Lexical Semantic Change (LSC) and evaluates various methods for measuring kinds of LSC--using examples from psychology, we apply this framework to assess the sensitivity of a suite of methods in detecting artificially induced changes in dimensions of Sentiment, Intensity, and Breadth (SIB), ultimately identifying the most suitable approach for each dimension.
 
 tags:
-- LLM-Generated Synthetic Evaluation Data
+- LLM-Generated Synthetic Data
 
 featured: true
 
