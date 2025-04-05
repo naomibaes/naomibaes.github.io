@@ -1,94 +1,22 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: Google Research @ Sydney Event
+summary: Honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia with my colleague and lab mate. 
+date: 2025-04-05
 authors:
   - admin
 tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ' '
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+## Google Resarch @ Sydney Event
 
-## Ideation
+I am honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia, with my colleague and lab mate Jemima Kang.
 
-Hugo Blox supports a Markdown extension for mindmaps.
+As a PhD student using contextualized embeddings and large language models to understand lexical semantic change in mental health concepts, I was inspired by the projects that the talented Google Australia team is advancing. Their innovations in a breadth of domains - from multilingual large language models to operations research to hearing accessibility to open models - are state of the art.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+I am excited to see these projects develop as technology progresses and as the team continues to make breakthroughs. With Australia's history of pioneering advances like the internet, Wi-Fi, cochlear implants, and Google Maps, it has the potential to lead in many more innovations despite its insular location.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+Thank you to Google Australia for hosting this event and to my PhD supervisors, Nick Haslam and Katerina Vylomova, for their invaluable support.
