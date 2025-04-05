@@ -9,7 +9,7 @@ tags:
   - Lexical Semantic Change
 ---
 
-Outputs LLM-generated synthetic sentences ('Scholar-in-the-loop' In-Context-Learning approach) to simulate dimensions of lexical semantic change.
+Outputs LLM-generated synthetic sentences ('Scholar-in-the-loop' In-Context-Learning approach) to simulate dimensions of LSC.
 
 <!--more-->
 
