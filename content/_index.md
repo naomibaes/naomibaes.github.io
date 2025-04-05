@@ -32,14 +32,15 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research Program'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research program aims to understand conceptual change. So far, I have developed two novel and scalable frameworks. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Overall the program contains several streams to deepen our understanding of how language mirrors and shapes social cognition, culture, and society:
+        - Understand lexical semantics from first principles, including its characterisation and underlying principles
+        - Examine how conceptual change provides a window into cultural and social dynamics
+        - Explore how to integrate 'affective' and 'historical' elements into language models to develop more accurate tools and generative AI systems
     design:
       columns: '1'
   - block: collection
