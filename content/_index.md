@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Naomi Baes"
-date: 2022-10-24
+date: 2025-04-05
 type: landing
 
 design:
