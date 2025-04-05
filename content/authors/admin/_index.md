@@ -82,60 +82,60 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-work:
-  - position: Research Assistant in Concept Creep
-    company_name: University of Melbourne
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-07-30
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Source/compile new corpora after consulting with experts (academies, New York Times, PubMed)
-      - Pre-process (clean, lemmatize, dependency parse) diachronic text corpora for further analysis and language modelling
-      - Extract information (relative frequencies, collocates, adjective modifiers, counts) from corpora with dynamic programming
-      - Exploratory analysis (multi-dimensional scaling, descriptive statistics) and hypothesis testing (logistic regression analysis)
-      - Supervize and train RAs: to code binary labels and to compile corpus data (scrape PubMed databases, NYT articles
-  - position: Predoctoral Research Assistant in Concept Creep
-    company_name: University of Melbourne
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-07
-    date_end: 2023-06-29
-    summary: |
-      Responsibilities include:
-      - Manage 12 projects independently and with principal investigator (4 to completion; progressed 4; developed 4)
-      - Program files (Bash, Python) to pre-process, extract and analyze/model corpus data
-      - Hypothesis testing on big datasets for scientific papers: logistic regression, t-tests, analysis of variance
-      - Develop collaborations with senior academics in the School of Computing and Information Systems, Faculty of Engineering and Information Systems
-  - position: Academic Tutor
-    company_name: Private Tutoring Service
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-03-01
-    date_end: 2025-06-30
-    summary: |
-      Responsibilities include:
-      - Provide tutoring services to > 70 university students (87% University of Melbourne) across 28 psychology subjects (higher education AQF levels 7-9) in confidential setting, securing positive review
-      - Consult on entry into academic programs, research design and statistical analysis, time management and proofread/provided feedback on assessments (1,500 word lab reports; up to 10,000 word theses
+#work:
+#  - position: Research Assistant in Concept Creep
+#    company_name: University of Melbourne
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2023-07-30
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - Source/compile new corpora after consulting with experts (academies, New York Times, PubMed)
+#      - Pre-process (clean, lemmatize, dependency parse) diachronic text corpora for further analysis and language modelling
+#      - Extract information (relative frequencies, collocates, adjective modifiers, counts) from corpora with dynamic programming
+#      - Exploratory analysis (multi-dimensional scaling, descriptive statistics) and hypothesis testing (logistic regression analysis)
+#      - Supervize and train RAs: to code binary labels and to compile corpus data (scrape PubMed databases, NYT articles
+#  - position: Predoctoral Research Assistant in Concept Creep
+#    company_name: University of Melbourne
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2023-01-07
+#    date_end: 2023-06-29
+#    summary: |
+#      Responsibilities include:
+#      - Manage 12 projects independently and with principal investigator (4 to completion; progressed 4; developed 4)
+#      - Program files (Bash, Python) to pre-process, extract and analyze/model corpus data
+#      - Hypothesis testing on big datasets for scientific papers: logistic regression, t-tests, analysis of variance
+#      - Develop collaborations with senior academics in the School of Computing and Information Systems, Faculty of Engineering and Information Systems
+#  - position: Academic Tutor
+#    company_name: Private Tutoring Service
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2022-03-01
+#    date_end: 2025-06-30
+#    summary: |
+#      Responsibilities include:
+#      - Provide tutoring services to > 70 university students (87% University of Melbourne) across 28 psychology subjects (higher education AQF levels 7-9) in #confidential setting, securing positive review
+#      - Consult on entry into academic programs, research design and statistical analysis, time management and proofread/provided feedback on assessments (1,500 word lab reports; up to 10,000 word theses
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
  # - name: Hobbies
  #   color: '#eeac02'
  #   color_border: '#f0bf23'
@@ -153,31 +153,31 @@ skills:
  #       percent: 80
  #       icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Romanian
-    percent: 75
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Romanian
+#    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Research Training Program Scholarship (~$135,000 AUD)
-    url: https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship
-    date: '2023-11-25'
-    awarder: Australian Commonwealth Government
-    icon: 
-    summary: |
-      One of 350 candidates awarded The Research Training Program Scholarship, supported by the Australian Commonwealth Government and the University of Melbourne offered to high-achieving domestic and international research students, to support an up to 3.5-year full-time doctoral degree (full fee offset and living allowance).
-  - title: Empirical Methods in Natural Language Processing (EMNLP) Sponsorship ($200 USD)
-    url: iguanodon.ai
-    date: '2023-11-01'
-    awarder: iguanodon.ai
-    icon: edx
-    summary: |
-      EMNLP Conference Registration Fee (partial) and Association for Computational Linguistics Membership Fe
+#awards:
+#  - title: Research Training Program Scholarship (~$135,000 AUD)
+#    url: https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship
+#    date: '2023-11-25'
+#    awarder: Australian Commonwealth Government
+#    icon: 
+#    summary: |
+#      One of 350 candidates awarded The Research Training Program Scholarship, supported by the Australian Commonwealth Government and the University of Melbourne offered to high-achieving domestic and international research students, to support an up to 3.5-year full-time doctoral degree (full fee offset and living allowance).
+#  - title: Empirical Methods in Natural Language Processing (EMNLP) Sponsorship ($200 USD)
+#    url: iguanodon.ai
+#    date: '2023-11-01'
+#    awarder: iguanodon.ai
+#    icon: edx
+#    summary: |
+#      EMNLP Conference Registration Fee (partial) and Association for Computational Linguistics Membership Fe
 #  - title: 'Object-Oriented Programming in R'
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #    certificate_url: https://www.datacamp.com
