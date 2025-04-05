@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Logos Wear
+date: 2025-04-05
+external_link: https://www.redbubble.com/people/logoswear/shop
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Art
+  - Ideas
+  - Logos
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Logos Wear provides meaningful designs that inspire people to think freely, speak truthfully and act honestly.
 
 <!--more-->
