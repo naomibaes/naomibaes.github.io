@@ -2,7 +2,9 @@
 title: "SIBling: A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications"
 authors:
 - admin
-date: "2025-04-05T00:00:00Z"
+- Nick Haslam
+- Ekaterina Vylomova
+date: "2024-08-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
