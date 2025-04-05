@@ -31,7 +31,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '' #'Image credit: [**Jesse Tse**](https://scholar.google.com/citations?hl=en&user=OwP1e0QAAAAJ)'
