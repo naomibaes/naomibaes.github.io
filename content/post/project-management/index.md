@@ -4,14 +4,14 @@ summary: Honoured to have been selected to attend the Google Research @ Sydney E
 date: 2025-04-05
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
+#tags:
+#  - Hugo Blox
+#  - Markdown
 image:
   caption: ' '
 ---
 
-## Google Resarch @ Sydney Event
+### Google Research
 
 I am honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia, with my colleague and lab mate Jemima Kang, 18 February 2025.
 
@@ -22,4 +22,4 @@ I am excited to see these projects develop as technology progresses and as the t
 
 Thank you to Google Australia for hosting this event and to my PhD supervisors, Nick Haslam and Katerina Vylomova, for their invaluable support.
 
-Click here for more about the event: https://www.linkedin.com/posts/googleresearch_thats-a-wrap-on-research-sydney-the-team-activity-7297766842998108160-VnRh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7EFScBoYYPgFhje5nKGTfb1tHVC8Rg_Q0
+Click here for more information about the event: https://www.linkedin.com/posts/googleresearch_thats-a-wrap-on-research-sydney-the-team-activity-7297766842998108160-VnRh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7EFScBoYYPgFhje5nKGTfb1tHVC8Rg_Q0
