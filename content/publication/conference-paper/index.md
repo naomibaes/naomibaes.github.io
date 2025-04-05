@@ -6,11 +6,15 @@ title: 'A General Framework to Evaluate Methods for Assessing Dimensions of Lexi
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Raphaël Merx
+  - Nick Haslam
+  - Ekaterina Vylomova
+  - Haim Dubossarsky
 
 # Author notes (optional)
 author_notes:
 
-date: '2025-05-04T00:00:00Z'
+date: '2025-03-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
