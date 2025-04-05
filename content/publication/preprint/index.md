@@ -20,22 +20,22 @@ publication_short: ""
 abstract: Historical linguists have identified multiple forms of lexical semantic change. We present a three-dimensional framework for integrating these forms and a unified computational methodology for evaluating them concurrently. The dimensions represent increases or decreases in semantic 1) sentiment (valence of a target word’s collocates), 2) intensity (emotional arousal of collocates or the frequency of intensifiers), and 3) breadth (diversity of contexts in which the target word appears). These dimensions can be complemented by evaluation of shifts in the frequency of the target words and the thematic content of its collocates. This framework enables lexical semantic change to be mapped economically and systematically and has applications in computational social science. We present an illustrative analysis of semantic shifts in mental health and mental illness in two corpora, demonstrating patterns of semantic change that illuminate contemporary concerns about pathologization, stigma, and concept creep.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a computational framework to evaluate lexical semantic change in a way that economically integrates forms identified by historical linguists and uses it to analyze semantic shifts in mental health and mental illness.
 
 tags:
-- Large Language Models
+- Lexical Semantic Change
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: 
+url_pdf: https://aclanthology.org/2024.acl-long.76/
+url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
 url_dataset: '#'
-url_poster: '#'
+url_poster: 'https://x.com/naomi_baes/status/1822225205822996539/photo/1'
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'
 url_source: '#'
 url_video: '#'
 
