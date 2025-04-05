@@ -18,7 +18,7 @@ abstract: 'This talk introduced the first study of my PhD evaluating semantic sh
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-12-06T11:20:00+08:00'
+date: '2023-12-06T11:20:00+08:00'
 date_end: '2030-12-06T11:40:00+08:00'
 all_day: false
 
@@ -63,12 +63,3 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Slides** [_Slides_](https://www.slideshare.net/slideshow/semantic-shifts-in-mental-healthrelated-concepts/264396458)
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
