@@ -19,7 +19,7 @@ abstract: 'Mental illness concepts have become more culturally salient in recent
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-12-06T11:9:00+08:00'
-date_end: '2030-12-06T11:9:20:00+08:00'
+date_end: '2030-12-06T11:9:20+08:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
