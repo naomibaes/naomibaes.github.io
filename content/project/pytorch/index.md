@@ -9,6 +9,9 @@ tags:
   - Lexical Semantic Change
 ---
 
-LSC-Eval pipeline uses LLMs to simulate dimensions of lexical semantic change, using natural historical sentences as input data and a 'scholar-in-the-loop' strategy to carefully construct demonstration examples for model training.
+Scalable pipeline that outputs LLM-generated synthetic sentences ('Scholar-in-the-loop' In-Context-Learning approach) to simulate dimensions of lexical semantic change.
 
 <!--more-->
+
+# with historical sentences as input data and a 'scholar-in-the-loop' strategy to carefully construct demonstration examples for model training.
+
