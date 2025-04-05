@@ -28,16 +28,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: 
   url: 
 url_pdf: https://aclanthology.org/2024.acl-long.76/
 url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
-url_dataset: '#'
+url_dataset: ''
 url_poster: 'https://x.com/naomi_baes/status/1822225205822996539/photo/1'
 url_project: ''
 url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: 'https://underline.io/lecture/102655-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications '
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
