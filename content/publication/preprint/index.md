@@ -2,7 +2,7 @@
 title: "SIBling: A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications"
 authors:
 - admin
-date: "2024-05-16T00:00:00Z"
+date: "2025-04-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: 
-  url: 
+  url: ''
 url_pdf: https://aclanthology.org/2024.acl-long.76/
 url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
 url_dataset: ''
@@ -42,7 +42,7 @@ url_video: 'https://underline.io/lecture/102655-a-multidimensional-framework-for
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Three Major Dimensions of Semantic Change.'
   focal_point: ""
   preview_only: false
 
@@ -62,10 +62,5 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is the first major study in my PhD program: https://www.slideshare.net/slideshow/naomi-baess-phd-confirmation-presentation-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/266702645.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
