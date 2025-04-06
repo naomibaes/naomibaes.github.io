@@ -68,5 +68,5 @@ projects:
 slides: example
 ---
 
-This work is the culmination of my Honours thesis.
+This work is the culmination of my Honours thesis. Link to slides: https://www.slideshare.net/slideshow/the-semantic-inflation-of-trauma-in-psychology-naomi-baes-ekaterina-vylomova-mike-j-zyphur-nick-haslam/254846644
 
