@@ -12,14 +12,16 @@ address:
   postcode: '4567'
   country: Australia
 
-summary: "15-minute presentation for the SASP-ACPID 2023 Conference in Noosa (QLD) in the Stream: Impacts & Perceptions of Mental Illness. Link to slides: https://www.slideshare.net/slideshow/the-concept-creep-of-mental-illness/264396095"
+summary: "15-minute presentation for the The Society for Australasian Social Psychologists (SASP) and the Australasian Congress on Personality and Individual Differences (ACPID) SASP-ACPID 2023 Conference in Noosa (QLD, Australia) in the Stream: Impacts & Perceptions of Mental Illness. "
 
 abstract: 'Mental illness concepts have become more culturally salient in recent years. According to concept creep theory, they are susceptible to two kinds of semantic expansion, broadening to encompass new phenomena (horizontal creep) and less severe phenomena (vertical creep). This talk examines whether mental illness concepts have undergone vertical concept creep. Previous research using large historical text corpora has yielded mixed findings. ‘Trauma’ came to be used in less severe semantic contexts from 1970-2019 in a corpus of psychology article abstracts (>133 million words). However, ‘anxiety’ and ‘depression’ showed the opposite trend in the abstracts corpus and in a corpus of everyday language in the USA (>500 million words), implying that these concepts have become increasingly pathologized. We present new research that attempts to clarify whether the nature of conceptual change in mental illness concepts can be attributed to concept creep and/or pathologization in a wider sample of mental health-related concepts. Social and cultural implications of these conceptual shifts will be discussed.'
 
+slides: "Link to slides: https://www.slideshare.net/slideshow/the-concept-creep-of-mental-illness/264396095"
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-06T11:09:00+08:00'
-date_end: '2023-12-06T11:09:20+08:00'
+date: '2023-12-06T09:00:00+08:00'
+date_end: '2023-12-06T09:20:20+08:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
