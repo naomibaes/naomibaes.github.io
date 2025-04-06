@@ -31,16 +31,16 @@ tags:
 - Language Dynamics
 - Lexical Semantic Change
 
-featured: true
+featured: false
 
 links:
 - name: 
-  url: ''
+  url: 'https://x.com/naomi_baes/status/1629649620690403328'
 url_pdf: https://intapi.sciendo.com/pdf/10.58734/plc-2023-0002
 url_code: 'https://osf.io/xg758/'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://x.com/naomi_baes/status/1629649620690403328'
+url_project: ''
 url_slides: 'https://www.slideshare.net/slideshow/the-semantic-inflation-of-trauma-in-psychology-naomi-baes-ekaterina-vylomova-mike-j-zyphur-nick-haslam/254846644'
 url_source: ''
 url_video: ''

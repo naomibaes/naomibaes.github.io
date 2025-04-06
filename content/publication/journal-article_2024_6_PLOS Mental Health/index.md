@@ -26,16 +26,16 @@ abstract: Substantial attention has been paid to the language of mental ill heal
 tags:
 - Conceptual Change
 
-featured: true
+featured: false
 
 links:
 - name: 
-  url: ''
+  url: 'https://x.com/naomi_baes/status/1798192240810250411'
 url_pdf: https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000032
 url_code: 'https://osf.io/6egsz/'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://x.com/naomi_baes/status/1798192240810250411'
+url_project: ''
 url_slides: ''
 url_source: '' 
 url_video: ''

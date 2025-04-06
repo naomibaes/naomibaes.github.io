@@ -28,16 +28,16 @@ abstract: Throughout the course of scholarly history, some concepts have been no
 tags:
 - Conceptual Change
 
-featured: true
+featured: false
 
 links:
 - name: 
-  url: ''
+  url: 'https://x.com/naomi_baes/status/1749711916417876164'
 url_pdf: https://doi.org/10.1111/bjso.12713
 url_code: 'https://osf.io/8zsj9/'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://x.com/naomi_baes/status/1749711916417876164'
+url_project: ''
 url_slides: ''
 url_source: '' 
 url_video: ''
