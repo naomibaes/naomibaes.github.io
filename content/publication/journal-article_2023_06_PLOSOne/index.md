@@ -42,7 +42,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://x.com/naomi_baes/status/1674770229082337281'
 url_video: ''
 
 # Featured image
@@ -68,5 +68,5 @@ projects:
 slides: example
 ---
 
-This work is the culmination of Yu Xiao's terrific Honours project, which I helped with.
+This work is the culmination of Yu Xiao's terrific Honours project, which I helped with. We wrote a quick piece on it in PURSUIT: https://pursuit.unimelb.edu.au/articles/do-we-think-about-anxiety-and-depression-differently-now
 

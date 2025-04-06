@@ -38,7 +38,7 @@ url_dataset: ''
 url_poster: 'https://x.com/naomi_baes/status/1822225205822996539/photo/1'
 url_project: ''
 url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'
-url_source: ''
+url_source: 'https://x.com/naomi_baes/status/1822225205822996539'
 url_video: 'https://underline.io/lecture/102655-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications '
 
 # Featured image

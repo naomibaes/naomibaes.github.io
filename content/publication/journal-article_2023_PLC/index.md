@@ -42,7 +42,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'https://www.slideshare.net/slideshow/the-semantic-inflation-of-trauma-in-psychology-naomi-baes-ekaterina-vylomova-mike-j-zyphur-nick-haslam/254846644'
-url_source: ''
+url_source: 'https://x.com/naomi_baes/status/1629649620690403328'
 url_video: ''
 
 # Featured image

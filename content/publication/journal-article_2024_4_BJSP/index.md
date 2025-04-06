@@ -39,7 +39,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://x.com/naomi_baes/status/1749711916417876164'
+url_source: 'https://x.com/naomi_baes/status/1749711916417876164' 
 url_video: ''
 
 # Featured image
@@ -65,4 +65,4 @@ projects:
 slides: example
 ---
 
-
+We wrote a piece on the study in THE CONVERSATION: https://theconversation.com/what-does-the-common-good-actually-mean-our-research-found-common-ground-across-the-political-divide-220843
