@@ -34,7 +34,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''Image credit: [**Jesse Tse**](https://scholar.google.com/citations?hl=en&user=OwP1e0QAAAAJ)'
+  caption: 'Image credit: [**Jesse Tse**](https://scholar.google.com/citations?hl=en&user=OwP1e0QAAAAJ)'
   focal_point: '' #Right
 
 #links:
