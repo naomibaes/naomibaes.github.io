@@ -40,9 +40,9 @@ url_pdf: https://doi.org/10.1371/journal.pone.0288027
 url_code: 'https://osf.io/u9mve/'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://x.com/naomi_baes/status/1674770229082337281'
 url_slides: ''
-url_source: 'https://x.com/naomi_baes/status/1674770229082337281'
+url_source: ''
 url_video: ''
 
 # Featured image
