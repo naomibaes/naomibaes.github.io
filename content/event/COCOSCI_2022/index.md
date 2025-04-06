@@ -12,7 +12,7 @@ address:
   postcode: '3053'
   country: Australia
 
-summary: "30-minute presentation (with ~30 minute Q&A) on Honour's thesis research findings--invited to present at the Computational Cognitive Sciences Lab"
+summary: "30-minute presentation (with ~30 minute Q&A) on Honour's thesis findings--invited to present at the Computational Cognitive Sciences Lab (VIC, Australia)"
 
 abstract: 'Trauma is an increasingly prominent concept in psychology and society at large. According to the theory of concept creep, it is one of several harm-related concepts that have undergone semantic inflation in recent decades, expanding to encompass new kinds of phenomena (horizontal expansion) and less severe phenomena (vertical expansion). Previous research has demonstrated that "trauma" has come to be used in a widening range of semantic contexts, implying horizontal expansion, but has not investigated vertical expansion. The present study developed a methodology for evaluating vertical expansion and implemented it using an English-language corpus of 825,628 scientific psychology article abstracts from 1970 to 2017. Findings indicate that "trauma" has come to be used in less severe contexts, and this trend may be linked to its rising frequency of use. These findings support the predictions of the concept creep theory and provide a new method for investigating the language dynamics of harm-related concepts.'
 
