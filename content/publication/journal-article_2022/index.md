@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Frontiers in Psychology: Positive Psychology"
-publication_short: "Association for Computational Linguistics"
+publication_short: "Frontiers in Psychology"
 
 abstract: The positive psychology movement, launched near the start of the twenty-first century, aimed to shift the focus of psychology away from misery, conflict, and pathology toward happiness, human flourishing, and wellbeing. However, there have been few attempts to gauge whether psychology as a whole has become more positive in its focus. This study tested this possibility by examining a corpus of 829,701 abstracts from articles published in 875 psychology journals between 1970 and 2017. Positivity was indexed by the positive emotion dictionary using the Linguistic Inquiry and Word Count tool and a newly constructed positive character dictionary. Both indices showed a steep rise through the study period, with the positive character index's rise occurring since 2000. A Negative Emotion index also rose linearly over the study period, suggesting that the rise in positive emotion might reflect in part a general increase in affective or evaluative language use. While there appears to have been an increase in psychology's positivity, that increase is complex, non-linear, and the degree to which it can be ascribed to positive psychology remains uncertain.
 

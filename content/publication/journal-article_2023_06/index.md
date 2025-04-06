@@ -37,9 +37,9 @@ links:
 - name: 
   url: ''
 url_pdf: https://doi.org/10.1371/journal.pone.0288027
-url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
+url_code: 'https://osf.io/u9mve/'
 url_dataset: ''
-url_poster: 'https://x.com/naomi_baes/status/1822225205822996539/photo/1'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Three Major Dimensions of Semantic Change.'
+  caption: 'Relative frequencies of selected anxiety collocates in the psychology abstracts corpus by decade.'
   focal_point: ""
   preview_only: false
 
@@ -68,5 +68,5 @@ projects:
 slides: example
 ---
 
-This work is the first major study in my PhD program: https://www.slideshare.net/slideshow/naomi-baess-phd-confirmation-presentation-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/266702645.
+This work is the culmination of Yu Xiao's terrific Honours project, which I helped with.
 
