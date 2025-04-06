@@ -1,9 +1,9 @@
 ---
 title: "Has Psychology Become More Positive? Trends in Language Use in Article Abstracts"
 authors:
-- Nick Haslam
 - admin
-- Milad Haghani
+- Henry Speagle
+- Nick Haslam
 date: "2022-05-30T00:00:00Z"
 doi: ""
 
