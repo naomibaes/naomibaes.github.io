@@ -23,7 +23,7 @@ date_end: '2030-12-06T11:40:00+08:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-02T00:00:00Z'
+publishDate: '2025-04-22T00:00:00Z'
 
 authors:
   - admin
@@ -34,7 +34,7 @@ tags: []
 featured: true
 
 image:
-  caption: '' #'Image credit: [**Unsplash**](https://x.com/naomi_baes/status/1734132267789013395/photo/2)'
+  caption: '' #'Image credit: [**Unsplash**](https://x.com/naomi_baes/status/1822225205822996539)'
   focal_point: '' #Right
 
 #links:
