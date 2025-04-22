@@ -1,5 +1,5 @@
 ---
-title: Publications Related to Conceptual Change
+title: Publications on Conceptual Change
 cms_exclude: true
 
 # View.
