@@ -6,6 +6,6 @@ tags:
   - Conceptual Change Framework
 ---
 
-Source code to evaluate key dimensions of lexical semantic change concurrently and complementary dimensions (salience and thematic content).
+Source code to evaluate key dimensions of lexical semantic change concurrently (SIB) and complementary dimensions (salience and thematic content).
 
 <!--more-->
