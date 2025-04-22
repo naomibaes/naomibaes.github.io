@@ -18,8 +18,8 @@ abstract: 'Historical linguists have identified multiple forms of lexical semant
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-06T11:20:00+08:00'
-date_end: '2030-12-06T11:40:00+08:00'
+date: '2024-08-14T13:30:00+08:00'
+date_end: '2024-08-14T15:00:00+08:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
