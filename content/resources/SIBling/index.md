@@ -1,5 +1,5 @@
 ---
-title: SIBling 1.0: Scripts to evaluate Key Dimensions of Lexical Semantic Change
+title: SIBling 1.0 Scripts to evaluate Key Dimensions of Lexical Semantic Change
 date: 2025-08-10
 external_link: https://github.com/naomibaes/lexical_semantic_change_framework
 tags:
