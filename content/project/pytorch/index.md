@@ -1,9 +1,9 @@
 ---
-title: LSC-Eval Pipeline
+title: Synthetic-LSC Pipeline
 date: 2025-04-05
-external_link: https://github.com/naomibaes
+external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
 tags:
-  - LLM-Generated Synthetic Data
+  - LLM-Generated Synthetic LSC Data
   - Historical Synthetic Data
   - Evaluation Set
   - Lexical Semantic Change
