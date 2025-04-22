@@ -1,11 +1,11 @@
 ---
-title: Synthetic SIB Datasets
-date: 2025-04-22
-external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
+title: Semantic Severity Index
+date: 2022-10-22
+external_link: https://github.com/naomibaes/SemanticSeverity
 tags:
-  - DATASETS. LLM-Generated Synthetic Data
+  - SCRIPTS. Semantic Severity
 ---
 
-Synthetic datasets to evaluate key dimensions of Lexical Semantic Change (Sentiment, Intensity, Breadth), generated using LLMs and WordNet from the LSC-Eval framework.
+Source code to evaluate the semantic severity of concepts (annual count-weighted average incorpoating low valence + high arousal ratings for the target's collocates).
 
 <!--more-->
