@@ -35,12 +35,16 @@ sections:
       title: 'Research Program'
       subtitle: ''
       text: |-
-        My research program aims to understand conceptual change. So far, I have developed two novel and scalable frameworks with my PhD supervisors and international collaborators. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change. "LSC-Eval" is a three stage evaluation framework to generate synthetic datasets to evaluate methods on a synthetic change detection task and select the most suitable one for the dimension and domain of interest. Currently, I am applying SIBling in the mental health domain.
+        My research program aims to understand conceptual change. 
+        
+        To this end, I have developed two novel and scalable frameworks with my PhD supervisors and international colleagues. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change. "LSC-Eval" is a three-stage evaluation framework designed to generate synthetic datasets, use them to evaluate change detection methods, and identify the most suitable approach for the dimension and domain of interest. I am currently applying SIBling in the mental health domain to examine how concepts like *schizophrenia* and *autism* have evolved in meaning, and to uncover the social and cultural forces driving this change.
 
-        Overall the program contains several streams to deepen our understanding of how language mirrors and shapes social cognition, culture, and society:
-        - Understand lexical semantics from first principles, including its characterisation and underlying principles
-        - Examine how conceptual change provides a window into cultural and social dynamics
+        My work draws on several complementary streams to deepen our understanding of how language mirrors and shapes social cognition, culture, and society:
+        - Investigate lexical semantics from first principles, including its structure and foundational mechanisms
+        - Examine how conceptual change provides a window into cultural and social dynamics (e.g., concept creep, pathologization, stigmatization)
         - Explore how to integrate 'affective' and 'historical' elements into language models to develop more accurate tools and generative AI systems
+        - Test the multilingual applicability of SIBling and assess to what extent the dimensions of LSC vary across cultures and domains
+  
     design:
       columns: '1'
   - block: collection
@@ -70,7 +74,7 @@ sections:
       title: Invited Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       view: article-grid
       columns: 1
@@ -78,6 +82,9 @@ sections:
     id: news
     content:
       title: Recent News
+      filters:
+        folders:
+          - news
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
