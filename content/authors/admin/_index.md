@@ -45,9 +45,11 @@ profiles:
     url: https://orcid.org/0000-0003-3873-5021
 
 interests:
+  - Computational Linguistics
   - Computational Social Science
   - Lexical Semantics
   - Natural Language Processing
+  - Psychology
 
 education:
   - area: Ph.D., Psychology/ Natural Language Processing
