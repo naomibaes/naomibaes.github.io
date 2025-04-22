@@ -1,13 +1,11 @@
 ---
-title: Logos Wear
-date: 2025-04-05
-external_link: https://www.redbubble.com/people/logoswear/shop
+title: Synthetic SIB Datasets
+date: 2025-04-22
+external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
 tags:
-  - Art
-  - Ideas
-  - Logos
+  - DATASETS. LLM-Generated Synthetic Data
 ---
 
-Logos Wear provides meaningful designs that inspire people to think freely, speak truthfully and act honestly.
+Synthetic datasets to evaluate key dimensions of Lexical Semantic Change (Sentiment, Intensity, Breadth), generated using LLMs and WordNet from the LSC-Eval framework.
 
 <!--more-->
