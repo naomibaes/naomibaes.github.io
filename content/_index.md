@@ -32,10 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research Program'
+      title: 'Research Program'
       subtitle: ''
       text: |-
-        My research program aims to understand conceptual change. So far, I have developed two novel and scalable frameworks. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change 
+        My research program aims to understand conceptual change. So far, I have developed two novel and scalable frameworks with my PhD supervisors and international collaborators. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change. "LSC-Eval" is a three stage evaluation framework to generate synthetic datasets to evaluate methods on a synthetic change detection task and select the most suitable one for the dimension and domain of interest. Currently, I am applying SIBling in the mental health domain.
 
         Overall the program contains several streams to deepen our understanding of how language mirrors and shapes social cognition, culture, and society:
         - Understand lexical semantics from first principles, including its characterisation and underlying principles
