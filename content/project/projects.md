@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy developing ideas, as shown by some projects that I have worked on...
+      text: I enjoy developing ideas, as demonstrated by some projects that I have worked on...
       filters:
         folders:
           - project
