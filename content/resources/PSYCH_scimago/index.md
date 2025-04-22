@@ -1,5 +1,5 @@
 ---
-title: SciMago-indexed Psychology Journals
+title: Scripts to get SciMago-indexed Psychology Journals
 date: 2025-04-05
 external_link: https://github.com/naomibaes/psych-journals-list
 tags:
