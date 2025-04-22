@@ -192,4 +192,4 @@ education:
 
 ## About Me
 
-Naomi Baes is a PhD candidate at the intersection of Psychology and Natural Language Processing, supervised by Professor [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam) and [Dr Ekaterina Vylomova](http://kat.academy/). She has developed a general model of conceptual change called "SIBling". This theoretical linguistic framework is designed to characterize key dimensions of lexical semantic change with unique application in the humanities and social sciences.
+[Naomi Baes](https://findanexpert.unimelb.edu.au/profile/855406-naomi-baes) is a PhD candidate at the intersection of Psychology and Natural Language Processing, supervised by Professor [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam) and [Dr Ekaterina Vylomova](http://kat.academy/). She has developed a general model of conceptual change called "SIBling". This theoretical linguistic framework is designed to characterize key dimensions of lexical semantic change with unique application in the humanities and social sciences.
