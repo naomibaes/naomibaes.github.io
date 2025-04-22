@@ -1,5 +1,5 @@
 ---
-title: Synthetic-LSC Pipeline
+title: Synthetic-LSC pipeline
 date: 2025-04-05
 external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
 tags:
@@ -9,7 +9,7 @@ tags:
   - Lexical Semantic Change
 ---
 
-This pipeline outputs LLM-generated synthetic sentences ('Scholar-in-the-loop' In-Context-Learning approach) to simulate dimensions of LSC.
+Outputs LLM-generated synthetic sentences ('Scholar-in-the-loop' In-Context-Learning approach) to simulate dimensions of LSC.
 
 <!--more-->
 
