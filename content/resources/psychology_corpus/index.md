@@ -6,6 +6,6 @@ tags:
   - DATASETS. Academic Psychology corpus.
 ---
 
-The psychology corpus contains 871,340 abstracts from 875 psychology journals, with a total of 144,366,128 words ranging from 1930 to 2019, sourced from E-Research and PubMed databases.
+The psychology corpus contains 871,340 abstracts from 875 psychology journals, with a total of 144,366,128 words, sourced from E-Research and PubMed databases (1930-2019).
 
 <!--more-->
