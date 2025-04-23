@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: 
-  url: 'https://x.com/naomi_baes/status/1533420005123321856'
+  url: 'https://x.com/datepsych/status/1801743065931256167'
 url_pdf: https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2363354#abstract
 url_code: 'https://osf.io/4zkw6'
 url_dataset: ''
