@@ -16,7 +16,7 @@ sections:
           - resources/datasets
     design:
       view: article-grid
-      columns: 3
+      columns: 1
       fill_image: false
 
 #  - block: collection
