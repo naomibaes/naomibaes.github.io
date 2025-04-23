@@ -1,5 +1,5 @@
 ---
-title: Semantic Severity Index
+title: Scripts to Semantic Severity Index
 date: 2022-10-22
 external_link: https://github.com/naomibaes/SemanticSeverity
 tags:
