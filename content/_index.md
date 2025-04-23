@@ -46,7 +46,7 @@ sections:
         - It lays the groundwork to validate, generalize, and scale the study of conceptual change across domains and languages. 
   
     design:
-      columns: '1'
+      columns: '1' 
   - block: collection
     id: papers
     content:
