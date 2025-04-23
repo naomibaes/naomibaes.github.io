@@ -4,30 +4,20 @@ date: 2025-04-23
 type: landing
 
 design:
+  # Section spacing
   spacing: '5rem'
 
+# Page sections
 sections:
   - block: collection
     content:
-      title: Datasets
-      text: "Curated datasets from my research, including synthetic corpora and large-scale domain-specific corpora."
+      title: Resources
+      text: Throughout my research career, I have developed several resources in collaboration with colleagues, and share them so that they may be of use to others.
       filters:
         folders:
-          - resources/datasets
+          - resources
     design:
       view: article-grid
-      columns: 1
       fill_image: false
-
-#  - block: collection
-#    content:
-#      title: Scripts
-#      text: "Scripts to scrape, process, structure and analyze conceptual change in large corpora."
-#      filters:
-#        folders:
-#          - resources/scripts
-#    design:
-#      view: article-grid
-#      columns: 3
-#      fill_image: false
+      columns: 3
 ---
