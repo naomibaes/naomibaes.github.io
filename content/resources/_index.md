@@ -37,7 +37,7 @@ sections:
       text: "To come: Embeddings from various contextualized language models, domain-specific corpora and targets."
       filters:
         folders:
-          - resources/embeddings
+          - resources/embeddings/*
     design:
       view: article-grid
       columns: 3

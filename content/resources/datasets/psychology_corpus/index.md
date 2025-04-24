@@ -1,7 +1,7 @@
 ---
 title: Academic Psychology corpus
 date: 2025-04-22
-type: resource  # ✅ Trick to help render in article-grid/citation
+type: post  # ✅ Trick to help render in article-grid/citation
 external_link: https://github.com/naomibaes/psychology_corpus
 tags:
   - DATASETS. Academic Psychology corpus.

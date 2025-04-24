@@ -1,7 +1,7 @@
 ---
 title: Synthetic SIB datasets
 date: 2025-04-22
-type: resource  # ✅ Trick to help render in article-grid/citation
+type: post  # ✅ Trick to help render in article-grid/citation
 external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
 tags:
   - DATASETS. Synthetic SIB datasets

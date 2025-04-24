@@ -1,7 +1,7 @@
 ---
 title: Scripts to evaluate Key Dimensions of Lexical Semantic Change (SIBling 1.0)
 date: 2024-08-10
-type: resource  # ✅ Trick to help render in article-grid/citation
+type: post  # ✅ Trick to help render in article-grid/citation
 external_link: https://github.com/naomibaes/lexical_semantic_change_framework
 tags:
   - SCRIPTS. Conceptual Change
