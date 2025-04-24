@@ -1,7 +1,7 @@
 ---
 title: Scripts to Semantic Severity Index
 date: 2022-10-22
-type: post  # ✅ Trick to help render in article-grid/citation
+type: resource  # ✅ Trick to help render in article-grid/citation
 external_link: https://github.com/naomibaes/SemanticSeverity
 tags:
   - SCRIPTS. Semantic Severity
