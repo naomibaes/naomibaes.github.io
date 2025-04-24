@@ -1,6 +1,7 @@
 ---
 title: Synthetic-LSC pipeline
 date: 2025-04-05
+type: project
 external_link: https://github.com/naomibaes/Synthetic-LSC_pipeline
 tags:
   - LLM-Generated Synthetic LSC Data
