@@ -89,9 +89,7 @@ sections:
         folders:
           - news
         exclude_folders:
-          - resources/datasets
-          - resources/scripts
-          - resources/embeddings
+          - resources
         author: ""
         category: ""
         tag: ""

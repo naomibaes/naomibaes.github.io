@@ -1,6 +1,7 @@
 ---
 title: Academic Psychology corpus
 date: 2025-04-22
+type: resource
 external_link: https://github.com/naomibaes/psychology_corpus
 tags:
   - DATASETS. Academic Psychology corpus.

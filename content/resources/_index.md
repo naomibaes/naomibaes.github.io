@@ -13,9 +13,10 @@ sections:
       text: "Curated datasets, including synthetic data and large-scale domain-specific corpora."
       filters:
         folders:
-          - resources/datasets/*
+          - resources/datasets
     design:
       view: article-grid
+      page_type: resource
       columns: 3
       fill_image: false
 
@@ -25,9 +26,10 @@ sections:
       text: "Scripts to scrape, process, structure and analyze conceptual change in large corpora."
       filters:
         folders:
-          - resources/scripts/*
+          - resources/scripts
     design:
       view: article-grid
+      page_type: resource
       columns: 3
       fill_image: false
 
@@ -37,9 +39,10 @@ sections:
       text: "To come: Embeddings from various contextualized language models, domain-specific corpora and targets."
       filters:
         folders:
-          - resources/embeddings/*
+          - resources/embeddings
     design:
       view: article-grid
+      page_type: resource
       columns: 3
       fill_image: false
 ---
