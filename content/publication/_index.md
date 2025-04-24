@@ -3,7 +3,11 @@ title: Publications on Conceptual Change
 cms_exclude: true
 
 # View.
-view: citation
+#view: citation
+
+view: article-grid
+columns: 2
+fill_image: true
 
 # Optional header image (relative to `static/media/` folder).
 banner:
