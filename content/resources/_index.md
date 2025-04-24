@@ -13,8 +13,8 @@ sections:
       text: Curated datasets, including synthetic data and domain corpora.
       filters:
         folders:
-          - datasets/NYT
-          - datasets/psychology_corpus
+          - resources/datasets/NYT
+          - resources/datasets/psychology_corpus
     design:
       view: article-grid
       columns: 3
