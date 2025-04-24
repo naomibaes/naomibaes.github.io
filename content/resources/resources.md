@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Resources
-      text: Throughout my research career, I have developed several resources in collaboration with colleagues, and share them so that they may be of use to others.
+      text: I have developed several resources in collaboration with colleagues, and share them so that they may be of use to others.
       filters:
         folders:
           - resources
