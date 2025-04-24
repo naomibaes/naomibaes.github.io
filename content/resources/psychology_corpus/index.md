@@ -4,7 +4,7 @@ date: 2025-04-22
 type: resource
 external_link: https://github.com/naomibaes/psychology_corpus
 tags:
-  - DATASETS. Academic Psychology corpus.
+  - DATASETS.
 ---
 
 The psychology corpus contains 871,340 abstracts from 875 psychology journals, with a total of 144,366,128 words, sourced from E-Research and PubMed databases (1930-2019).

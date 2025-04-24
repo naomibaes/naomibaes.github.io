@@ -4,7 +4,7 @@ date: 2024-08-10
 type: resource
 external_link: https://github.com/naomibaes/lexical_semantic_change_framework
 tags:
-  - SCRIPTS. Conceptual Change
+  - SCRIPTS. 
 ---
 
 This repository contains the source code for evaluating dimensions of lexical semantic change concurrently, as proposed by the linguistic framework SIBling outlined in the companion manuscript titled "A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications" by Naomi Baes, Nick Haslam, and Ekaterina Vylomova.
