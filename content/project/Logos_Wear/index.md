@@ -1,6 +1,6 @@
 ---
 title: Logos Wear
-date: 2025-04-05
+date: 2017-12-10
 external_link: https://www.redbubble.com/people/logoswear/shop
 tags:
   - Art
