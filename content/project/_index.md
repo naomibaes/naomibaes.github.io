@@ -15,7 +15,9 @@ sections:
       text: I enjoy developing ideas, as demonstrated by some projects that I have worked on...
       filters:
         folders:
-          - project/*
+          - project/Logos_wear
+          - project/sibling
+          - project/synthetic-LSC_pipeline
     design:
       view: article-grid
       fill_image: false
