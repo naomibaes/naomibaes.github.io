@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Datasets
-      text: "Curated datasets from my research, including synthetic corpora and large-scale domain-specific corpora."
+      text: "Curated datasets, including synthetic corpora and large-scale domain-specific corpora."
       filters:
         folders:
           - resources/datasets
