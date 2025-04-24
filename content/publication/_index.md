@@ -6,7 +6,7 @@ cms_exclude: true
 #view: citation
 
 view: article-grid
-columns: 2
+columns: 3
 fill_image: true
 
 # Optional header image (relative to `static/media/` folder).
