@@ -7,6 +7,6 @@ tags:
   - dataset
 ---
 
-Synthetic datasets to evaluate key dimensions of LSC (Sentiment, Intensity, Breadth), generated using LLMs and WordNet from the LSC-Eval framework. 
+Synthetic datasets to evaluate key dimensions of LSC (SIB), generated using LLMs and WordNet from the LSC-Eval framework. 
 
 <!--more-->

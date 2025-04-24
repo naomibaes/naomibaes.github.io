@@ -15,18 +15,18 @@ sections:
         tag: dataset
     design:
       view: article-grid
-      columns: 3
+      columns: 4
       fill_image: false
 
   - block: collection
     content:
       title: Scripts
-      text: "Scripts to scrape, process, and structure text corpora."
+      text: "Scripts to scrape, process, and evaluate conceptual change in text corpora."
       filters:
         tag: script
     design:
       view: article-grid
-      columns: 3
+      columns: 4
       fill_image: false
 
 
@@ -35,7 +35,7 @@ sections:
 #  - block: collection
 #    content:
 #      title: Embeddings
-#      text: "Embeddings from contextualized language models."
+#      text: "Embeddings from contextualized language models (to come)."
 #      filters:
 #        tag: embeddings
 #    design:
