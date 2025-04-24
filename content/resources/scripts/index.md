@@ -6,7 +6,7 @@ sections:
       title: All Scripts
       filters:
         folders:
-          - resources/scripts
+          - resources/scripts/*
     design:
       view: article-grid
       columns: 3
