@@ -13,11 +13,7 @@ sections:
     content:
       title: Selected Projects
       text: I enjoy developing ideas, as demonstrated by some projects that I have worked on...
-      filters:
-        folders:
-          - Logos_Wear
-          - sibling
-          - synthetic-LSC_pipeline
+
     design:
       view: article-grid
       fill_image: false
