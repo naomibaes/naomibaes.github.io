@@ -7,7 +7,7 @@ tags:
   - dataset
 ---
 
-Corpus of articles from "The New York Times Developer Network" for every month in each year, adhering to legal restrictions. 
+Articles from "The New York Times Developer Network" for every month in each year. 
 
 <!--more-->
 

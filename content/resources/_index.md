@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Datasets
-      text: "Curated datasets including synthetic and domain-specific corpora."
+      text: "Curated datasets including synthetic and domain-specific diachronic text corpora."
       filters:
         tag: dataset
     design:

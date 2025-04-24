@@ -7,7 +7,7 @@ tags:
   - script 
 ---
 
-Scripts to get up-to-date SciMago-indexed psychology journals to filter PubMed abstracts by psychology domain.
+Scripts to get SciMago-indexed psychology journals to filter by psychology domain.
 
 <!--more-->
 

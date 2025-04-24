@@ -7,6 +7,6 @@ tags:
   - script 
 ---
 
-Source code for evaluating dimensions of lexical semantic change concurrently, as proposed by the linguistic framework SIBling used to study conceptual change.
+Source code to evaluate dimensions of LSC concurrently, as proposed by SIBling, the linguistic framework used to study conceptual change.
 
 <!--more-->
