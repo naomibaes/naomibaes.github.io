@@ -2,7 +2,6 @@
 title: Logos Wear
 date: 2017-10-14
 external_link: https://www.redbubble.com/people/logoswear/shop
-type: post
 tags:
   - Art
   - Ideas

@@ -18,7 +18,6 @@ sections:
           - project/synthetic-LSC_pipeline
     design:
       view: article-grid
-      page_type: post
       fill_image: false
       columns: 3
 ---
