@@ -2,7 +2,7 @@
 title: SIBling source code
 date: 2025-08-05
 external_link: https://github.com/naomibaes/lexical_semantic_change_framework
-type: project
+type: post
 tags:
   - Conceptual Change Framework
 ---

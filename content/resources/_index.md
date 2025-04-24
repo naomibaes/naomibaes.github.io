@@ -10,39 +10,37 @@ sections:
   - block: collection
     content:
       title: Datasets
-      text: "Curated datasets, including synthetic data and large-scale domain-specific corpora."
+      text: Curated datasets, including synthetic data and domain corpora.
       filters:
         folders:
-          - datasets/*
+          - datasets/NYT
+          - datasets/psychology_corpus
     design:
       view: article-grid
-      page_type: resource
       columns: 3
       fill_image: false
 
   - block: collection
     content:
       title: Scripts
-      text: "Scripts to scrape, process, structure and analyze conceptual change in large corpora."
+      text: Scripts to scrape and process text corpora.
       filters:
         folders:
-          - scripts/*
+          - scripts/PSYCH_scimago
+          - scripts/sibling
     design:
       view: article-grid
-      page_type: resource
       columns: 3
       fill_image: false
 
   - block: collection
     content:
       title: Embeddings
-      text: "To come: Embeddings from various contextualized language models, domain-specific corpora and targets."
+      text: Embeddings from language models and domains.
       filters:
         folders:
-          - embeddings/*
+          - embeddings/semantic_severity
     design:
       view: article-grid
-      page_type: resource
       columns: 3
       fill_image: false
----
