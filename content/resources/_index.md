@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Datasets
-      text: "Curated datasets, including synthetic corpora and large-scale domain-specific corpora."
+      text: "Curated datasets, including synthetic data and large-scale domain-specific corpora."
       filters:
         folders:
           - resources/datasets
@@ -26,6 +26,18 @@ sections:
       filters:
         folders:
           - resources/scripts
+    design:
+      view: article-grid
+      columns: 3
+      fill_image: false
+
+  - block: collection
+    content:
+      title: Embeddings
+      text: "To come: Embeddings from various contextualized language models, domain-specific corpora and targets."
+      filters:
+        folders:
+          - resources/embeddings
     design:
       view: article-grid
       columns: 3
