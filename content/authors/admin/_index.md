@@ -3,7 +3,7 @@
 title: Naomi Baes
 
 # Name pronunciation (optional)
-name_pronunciation: nay-OH-mee bay-es
+#name_pronunciation: nay-OH-mee bay-es
 
 # Full name (for SEO)
 first_name: Naomi
@@ -192,4 +192,4 @@ education:
 
 ## About Me
 
-[Naomi Baes](https://findanexpert.unimelb.edu.au/profile/855406-naomi-baes) is a PhD candidate at the intersection of Psychology and Natural Language Processing. Along with her supervisors, Professor [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam) and [Dr Ekaterina Vylomova](http://kat.academy/), she has designed a theoretical linguistic framework, named "SIBling", to characterize key dimensions of lexical semantic change with unique application in the humanities and social sciences. 
+[Naomi Baes](https://findanexpert.unimelb.edu.au/profile/855406-naomi-baes) is a PhD candidate at the intersection of Psychology and Natural Language Processing. Along with her supervisors, Professor [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam) and [Dr Ekaterina Vylomova](http://kat.academy/), she has developed a theoretical linguistic framework, named "SIBling", to characterize key dimensions of lexical semantic change with unique application in the humanities and social sciences. 

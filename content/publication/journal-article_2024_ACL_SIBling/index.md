@@ -36,7 +36,7 @@ links:
   url: 'https://x.com/naomi_baes/status/1822225205822996539'
 url_pdf: https://aclanthology.org/2024.acl-long.76/
 url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
-url_dataset: ''
+url_dataset: 'https://github.com/naomibaes/psychology_corpus'
 url_poster: 'https://x.com/naomi_baes/status/1822225205822996539/photo/1'
 url_project: ''
 url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'

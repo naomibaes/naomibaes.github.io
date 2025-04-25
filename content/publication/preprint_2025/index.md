@@ -43,8 +43,8 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/2503.08042
-url_code: 'https://github.com/naomibaes'
-url_dataset: 'https://github.com/naomibaes'
+url_code: 'https://github.com/naomibaes/LSCD_method_evaluation'
+url_dataset: 'https://github.com/naomibaes/Synthetic-LSC_pipeline'
 url_poster: ''
 url_project: ''
 url_slides: ''
