@@ -112,7 +112,7 @@ sections:
       text: |
         <div style="font-size: 0.9rem">
 
-        - **July 21–24, 2025**: Presenting at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, International Conference for Computational Social Science on ``SIBling" & ``LSC-Eval" (Norrköping, Sweden).
+        - **July 21–24, 2025**: Presenting at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, International Conference for Computational Social Science on "SIBling" & "LSC-Eval" (Norrköping, Sweden).
         - New *corpus data* + *scripts* now available — see [Resources](https://naomibaes.github.io/resources/) tab.
         - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP - Suzhou, China).
 
