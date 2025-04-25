@@ -111,14 +111,14 @@ sections:
       title: Quick Updates
       text: |
         <div style="font-size: 0.9rem">
-        
-      - **July 2025**: Presenting at *IC2S2 2025*, International Conference for Computational Social Science (Norrköping, Sweden) on "SIBling" & "LSC-Eval".
-      - New *corpus data* + *scripts* now available — see Resources tab.
-      - Serving on the *SEM 2025* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP, Suzhou, China).
+
+        - **July 2025**: Presenting at *IC2S2 2025*, International Conference for Computational Social Science (Norrköping, Sweden) on "SIBling" & "LSC-Eval".
+        - New *corpus data* + *scripts* now available — see Resources tab.
+        - Serving on the *SEM 2025* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP, Suzhou, China).
 
         </div>
     design:
       columns: 1
-
+      css_class: mt-4
 
 ---
