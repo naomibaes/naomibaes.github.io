@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Datasets
-      text: "Curated datasets including synthetic and domain-specific diachronic text corpora."
+      text: "Curated datasets, including synthetic and domain-specific diachronic text corpora."
       filters:
         tag: dataset
     design:
@@ -21,7 +21,7 @@ sections:
   - block: collection
     content:
       title: Scripts
-      text: "Scripts to scrape, process, and evaluate conceptual change in text corpora."
+      text: "Scripts to scrape, process, and evaluate conceptual change in, text corpora."
       filters:
         tag: script
     design:

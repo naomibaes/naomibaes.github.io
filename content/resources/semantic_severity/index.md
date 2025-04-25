@@ -7,6 +7,6 @@ tags:
   - script
 ---
 
-Source code to evaluate the semantic severity of concepts (weighted average linking affective ratings to target collocates).
+Evaluate concept semantic severity (weighted average linking affective ratings to target collocates).
 
 <!--more-->

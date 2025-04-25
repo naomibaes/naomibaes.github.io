@@ -7,7 +7,7 @@ tags:
   - script 
 ---
 
-Scripts to get SciMago-indexed psychology journals to filter by psychology domain.
+Get SciMago-indexed psychology journals to filter databases by psychology domain.
 
 <!--more-->
 

@@ -7,6 +7,6 @@ tags:
   - dataset
 ---
 
-The corpus contains ~871k abstracts from 875 journals from E-Research and PubMed databases.
+Scientific abstracts (~871k) from 875 journals from E-Research and PubMed databases.
 
 <!--more-->

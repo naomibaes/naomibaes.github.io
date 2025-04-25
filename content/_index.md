@@ -106,4 +106,15 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
+  - block: markdown
+    content:
+      title: Quick Updates
+      text: |
+        - Accepted to present my work at the **International Conference for Computational Social Science (IC2S2) 2025** in Norrköping, Sweden (July, 2025) on "SIBling: A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications".
+        - New resources added: *Corpus data* (NYT, academic psychology, synthetic SIB datasets), and *scripts* (for projects evaluating conceptual change).
+        - 🧪 Testing breadth-injected corpora (v2 coming soon).
+        - 🎤 Excited to serve on the Program Committee for the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025), co-located with EMNLP in Suzhou, China (November 2025).
+    design:
+      columns: 1
+
 ---

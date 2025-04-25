@@ -7,6 +7,6 @@ tags:
   - script 
 ---
 
-Source code to evaluate dimensions of LSC concurrently, as proposed by SIBling, the linguistic framework used to study conceptual change.
+Evaluate dimensions of LSC concurrently, and sociocultural drivers, to study conceptual change.
 
 <!--more-->

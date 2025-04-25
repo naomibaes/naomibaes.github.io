@@ -1,5 +1,5 @@
 ---
-title: SIBling source code (1.0)
+title: SIBling
 date: 2025-08-05
 external_link: https://github.com/naomibaes/lexical_semantic_change_framework
 tags:

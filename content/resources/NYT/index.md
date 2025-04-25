@@ -7,7 +7,7 @@ tags:
   - script
 ---
 
-Scripts to scrape a corpus of articles from "The New York Times Developer Network" for every month in each year, adhering to legal restrictions. Possibility: 1851-yesterday.
+Scrape articles from "The New York Times Developer Network" by month and year, adhering to legal restrictions. (1851-yesterday).
 
 <!--more-->
 
