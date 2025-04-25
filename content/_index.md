@@ -39,7 +39,7 @@ sections:
         - **"SIBling"** is a theoretical linguistic model that reduces six well-established types of lexical semantic change (LSC) into three key dimensions: **Sentiment, Intensity, Breadth**. 
         - The **SIB Toolkit** is a computational implementation of SIBling. It measures change along these three core dimensions, and complementary variables (salience, thematic content) to uncover influential cultural forces.
         - **"LSC-Eval"** is a three-stage evaluation framework designed to (1) generate synthetic datasets simulating kinds of LSC, (2) use these to evaluate the sensitivity of various change detection methods, and (3) identify the most suitable approach for the dimension and domain of interest. 
-        - I am currently **applying** *SIBling* to the mental health domain to examine how concepts such as *schizophrenia* and *autism* have evolved over time, and to uncover  cultural forces (concept creep, pathologization, stigmatization).
+        - I am currently **applying** *SIBling* to the mental health domain to examine how concepts like *schizophrenia* and *autism* have evolved over time, and to uncover  cultural forces (concept creep, pathologization, stigmatization).
 
         This program of study makes four main contributions: 
         1. It introduces *SIBling*, a unified model of conceptual change grounded in historical linguistics and psychology, along with a methodological toolkit that draws on natural language processing and an evaluation framework (*LSC-Eval*) for testing and refining detection methods.
