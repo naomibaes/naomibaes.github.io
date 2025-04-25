@@ -35,15 +35,19 @@ sections:
       title: 'Research Program'
       subtitle: ''
       text: |-
-        My research program aims to understand conceptual change. 
+        My research program aims to understand how socially salient concepts evolve in meaning over time - what I broadly refer to as **conceptual change**. 
         
-        To this end, I have developed two novel and scalable frameworks with my PhD supervisors and collaborators. "SIBling" is a theoretical linguistic framework that proposes three major dimensions of lexical semantic change. "LSC-Eval" is a three-stage evaluation framework designed to generate synthetic datasets, use them to evaluate change detection methods, and identify the most suitable approach for the dimension and domain of interest. I am currently applying SIBling in the mental health domain to examine how concepts like *schizophrenia* and *autism* have evolved in meaning, and to uncover the social and cultural forces influencing this change.
+        To this end, I have developed two novel and scalable frameworks together with my PhD supervisors and collaborators. 
+        - **"SIBling"** is a theoretical linguistic model that reduces six well-established types of lexical semantic change (LSC) into three key dimensions: **Sentiment, Intensity, and Breadth**. The computational framework proposes a toolkit for measuring changes along these axes, as well as complementary dimensions (salience, thematic content).
+        - **"LSC-Eval"** is a three-stage evaluation framework designed to (1) generate synthetic datasets simulating kinds of LSC, (2) use these to evaluate the sensitivity of various change detection methods, and (3) identify the most suitable techniques for the dimension and domain of interest. 
+        
+        I am currently applying *SIBling* to the mental health domain to examine how concepts such as *schizophrenia* and *autism* have evolved over time, and to uncover the social and cultural forces (e.g., concept creep, pathologization, and stigmatization) influencing these shifts.
 
         This program makes four main contributions: 
-        - It establishes SIBling as a theoretical linguistic framework that reduces six main types of lexical semantic change, identified by historical linguists, into three major dimensions (Sentiment, Intensity, and Breadth) and develops a methodological toolkit to measure them, leveraging techniques from natural language processing and psychology. 
-        - It harnesses this toolkit to analyze semantic shifts in mental health concepts in large historical text corpora representing discourse ranging from academic psychology to everyday vernacular, providing a window into cultural and social dynamics, such as concept creep, pathologization, and stigmatization. 
-        - It positions SIBling as a valuable resource for researchers aiming to understand and model conceptual change and their social and cultural drivers in various disciplines (e.g., psychology, law, humanities).
-        - It lays the groundwork to generalize and scale the study of conceptual change across domains and languages. 
+        1. It introduces *SIBling*, a framework grounded in historical linguistics and psychology, along with an associated methodological toolkit that draws from natural language processing.
+        2. It applies this toolkit to analyze semantic change in mental health discourse across historical corpora, spanning academic, media, and everyday language. 
+        3. It positions *SIBling* as a cross-disciplinary resource for studying conceptual change and its cultural drivers in domains such as psychology, law, and the humanities.
+        4. It lays the foundation for generalizing this approach to model conceptual change across other domains and languages. 
   
     design:
       columns: '1' 
