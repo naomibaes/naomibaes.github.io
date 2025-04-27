@@ -12,6 +12,8 @@ image:
   caption: ' '
 ---
 
+<div style="font-size: 1.25rem; line-height: 1.5;">
+
 ### Google Research
 
 I am honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia, with my colleague and lab mate Jemima Kang, 18 February 2025.
