@@ -118,7 +118,7 @@ sections:
 
         - New *corpus data* + *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
-        - Committed my most recent PhD paper to [ACL 2025](https://2025.aclweb.org/) - read our preprint [here](https://arxiv.org/abs/2503.08042)
+        - Committed my recent PhD paper to **[ACL 2025](https://2025.aclweb.org/)** - read our preprint [here](https://arxiv.org/abs/2503.08042)
 
         - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP - Suzhou, China).
 
