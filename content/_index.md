@@ -112,7 +112,7 @@ sections:
     content:
       title: Quick Updates
       text: |
-        <div style="font-size: 0.9rem">
+        <div style="font-size: 1.25rem">
 
         - **July 21–24, 2025**: Accepted to present at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, the International Conference for Computational Social Science, on my frameworks for modelling, and evaluating methods for, conceptual change: "SIBling" & "LSC-Eval" (Norrköping, Sweden).
 
