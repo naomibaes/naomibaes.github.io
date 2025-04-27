@@ -16,7 +16,7 @@ marketing:
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
-    image: "og-image.png"   # <-- Remove "media/" prefix
+    image: "og-image.png"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -28,7 +28,7 @@ marketing:
     baidu: ''
 
 # Favicon and social media preview image
-favicon: "media/og-image.png"   # <-- Add this line
+favicon: "media/og-image.png"
 
 # Site header
 header:
@@ -62,3 +62,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Homepage content
+homepage:
+  layout: page
+  show_recent: true
+  recent_limit: 5
