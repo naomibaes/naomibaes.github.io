@@ -113,6 +113,7 @@ sections:
       title: Quick Updates
       text: |
         <div style="font-size: 0.9rem">
+        
         - **July 21–24, 2025**: Accepted to present my PhD work at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, International Conference for Computational Social Science on "SIBling" & "LSC-Eval" (Norrköping, Sweden).
 
         - New *corpus data* + *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
