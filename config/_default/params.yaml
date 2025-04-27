@@ -18,7 +18,7 @@ marketing:
     twitter: 'GetResearchDev'
     image: "media/og-image.png"
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-P084K5PWRH'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -59,7 +59,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-marketing:
-  analytics:
-    google_analytics: 'G-P084K5PWRH'
