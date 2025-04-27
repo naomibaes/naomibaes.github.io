@@ -59,9 +59,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-homepage:
-  layout: page
-  show_recent: true
-  recent_limit: 5
-
