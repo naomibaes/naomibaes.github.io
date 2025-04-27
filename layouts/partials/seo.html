@@ -1,0 +1,6 @@
+{{/* Inject Open Graph image manually */}}
+{{ if .Site.Params.marketing.seo.image }}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.marketing.seo.image }}">
+{{ else }}
+<meta property="og:image" content="{{ .Site.BaseURL }}media/og-image.png">
+{{ end }}
