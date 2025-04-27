@@ -16,7 +16,7 @@ marketing:
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
-    image: "media/og-image.png"
+    image: "og-image.png"   # <-- Remove "media/" prefix
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -26,6 +26,9 @@ marketing:
   verification:
     google: ''
     baidu: ''
+
+# Favicon and social media preview image
+favicon: "media/og-image.png"   # <-- Add this line
 
 # Site header
 header:
@@ -41,7 +44,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Naomi Baes.' # This work is licensed under {license}'
+    notice: '© {year} Naomi Baes.'
     license:
       enable: true
       allow_derivatives: false
@@ -59,7 +62,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-marketing:
-  analytics:
-    google_analytics: 'G-P084K5PWRH'
