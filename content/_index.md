@@ -114,7 +114,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **July 21–24, 2025**: Accepted to present at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, the International Conference for Computational Social Science, on my frameworks for modelling, and evaluating methods for, conceptual change: "SIBling" & "LSC-Eval" (Norrköping, Sweden).
+        - **July 21–24, 2025**: Accepted to present at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, the International Conference for Computational Social Science, on my frameworks for modelling, and evaluating methods for assessing, conceptual change: "SIBling" & "LSC-Eval" (Norrköping, Sweden).
 
         - New *corpus data* + *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
