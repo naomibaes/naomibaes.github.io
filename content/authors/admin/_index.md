@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate - Psychology/ Natural Language Processing
+role: PhD Candidate - Psychology/ Natural Language Processing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
