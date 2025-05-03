@@ -44,7 +44,7 @@ sections:
         1. Proposing a multidimensional model of conceptual change (*SIBling*) grounded in psychological and linguistic theory.    
         2. Developing computational tools to operationalise and apply the framework across concepts and domains.  
         3. Establishing a principled evaluation framework (*LSC-Eval*) for testing LSC methods.  
-        4. Demonstrating the value of *SIBling* through case studies in the mental health domain.    
+        4. Demonstrating the value of *SIBling* through case studies in the mental health domain.  
         5. Laying the groundwork for future extensions across domains (e.g., law, humanities) and languages.  
 
     design:
