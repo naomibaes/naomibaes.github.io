@@ -35,8 +35,11 @@ sections:
       title: 'Research Program'
       subtitle: ''
       text: |-
-        My research investigates how concepts change meaning over time, with a focus on the mental health domain. With my PhD supervisors, I have developed a novel framework, **SIBling**, to model and measure lexical semantic change (LSC) along three core dimensions that are typically overlooked by existing approaches, which treat semantic change as unitary phenomenon.
-
+        My research investigates how concepts change meaning over time, with a focus on the mental health domain. With my PhD supervisors, I have developed a novel framework, **SIBling**, to model and measure lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches, which treat semantic change as unitary phenomenon.
+        - **SIBling:** A theoretical model that integrates insights from historical linguistics and psychology, reducing six established types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth**.
+        - **SIB Toolkit:** A computational implementation of the framework that quantifies change along these dimensions, as well as related features: **salience** and **thematic content**.
+        - **LSC-Eval:** An evaluation pipeline designed to validate methods for detecting LSC. It (1) creates LLM-generated synthetic corpora simulating *kinds* of change, (2) tests detection methods in controlled experiments, and (3) identifies optimal approaches for different dimensions and domains.
+        - **Applications:** I apply this framework to trace the historical evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), and to analyse related social and cultural dynamics such as **concept creep**, **pathologization**, and **stigmatisation**.
 
     design:
       columns: '1' 
