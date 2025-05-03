@@ -3,7 +3,7 @@ title: Publications on Conceptual Change
 cms_exclude: true
 
 # View.
-view: citation
+view: card
 
 #view: article-grid
 #columns: 3
