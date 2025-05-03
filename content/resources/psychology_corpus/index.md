@@ -7,6 +7,6 @@ tags:
   - dataset
 ---
 
-Scientific abstracts (~871k) from 875 journals from E-Research and PubMed databases.
+Scientific abstracts (~871k) from 875 journals, from E-Research and PubMed databases.
 
 <!--more-->
