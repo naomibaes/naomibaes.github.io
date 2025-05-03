@@ -39,9 +39,14 @@ sections:
         - **SIBling:** A theoretical model that integrates insights from historical linguistics and psychology, reducing six established types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth**.
         - **SIB Toolkit:** A computational implementation of the framework that quantifies change along these dimensions, as well as related features: **salience** and **thematic content**.
         - **LSC-Eval:** An evaluation pipeline designed to validate methods for detecting LSC. It (1) creates LLM-generated synthetic corpora simulating *kinds* of change, (2) tests detection methods in controlled experiments, and (3) identifies optimal approaches for dimensions and domains.
-        - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), and to analyse related social and cultural dynamics such as **concept creep**, **pathologization**, and **stigmatisation**.
-
-
+        - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), and to analyse related social and cultural dynamics such as **concept creep**, **pathologisation**, and **stigmatisation**.
+        
+        This program contributes by:
+        1. Proposing a multidimensional model of conceptual change (*SIBling*) grounded in psychological and linguistic theory.  
+        2. Developing computational tools to operationalise and apply the framework across concepts and domains.
+        3. Establishing a principled evaluation framework (*LSC-Eval*) for testing LSC methods.  
+        4. Demonstrating the value of SIBling through case studies in the mental health doman.  
+        5. Laying the groundwork for future extensions across domains (e.g., law, humanities) and languages.
     design:
       columns: '1' 
   - block: collection
