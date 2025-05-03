@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Graduate Diploma in Psychology (Adavanced) with Honours
+  - area: Graduate Diploma in Psychology (Advanced) with Honours
     institution: University of Melbourne
     date_start: 2021-01-01
     date_end: 2021-11-30
