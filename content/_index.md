@@ -41,6 +41,7 @@ sections:
         - **LSC-Eval:** An evaluation pipeline designed to validate methods for detecting LSC. It (1) creates LLM-generated synthetic corpora simulating *kinds* of change, (2) tests detection methods in controlled experiments, and (3) identifies optimal approaches for dimensions and domains.
         - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), and to analyse related social and cultural dynamics such as **concept creep**, **pathologization**, and **stigmatisation**.
 
+
     design:
       columns: '1' 
   - block: collection
