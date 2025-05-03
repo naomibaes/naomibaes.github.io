@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Ph.D., Psychology/ Natural Language Processing
-    institution: University of Melbourne (2023-26)
+    institution: University of Melbourne (2023-)
     date_start: 2023-06-30
     date_end: 2027-03-29
     summary: |
