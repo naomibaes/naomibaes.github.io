@@ -58,8 +58,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: list
-      columns: 1
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Relevant Publications
@@ -69,7 +69,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation 
+      view: list 
   - block: collection
     id: talks
     content:
