@@ -69,7 +69,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citations 
+      view: citation
   - block: collection
     id: talks
     content:
