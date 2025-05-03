@@ -52,7 +52,7 @@ interests:
   - Semantic Change
 
 education:
-  - area: Ph.D., Psychology/ Natural Language Processing
+  - area: Ph.D., Psychology/ Natural Language Processing (ongoing)
     institution: University of Melbourne
     date_start: 2023-06-30
     date_end: 2027-03-29
