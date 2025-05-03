@@ -35,18 +35,19 @@ sections:
       title: 'Research Program'
       subtitle: ''
       text: |-
-        My research program aims to understand **conceptual change**. To this end, I have developed four scalable components, together with my PhD supervisors and collaborators. 
-        - **"SIBling"** is a theoretical linguistic model that reduces six well-established types of lexical semantic change (LSC) into three key dimensions: **Sentiment, Intensity, Breadth**. 
-        - The **SIB Toolkit** is a computational implementation of SIBling. It measures change along these three core dimensions, and complementary variables (salience, thematic content) to uncover influential cultural forces.
-        - **"LSC-Eval"** is a three-stage evaluation framework designed to (1) generate synthetic datasets simulating kinds of LSC, (2) use these to evaluate the sensitivity of various change detection methods, and (3) identify the most suitable approach for the dimension and domain of interest. 
-        - I am currently **applying** *SIBling* to the mental health domain to examine how concepts like *schizophrenia* and *autism* have evolved over time, and to uncover  cultural forces (e.g., concept creep, pathologization, and stigmatization).
+        My research investigates how **concepts change meaning over time**, especially in the mental health domain. Together with my PhD supervisors and collaborators, I have developed a set of approaches to model and measure lexical semantic change (LSC).
+        - **SIBling:** A theoretical linguistic model that reduces six well-established types of LSC into three core dimensions: **Sentiment, Intensity, Breadth**. 
+        - **SIB Toolkit:** A computational implementation of SIBling that measures change along these dimensions, as well as complementary features such as **salience**, **thematic content**.
+        - **LSC-Eval** A three-stage evaluation framework that (1) generates synthetic datasets simulating kinds of LSC, (2) tests detection methods against these changes in controlled experiments, and (3) identifies optimal methods for each dimension/domain. 
+        - **Application:** I use these tools to examine how mental health concepts like *schizophrenia* and *autism* have evolved historically, and to explore the influence of social and cultural forces such as **concept creep**, **pathologization**, and **stigmatization**.
 
-        This program of study makes four main contributions: 
-        1. It introduces *SIBling*, a unified model of conceptual change grounded in historical linguistics and psychology, along with a methodological toolkit that draws on natural language processing and an evaluation framework (*LSC-Eval*) for testing and refining detection methods.
-        2. It applies this toolkit to analyze semantic change in mental health discourse across historical corpora, spanning academic, media, and everyday language. 
-        3. It positions *SIBling* as a cross-disciplinary resource for studying conceptual change and its cultural drivers in domains such as psychology, law, and the humanities.
-        4. It lays the foundation for generalizing this model of conceptual change across other domains and languages. 
-  
+        This program contributes by:
+        1. Proposing a unified model of conceptual change (*SIBling*), grounded in historical linguistics and psychology.  
+        2. Developing computational tools to quantify semantic change across the dimensions defined in the SIBling framework.
+        3. Developing an evaluation framework (*LSC-Eval*) to test and refine change detection methods.  
+        4. Demonstrating the framework’s utility in the mental health domain.  
+        5. Laying the groundwork for extending the approach across domains (e.g., law, humanities) and languages.
+
     design:
       columns: '1' 
   - block: collection
