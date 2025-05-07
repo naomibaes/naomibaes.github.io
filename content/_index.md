@@ -36,9 +36,9 @@ sections:
       subtitle: ''
       text: |-
         My research investigates how concepts change meaning over time, with a focus on the mental health domain. With my PhD supervisors, I have developed a novel framework - **SIBling** - to model and measure lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches, which treat semantic change as unitary.  
-        - **SIBling:** A theoretical model that integrates insights from historical linguistics and psychology, reducing six established types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth**.  
+        - **SIBling:** A theoretical model that integrates insights from historical linguistics and psychology, reducing six established types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth**. Read our prototype [paper](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/).
         - **SIB Toolkit:** A computational implementation of the framework that quantifies change along these dimensions, as well as related features: **salience** and **thematic content**.  
-        - **LSC-Eval:** An evaluation pipeline designed to validate methods for detecting LSC. It (1) creates LLM-generated synthetic corpora simulating *kinds* of change, (2) tests detection methods in controlled experiments, and (3) identifies optimal approaches for dimensions and domains.  
+        - **LSC-Eval:** An evaluation pipeline designed to validate methods for detecting LSC. It (1) creates LLM-generated synthetic corpora simulating *kinds* of change, (2) tests detection methods in controlled experiments, and (3) identifies optimal approaches for dimensions and domains. Read our prototype [paper](https://naomibaes.github.io/publication/preprint_2025/) 
         - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), and to analyse related social and cultural dynamics such as **concept creep**, **pathologisation**, and **stigmatisation**.  
         This program contributes by:
         1. Proposing a multidimensional model of conceptual change (*SIBling*) grounded in psychological and linguistic theory.    
