@@ -114,13 +114,15 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **July 21–24, 2025**: Accepted to present at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, the International Conference for Computational Social Science, on my frameworks for modelling, and evaluating methods for assessing, conceptual change: "SIBling" & "LSC-Eval" (Norrköping, Sweden).
+        - **July 27-Aug 1, 2025**: Presenting on LSC-Eval at **[ACL 2025](https://2025.aclweb.org/)** (Vienna, Austria), which was accepted to ACL Findings--read our preprint [here](https://arxiv.org/abs/2503.08042)
+
+        - **July 21–24, 2025**: Accepted to present at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)*, the International Conference for Computational Social Science, on my PhD frameworks for modelling, and evaluating methods for assessing, conceptual change: "SIBling" & "LSC-Eval" (Norrköping, Sweden).
+
+        - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP - Suzhou, China; submissions due June 13).
+
+        - Serving on the *[NLP4Democracy (NLP for Democracy)](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee, the first workshop held at COLM 2025 (on October 10 in Montreal; non-archival 2-page abstracts due June 19).
 
         - New *corpus data* + *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
-
-        - Committed my recent PhD paper to **[ACL 2025](https://2025.aclweb.org/)** - read our preprint [here](https://arxiv.org/abs/2503.08042)
-
-        - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee, 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP - Suzhou, China).
 
         </div>
     design:

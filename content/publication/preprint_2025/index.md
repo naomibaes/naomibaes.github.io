@@ -1,5 +1,5 @@
 ---
-title: 'A General Framework to Evaluate Methods for Assessing Dimensions of Lexical Semantic Change Using LLM-Generated Synthetic Data'
+title: 'LSC-Eval: A General Framework to Evaluate Methods for Assessing Dimensions of Lexical Semantic Change Using LLM-Generated Synthetic Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,10 +26,10 @@ publishDate: ""
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "ACL Findings (accepted)"
 publication_short: ""
 
-abstract: Lexical Semantic Change (LSC) offers insights into cultural and social dynamics. Yet, the validity of methods for measuring kinds of LSC has yet to be established due to the absence of historical benchmark datasets. To address this gap, we develop a novel three-stage evaluation framework that involves; 1) creating a scalable, domain-general methodology for generating synthetic datasets that simulate theory-driven LSC across time, leveraging In-Context Learning and a lexical database; 2) using these datasets to evaluate the effectiveness of various methods; and 3) assessing their suitability for specific dimensions and domains. We apply this framework to simulate changes across key dimensions of LSC (SIB; Sentiment, Intensity, and Breadth) using examples from psychology, and evaluate the sensitivity of selected methods to detect these artificially induced changes. Our findings support the utility of the synthetic data approach, validate the efficacy of tailored methods for detecting synthetic changes in SIB, and reveal that a state-of-the-art LSC model faces challenges in detecting affective dimensions of LSC. This framework provides a valuable tool for dimension- and domain-specific bench-marking and evaluation of LSC methods, with particular benefits for the social sciences. 
+abstract: Lexical Semantic Change (LSC) provides insight into cultural and social dynamics. Yet, the validity of methods for measuring different kinds of LSC remains unestablished due to the absence of historical benchmark datasets. To address this gap, we propose LSC-Eval, a novel three-stage general-purpose evaluation framework to: (1) develop a scalable methodology for generating synthetic datasets that simulate theory-driven LSC using In-Context Learning and a lexical database; (2) use these datasets to evaluate the sensitivity of computational methods to synthetic change; and (3) assess their suitability for detecting change in specific dimensions and domains. We apply LSC-Eval to simulate changes along the Sentiment, Intensity, and Breadth (SIB) dimensions, as defined in the SIBling framework, using examples from psychology. We then evaluate the ability of selected methods to detect these controlled interventions. Our findings validate the use of synthetic benchmarks, demonstrate that tailored methods effectively detect changes along SIB dimensions, and reveal that a state-of-the-art LSC model faces challenges in detecting affective dimensions of LSC. LSC-Eval offers a valuable tool for dimension- and domain-specific benchmarking of LSC methods, with particular relevance to the social sciences. 
 
 # Summary. An optional shortened abstract.
 summary: We introduce a scalable, domain-general framework that creates diachronic, LLM-generated synthetic datasets to simulate theory-driven Lexical Semantic Change (LSC) and evaluates various methods for measuring kinds of LSC--using examples from psychology, we apply this framework to assess the sensitivity of a suite of methods in detecting artificially induced changes in dimensions of Sentiment, Intensity, and Breadth (SIB), ultimately identifying the most suitable approach for each dimension.
