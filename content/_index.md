@@ -36,12 +36,14 @@ sections:
       subtitle: ''
       text: |-
         My research investigates how concepts change meaning over time, focusing on mental health. With my PhD supervisors, I have developed a novel framework - **SIBling** - and measures to model lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches.  
+
         **Key Contributions:**
         - **SIBling:** A theoretical model integrating insights from historical linguistics and psychology, reducing six types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Prototype]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)
         - **SIB Toolkit:** Our computational implementation of SIBling, quantifying semantic change across SIB, plus related features (**salience** and **thematic content**). Designed for broad application across the social sciences and language genres (scientific, media, everyday).  
         - **LSC-Eval:** An evaluation framework that uses LLM-generated synthetic corpora to simulate *kinds* of LSC and validate LSC detection methods, identifying optimal dimension- and domain-specific approaches. [[Prototype]](https://naomibaes.github.io/publication/preprint_2025/) 
         - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), analysing related social and cultural dynamics like **concept creep**, **pathologisation**, and **stigmatisation**.  
-        This program contributes by: (1) offering a multidimensional model of conceptual chnge (*SIBling*), (2) developing or identifying computational tools for its application, (3) establishing a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrating its value through detailed case studies. It lays the groundwork for future extensions across domains (e.g., law, humanities) and languages.
+
+        This program contributes by: (1) offering a multidimensional model of conceptual change (*SIBling*), (2) developing or identifying computational tools for its application, (3) establishing a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrating its value through detailed case studies. It lays the groundwork for future extensions across domains (e.g., law, humanities) and languages.
 
     design:
       columns: '1' 
