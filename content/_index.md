@@ -35,7 +35,7 @@ sections:
       title: 'Research Program'
       subtitle: ''
       text: |-
-        My research investigates how concepts change their meaning, focusing on mental health. With my PhD supervisors, I have developed a novel linguistic framework - **SIBling** - and measures to model lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches.  
+        My research investigates how concepts change their meaning, focusing on mental health. With my PhD supervisors, I have developed a novel linguistic framework (**SIBling**) and measures to model lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches.  
 
         **Key Contributions:**
         - **SIBling:** A theoretical model integrating insights from historical linguistics and psychology, reducing six types of LSC into three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Prototype]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)
