@@ -44,7 +44,6 @@ sections:
         - **Applications:** I apply this framework to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), analysing related social and cultural dynamics like **concept creep**, **pathologisation**, and **stigmatisation**.  
 
         This program contributes by: (1) offering a multidimensional model of conceptual change (*SIBling*), (2) developing or identifying computational tools for its application, (3) establishing a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrating its value through detailed case studies. It lays the groundwork for future extensions across domains (e.g., law, humanities) and languages.
-
     design:
       columns: '1' 
   - block: collection
