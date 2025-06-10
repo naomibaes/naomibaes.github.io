@@ -43,7 +43,7 @@ sections:
         - **LSC-Eval:** An evaluation framework that uses LLM-generated synthetic corpora to simulate *kinds* of LSC and validate LSC detection methods, identifying optimal dimension- and domain-specific approaches. [[Prototype]](https://naomibaes.github.io/publication/preprint_2025/) 
         - **Applications:** I apply SIBling to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), analysing related cultural dynamics like **concept creep**, **pathologisation**, and **stigmatisation**.  
 
-        This program: (1) offers a multidimensional model of conceptual change (*SIBling*), (2) develops or identifies computational tools for its application, (3) establishes a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrates its value through detailed case studies. This body of work lays the groundwork for future extensions across language domains, disciplines (e.g., law, humanities) and languages.
+        This program: (1) offers a multidimensional model of conceptual change (*SIBling*), (2) develops or identifies computational tools for its application, (3) establishes a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrates its value through detailed case studies. This body of work lays the groundwork for future extensions across disciplines (e.g., law, humanities) and languages.
     design:
       columns: '1' 
   - block: collection
