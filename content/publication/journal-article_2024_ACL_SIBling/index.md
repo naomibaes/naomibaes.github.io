@@ -66,5 +66,5 @@ projects:
 slides: example
 ---
 
-This work is the first major study in my PhD program: https://www.slideshare.net/slideshow/naomi-baess-phd-confirmation-presentation-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/266702645.
+This work outlines the core of my PhD thesis. See slides from my ACL Main Conference presentation here: [A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications](https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049).
 
