@@ -111,17 +111,17 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **July 22–24, 2025**: Come meet me at *[IC2S2'25 Norrköping](https://www.ic2s2-2025.org/)* (Norrköping, Sweden), the International Conference on Computational Social Science, where I’ll be presenting a **poster** on two frameworks for modeling — and evaluating methods for modeling — conceptual change: [**SIBling**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/).
+        - **July 22–24, 2025**: Come meet me at *[IC2S2'25](https://www.ic2s2-2025.org/)* (Norrköping, Sweden), the International Conference on Computational Social Science, where I’ll be presenting a **poster** on two frameworks for modeling — and evaluating methods for modeling — conceptual change: [**SIBling**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/).
 
-        - **July 28, 2025**: Come meet me at **[ACL 2025](https://2025.aclweb.org/)** The 63rd Annual Meeting of the Association for Computational Linguistics (Vienna, Austria) during Poster Session 5 (6:00–7:30 PM), where I’ll be presenting our ACL Findings paper — [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/): *A General Evaluation Framework for Assessing Methods for Measuring Lexical Semantic Change with LLM-Generated Synthetic Data.*
+        - **July 28, 2025**: Come meet me at **[ACL 2025](https://2025.aclweb.org/)** The 63rd Annual Meeting of the Association for Computational Linguistics (Vienna, Austria) during **Poster Session 5 (6:00–7:30 PM)**, where I’ll be presenting our ACL Findings paper — [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/): *A General Evaluation Framework for Assessing Methods for Measuring Lexical Semantic Change with LLM-Generated Synthetic Data.*
 
-        - Excited to be interning with **[Change is Key!](https://www.changeiskey.org/about/)** — an international research program (2022–2027) developing computational tools to trace how language, society, and culture evolve. The project applies NLP and corpus-based methods to detect semantic change and variation, supporting interdisciplinary research across linguistics, digital humanities, and the social sciences.
+        - Excited to be interning with **[Change is Key!](https://www.changeiskey.org/about/)** — an international research program developing computational tools to trace how language, society, and culture evolve. It applies NLP and corpus-based methods to detect semantic change and variation, supporting interdisciplinary research across linguistics, digital humanities, and the social sciences.
 
         - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee — the 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP in Suzhou, China).
 
-        - Serving on the *[NLP4Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee — the first workshop on NLP for Democracy, held at COLM 2025 (October 10, Montreal).
+        - Serving on the *[NLP4Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee — the first workshop on NLP for Democracy, held at COLM 2025 (October 10, Montreal, Canada).
 
-        - New *corpus data* and *scripts* now publicly available — see the [Resources](https://naomibaes.github.io/resources/) tab.
+        - New *corpus data* and *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
         </div>
     design:
