@@ -121,7 +121,7 @@ sections:
 
         - Serving on the *[NLP4Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee — the first workshop on NLP for Democracy, held at COLM 2025 (October 10, Montreal, Canada).
 
-        - New *corpus data* and *scripts* now publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
+        - New *corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
         </div>
     design:
