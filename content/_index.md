@@ -119,7 +119,7 @@ sections:
 
         - Serving on the *[SEM 2025](https://www.aclweb.org/portal/content/14th-joint-conference-lexical-and-computational-semantics)* Program Committee — the 14th Joint Conference on Lexical and Computational Semantics (co-located with EMNLP in Suzhou, China).
 
-        - Serving on the *[NLP4Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee — the first workshop on NLP for Democracy, held at COLM 2025 (October 10, Montreal, Canada).
+        - Serving on the *[NLP4Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/)* Program Committee — the first workshop on NLP for Democracy, held at COLM 2025 (Montreal, Canada).
 
         - New *corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
