@@ -23,10 +23,10 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["ACL Findings"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL Findings (accepted)"
+publication: "ACL Findings"
 publication_short: ""
 
 abstract: "Lexical Semantic Change (LSC) provides insight into cultural and social dynamics. Yet, the validity of methods for measuring different kinds of LSC remains unestablished due to the absence of historical benchmark datasets. To address this gap, we propose LSC-Eval, a novel three-stage general-purpose evaluation framework to: (1) develop a scalable methodology for generating synthetic datasets that simulate theory-driven LSC using In-Context Learning and a lexical database; (2) use these datasets to evaluate the sensitivity of computational methods to synthetic change; and (3) assess their suitability for detecting change in specific dimensions and domains. We apply LSC-Eval to simulate changes along the Sentiment, Intensity, and Breadth (SIB) dimensions, as defined in the SIBling framework, using examples from psychology. We then evaluate the ability of selected methods to detect these controlled interventions. Our findings validate the use of synthetic benchmarks, demonstrate that tailored methods effectively detect changes along SIB dimensions, and reveal that a state-of-the-art LSC model faces challenges in detecting affective dimensions of LSC. LSC-Eval offers a valuable tool for dimension- and domain-specific benchmarking of LSC methods, with particular relevance to the social sciences." 
@@ -42,10 +42,10 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2503.08042
+url_pdf: https://aclanthology.org/2025.findings-acl.570/
 url_code: 'https://github.com/naomibaes/LSCD_method_evaluation'
 url_dataset: 'https://github.com/naomibaes/Synthetic-LSC_pipeline'
-url_poster: ''
+url_poster: 'https://bsky.app/profile/naomibaes.bsky.social/post/3luy2bzqd2s2u'
 url_project: ''
 url_slides: ''
 url_source: ''
