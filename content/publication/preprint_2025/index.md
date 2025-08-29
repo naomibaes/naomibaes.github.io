@@ -47,7 +47,7 @@ url_code: 'https://github.com/naomibaes/LSCD_method_evaluation'
 url_dataset: 'https://github.com/naomibaes/Synthetic-LSC_pipeline'
 url_poster: 'https://bsky.app/profile/naomibaes.bsky.social/post/3luy2bzqd2s2u'
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.slideshare.net/slideshow/lsc-eval-a-general-framework-to-evaluate-methods-for-assessing-dimensions-of-lexical-semantic-change-using-llm-generated-synthetic-data/282770740'
 url_source: ''
 url_video: ''
 
