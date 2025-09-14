@@ -111,7 +111,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **12 Sept 2025 @ 3:30 PM** — Presenting *“Dimensions of Semantic Change: Validation and Application of the SIBling Framework”* at the **University of Gothenburg** (Humanisten). Part of the full-day conference *Change is Key! – Using LLMs in the Humanities and Social Sciences* ([event link](https://www.gu.se/en/event/change-is-key-using-llms-in-the-humanities-and-social-sciences)).
+        - Giving several invited talks: **12 Sept 2025 @ 3:30 PM** — Presenting *“Dimensions of Semantic Change: Validation and Application of the SIBling Framework”* at the **University of Gothenburg** (Humanisten). Part of the full-day conference *Change is Key! – Using LLMs in the Humanities and Social Sciences* ([event link](https://www.gu.se/en/event/change-is-key-using-llms-in-the-humanities-and-social-sciences)).
 
         - **5 Aug – 30 Sept 2025** — [Interning](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)** (8 weeks). The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
 
