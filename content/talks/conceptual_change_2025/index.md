@@ -1,7 +1,7 @@
 ---
 title: "Dimensions of Semantic Change: Validation and Application of the SIBling Framework"
 
-event: Change is Key! – Using LLMs in the Humanities and Social Sciences
+events: 1) Change is Key! Conference – Using LLMs in the Humanities and Social Sciences; 2) Lab Talk - National Research Council Canada
 event_url: https://www.gu.se/en/event/change-is-key-using-llms-in-the-humanities-and-social-sciences
 
 location: University of Gothenburg, Department of Philosophy, Linguistics and Theory of Science 
