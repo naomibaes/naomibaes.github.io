@@ -31,7 +31,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '' #'Image credit: [**Unsplash**](https://x.com/naomi_baes/status/1822225205822996539)'
