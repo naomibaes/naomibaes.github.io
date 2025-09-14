@@ -14,8 +14,8 @@ all_day: false
 
 publishDate: 2025-04-22T00:00:00Z
 
-summary: "Modelling conceptual change with SIBling (Sentiment, Intensity, Breadth) and LSC-Eval."
-abstract: "Slides available via the link below."
+summary: "Presented my PhD work on modelling conceptual change using two developed frameworks: (1) SIBling, a linguistic model of semantic change; and (2) LSC-Eval, a general-purpose framework for evaluating methods for assessing dimensions of semantic change."
+abstract: "Presented my PhD work on modelling conceptual change using two developed frameworks: (1) SIBling, a linguistic model of semantic change; and (2) LSC-Eval, a general-purpose framework for evaluating methods for assessing dimensions of semantic change.Slides available via the link above."
 url_slides: "https://www.slideshare.net/slideshow/dimensions-of-semantic-change-validation-and-application-of-the-sibling-framework/283131650"
 
 authors: ["admin"]
