@@ -111,13 +111,11 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - Giving several invited talks: **12 Sept 2025 @ 3:30 PM** — Presenting *“Dimensions of Semantic Change: Validation and Application of the SIBling Framework”* at the **University of Gothenburg** (Humanisten). Part of the full-day conference *Change is Key! – Using LLMs in the Humanities and Social Sciences* ([event link](https://www.gu.se/en/event/change-is-key-using-llms-in-the-humanities-and-social-sciences)).
+        - Delighted to share my PhD research in recent and upcoming invited talks in September at the Change is Key! conference in Gothenburg, Utrecht, NRC Canada — with more to come at the Mental Health Conference this October!
 
         - **5 Aug – 30 Sept 2025** — [Interning](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)** (8 weeks). The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
 
-        - **28 July 2025** — Presented our ACL Findings paper [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/): *A General Evaluation Framework for Assessing Methods for Measuring Lexical Semantic Change with LLM-Generated Synthetic Data*, at **[ACL 2025](https://2025.aclweb.org/)** (Vienna, Austria) during **Poster Session 5 (6:00–7:30 PM)**.
-
-        - **23 July 2025** — Presented a **poster** on two frameworks for modeling conceptual change — [**SIBling**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/) — at *[IC2S2’25](https://www.ic2s2-2025.org/)* (Norrköping, Sweden), the International Conference on Computational Social Science.
+        - Happy to have presented our new method evaluation framework [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/): *A General Evaluation Framework for Assessing Methods for Measuring Lexical Semantic Change with LLM-Generated Synthetic Data*, at **[ACL 2025, Vienna](https://2025.aclweb.org/)** two frameworks for modeling conceptual change — [**SIBling**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/) — at *[IC2S2’25](https://www.ic2s2-2025.org/)* (Norrköping), the International Conference on Computational Social Science.
         
         - New *corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
