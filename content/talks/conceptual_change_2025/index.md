@@ -1,7 +1,7 @@
 ---
 title: "Dimensions of Semantic Change: Validation and Application of the SIBling Framework"
 
-event:
+events:
   - name: "Change is Key! Conference"
     date: "2025-09-12"
     url: "https://www.gu.se/en/event/change-is-key-using-llms-in-the-humanities-and-social-sciences"
