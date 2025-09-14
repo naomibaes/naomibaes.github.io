@@ -111,7 +111,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - Delighted to share my PhD research in recent and upcoming invited talks in September at the Change is Key! conference in Gothenburg, Utrecht, NRC Canada — and at the Mental Health Conference this October!
+        - Delighted to share my PhD research in recent and upcoming invited talks in September at (1) the Change is Key! conference in Gothenburg, (2) University of Utrecht, (3) NRC Canada — and at the (4) Mental Health Conference this October!
 
         - **5 Aug – 30 Sept 2025** — [Interning](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)** (8 weeks). The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
 

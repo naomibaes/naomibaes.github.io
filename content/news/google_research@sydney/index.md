@@ -1,6 +1,6 @@
 ---
 title: Google Research @ Sydney Event
-summary: Honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia with my colleague and lab mate. 
+summary: Honoured to have been selected to attend the Google Research @ Sydney Event at the first Google research facility in Australia. 
 date: 2025-02-18
 type: post
 authors:
