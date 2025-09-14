@@ -47,9 +47,9 @@ profiles:
 interests:
   - Computational Linguistics
   - Computational Social Science
+  - Language Change
   - Natural Language Processing
   - Psychology
-  - Language Change
 
 education:
   - area: PhD, Psychology/ Natural Language Processing
