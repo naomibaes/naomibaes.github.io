@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate - Computational Social Science (Psychology x Natural Language Processing)
+role: PhD Candidate - Computational Social Science (Psychology x NLP)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
