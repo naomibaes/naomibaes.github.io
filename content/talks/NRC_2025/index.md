@@ -7,8 +7,8 @@ address:
   country: Canada
 
 # Talk start/end
-date: 2025-09-16T09:30:00+02:00
-date_end: 2025-09-16T10:30:00+02:00
+date: 2025-24-16T09:30:00+02:00
+date_end: 2025-24-16T10:30:00+02:00
 all_day: false
 
 publishDate: 2025-05-10T00:00:00Z
