@@ -11,7 +11,8 @@ date: 2025-09-24T09:30:00+02:00
 date_end: 2025-09-24T10:30:00+02:00
 all_day: false
 
-publishDate: 2025-09-24T00:00:00Z
+publishDate: 2025-09-24T00:00:00+02:00
+
 
 
 summary: "Invited talk (thanks to Principal Research Scientist Saif M Mohammad) at the National Research Council Canada on two complementary frameworks for studying lexical semantic change: (1) SIBling, which models change along three dimensions (Sentiment, Intensity, Breadth); and (2) LSC-Eval, which generates synthetic benchmarks for evaluating the suitability of methods for their sensitivity to detecting induced change. Together, they provide tools for tracing socially significant conceptual shifts, with demonstrated applications to mental health-related concepts."
