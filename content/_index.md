@@ -36,9 +36,9 @@ sections:
       subtitle: ''
       text: |-
 
-        Broadly speaking, I use computational approaches to study how language reflects social and cultural change and variation. My work develops theory-driven measures to quantify social and psychological constructs by combining insights from linguistics and psychology with methods from Natural Language Processing (a subfield of Artificial Intelligence), Computational Linguistics, and statistics. Because labeled data are scarce in the social sciences, I have primarily used pretrained language models, unsupervised learning, and normed lexical resources. My current focus is on tracing how societally relevant concepts—such as *mental health*, *trauma*, and *gender*—evolve in meaning over time using large language models and historical text corpora.
+        Broadly speaking, I use computational approaches to study how language reflects social and cultural change and variation. My work develops theory-driven measures to quantify linguistic, psychological, and social constructs by combining insights from linguistics and psychology with methods from Natural Language Processing (a subfield of Artificial Intelligence), and computational linguistics. Because labeled data are scarce in the social sciences, I primarily use pretrained language models, unsupervised learning, normed lexical resources, and statistical modelling. My current focus is to trace how societally relevant concepts evolve in meaning over time using language models and historical text corpora.
 
-        With my PhD supervisors, I have developed a novel linguistic framework (**SIBling**) and measures to model lexical semantic change (LSC) along three dimensions that are typically overlooked by existing approaches.  
+        With my PhD supervisors, I have developed a linguistic framework (SIBling) and associated measures to model lexical semantic change (LSC) along three major dimensions that are typically overlooked by existing approaches.
 
         **Key Contributions:**
         - **SIBling:** A theoretical model integrating insights from historical linguistics and psychology, reducing six types of LSC to three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Prototype]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)
@@ -47,6 +47,7 @@ sections:
         - **Applications:** I apply SIBling to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), analysing related cultural dynamics like **concept creep**, **pathologisation**, and **stigmatisation**.  
 
         This program: (1) offers a multidimensional model of semantic change (*SIBling*), (2) develops computational tools for its application (*SIB Toolkit*), (3) establishes a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrates its value through detailed case studies. Together, these efforts lays the groundwork for future extensions across disciplines (e.g., law, humanities), domains, and languages.
+
     design:
       columns: '1' 
   - block: collection
