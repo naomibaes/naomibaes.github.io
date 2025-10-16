@@ -19,6 +19,6 @@ abstract: "Mental health-related concepts have risen in prominence and changed t
 url_slides: "https://www.slideshare.net/slideshow/semantic-shifts-in-mental-health-related-concepts/283693660"
 
 authors: ["admin"]
-featured: false
+featured: true
 projects: []
 ---
