@@ -1,8 +1,9 @@
 ---
 title: "What should we call mental ill health? Historical shifts in the popularity of generic terms"
 authors:
-- admin
 - Nick Haslam
+- admin
+
 date: "2024-06-04T00:00:00Z"
 doi: ""
 
@@ -63,4 +64,4 @@ projects:
 slides: example
 ---
 
-We wrote a piece on the study in THE CONVERSATION: https://theconversation.com/mental-illness-psychiatric-disorder-or-psychological-problem-what-should-we-call-mental-distress-226748?utm_medium=Social&utm_source=Twitter#Echobox=1717543647-1
+We wrote a piece on our study in THE CONVERSATION: https://theconversation.com/mental-illness-psychiatric-disorder-or-psychological-problem-what-should-we-call-mental-distress-226748?utm_medium=Social&utm_source=Twitter#Echobox=1717543647-1
