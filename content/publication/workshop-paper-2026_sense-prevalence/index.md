@@ -34,7 +34,7 @@ summary: We introduce a novel sense-aware pipeline for distinguishing word sense
 tags:
 - Diachronic Word Sense Disambiguation
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
