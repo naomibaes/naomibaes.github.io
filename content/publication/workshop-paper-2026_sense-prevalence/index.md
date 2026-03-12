@@ -20,7 +20,7 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["6th International Workshop on Computational Approaches to Language Change 2026 (LChange'26)"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "6th International Workshop on Computational Approaches to Language Change 2026, associated with EACL 2026, Rabat, Morocco, 24–29 March 2026"
