@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2026-03-28T00:00:00Z'
+date: '2026-03-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ summary: We introduce a novel sense-aware pipeline for distinguishing word sense
 tags:
 - Diachronic Word Sense Disambiguation
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
