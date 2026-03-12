@@ -23,16 +23,13 @@ publishDate: ""
 publication_types: ["6th International Workshop on Computational Approaches to Language Change 2026 (LChange'26)"]
 
 # Publication name and optional abbreviated publication name.
-publication: "6th International Workshop on Computational Approaches to Language Change 2026 (LChange'26)"
+publication: "6th International Workshop on Computational Approaches to Language Change 2026 (LChange'26), associated with EACL 2026, Rabat, Morocco, 24–29 March 2026"
 publication_short: ""
 
 abstract: "Polysemous words pose a challenge for computational approaches to language change. We extend a recent hypothesis-driven, prototype-based framework to estimate word sense prevalence in diachronic text corpora and apply it to 109,940 usages of schizophrenia drawn from U.S. news media (1985–2025). Our extensions include a contextual dispersion measure (Breadth), robust prototype construction, and human-calibrated prototype-similarity thresholds for conservative sense assignment at scale. Across four decades, distributional semantic change indices commonly used in lexical semantic change detection (LSCD) show significant increases in Breadth and baseline-relative semantic drift (APD), while changes in the central usage prototype (PRT) are influenced by term frequency. In contrast, threshold-calibrated sense assignments reveal stable sense proportions: the psychiatric sense remains dominant, with split-personality and metaphorical senses consistently marginal. Together, these results demonstrate that dispersion- and drift-based LSCD metrics can increase even under stable sense prevalence, indicating that such increases can occur without sense redistribution and primarily reflect broad shifts in usage distributions rather than evidence of polysemization or sense loss. We introduce a threshold-calibrated, prototype-based sense-tracking pipeline that enables conservative sense prevalence estimation at scale and clarifies whether rising distributional LSCD metrics reflect sense redistribution or increasing contextual diversity when historical sense annotation is limited." 
 
 # Summary. An optional shortened abstract.
 summary: We introduce a novel sense-aware pipeline for distinguishing word senses in context and tracking their prevalence over time in text corpora. Using schizophrenia in historical U.S. news articles as a case study, it shows how semantic broadening can be distinguished from sense redistribution by combining word sense disambiguation with lexical semantic change detection metrics.
-
-Presented at the 6th International Workshop on Computational Approaches to Language Change (LChange’26), associated with EACL 2026, Rabat, Morocco, 24–29 March 2026.
-
 
 tags:
 - Diachronic Word Sense Disambiguation
