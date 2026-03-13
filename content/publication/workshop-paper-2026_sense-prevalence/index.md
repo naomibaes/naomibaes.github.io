@@ -44,7 +44,7 @@ url_code: 'https://github.com/naomibaes/threshold-calibrated_wsd'
 url_dataset: ' '
 url_poster: ' '
 url_project: ''
-url_slides: 'https://www.slideshare.net/slideshow/threshold-calibrated-word-sense-disambiguation-for-semantic-change-analysis-in-schizophrenia/286470569'
+url_slides: 'https://www.slideshare.net/slideshow/threshold-calibrated-word-sense-disambiguation-semantic-broadening-without-sense-redistribution-in-schizophrenia/286484945#6'
 url_source: ''
 url_video: ''
 
