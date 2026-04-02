@@ -36,17 +36,13 @@ sections:
       subtitle: ''
       text: |-
 
-        Broadly speaking, I use computational approaches to study how language reflects social and cultural change, treating it as a window into the human mind and society. My work develops theory-driven measures to quantify linguistic, psychological, and social constructs by integrating insights from linguistics and psychology with methods from computational linguistics and Natural Language Processing (a subfield of Artificial Intelligence). Because labeled data are scarce in the social sciences, I primarily use pretrained language models, unsupervised learning, normed lexical resources, and statistical modelling. My current focus is on tracing how societally relevant concepts evolve in meaning over time using large language models and historical text corpora.
-
-        With my PhD supervisors, I have developed a linguistic framework (SIBling) and associated measures to model lexical semantic change (LSC) along three major dimensions that are typically overlooked by existing approaches.
-
+        Broadly, my research uses computational methods to study how socially meaningful concepts change over time, and how those shifts reflect wider cultural and social dynamics. Working at the intersection of psychology, linguistics, and natural language processing, I develop theory-driven approaches for tracing conceptual change in historical text corpora using contextual embeddings, large language models, lexical resources, and statistical modelling. My current work focuses especially on mental health-related concepts and their changing representation across scientific, media, and everyday language.
+    
         **Key Contributions:**
-        - **SIBling:** A theoretical model integrating insights from historical linguistics and psychology, reducing six types of LSC to three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Prototype]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)        
-        - **SIB Toolkit:** A computational implementation of SIBling that quantifies semantic change across SIB, and complementary features (**salience** and **thematic content**). Designed for broad application across the social sciences and language domains (scientific, media, everyday).  
-        - **LSC-Eval:** An evaluation framework that uses LLM-generated synthetic corpora to simulate kinds of LSC and validate LSC detection methods, identifying optimal dimension- and domain-specific approaches. [[Prototype]](https://naomibaes.github.io/publication/preprint_2025/) 
-        - **Applications:** Applying SIBling to trace the historical semantic evolution of mental health-related concepts (e.g., *autism*, *schizophrenia*), my research examines broader cultural dynamics such as **concept creep**, **pathologisation**, and **stigmatisation**.  
-
-        This program: (1) offers a multidimensional model of semantic change (*SIBling*), (2) develops computational tools for its application (*SIB Toolkit*), (3) establishes a principled evaluation framework for LSC detection methods (*LSC-Eval*), and (4) demonstrates its value through detailed case studies. Together, these efforts lays the groundwork for future extensions across disciplines (e.g., law, humanities), domains, and languages.
+        - **SIBling:** A multidimensional framework for modelling lexical semantic change across three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Paper]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)
+        - **SIB Toolkit:** A computational implementation of SIBling for measuring semantic change across SIB and related features such as **salience** and **thematic content** across scientific, media, and everyday domains.
+        - **LSC-Eval:** A benchmarking framework that uses LLM-generated synthetic historical data to evaluate methods for detecting lexical semantic change and identify dimension- and domain-sensitive approaches.  [[Paper]](https://naomibaes.github.io/publication/preprint_2025/)
+        - **Applications:** Case studies of mental health-related concepts such as *autism* and *schizophrenia*, examining broader cultural dynamics including **concept creep**, **pathologisation**, and **stigmatisation**.                      Together, this research program develops new ways of modelling conceptual change, evaluating computational methods, and applying them to socially significant questions across languages, domains and disciplines.
 
     design:
       columns: '1' 
@@ -111,17 +107,17 @@ sections:
 
   - block: markdown
     content:
-      title: Quick Updates
+      title: Highlights
       text: |
         <div style="font-size: 1rem">
 
-        - Delighted to share my PhD research at (1) the Change is Key! conference in Gothenburg (Sweden), (2) University of Utrecht (Netherlands), (3) National Research Council Canada and (4) the Mental Health PhD Program Conference!
+        - Delighted to share my PhD research at (1) the Change is Key! conference in Gothenburg (Sweden), (2) University of Utrecht (Netherlands), (3) National Research Council Canada, (4) the Mental Health PhD Program Conference!, and (5) The LChange'26 Workshop, colocated with EACL.
 
         - **5 Aug – 30 Sept 2025** — [Interned](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)**. The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
 
-        - Presented our new method evaluation framework [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/): *A General Evaluation Framework for Assessing Methods for Measuring Lexical Semantic Change with LLM-Generated Synthetic Data*, at **[ACL 2025, Vienna](https://2025.aclweb.org/)** two frameworks for modeling conceptual change — [**SIBling**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](https://naomibaes.github.io/publication/preprint_2025/) — at *[IC2S2’25](https://www.ic2s2-2025.org/)* (Norrköping), the International Conference on Computational Social Science.
+        - New method/pipeline for tracking the prevalence of word senses in historical text corpora: [link](https://www.linkedin.com/feed/update/urn:li:activity:7443471238037106688/?originTrackingId=xIHOlBlkEQxOUDp18rzxEQ%3D%3D)
         
-        - New *corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
+        - *Corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
         </div>
     design:
