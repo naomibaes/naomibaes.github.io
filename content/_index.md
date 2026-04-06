@@ -43,7 +43,7 @@ sections:
         - **SIB Toolkit:** A computational implementation of SIBling for measuring semantic change across SIB and related features such as *salience* and *thematic content* across scientific, media, and everyday domains.  
         - **LSC-Eval:** A benchmarking framework that uses LLM-generated synthetic historical data to evaluate methods for detecting lexical semantic change and identify dimension- and domain-sensitive approaches. [[Paper]](https://naomibaes.github.io/publication/preprint_2025/) 
         - **Sense-tracking pipeline**, for estimating the prevalence of word senses in historical text corpora, to assist with LSC interpretability. [[Paper]](https://aclanthology.org/2026.lchange-1.5/)
-        - **Applications:** Case studies of mental health-related concepts, such as schizophrenia and autism, examining broader cultural trends including *concept creep*, *pathologisation*, and *stigmatisation*.  
+        - **Applications:** Case studies of mental health-related concepts, such as *schizophrenia* and *autism*, examining broader cultural trends including *concept creep*, *pathologisation*, and *stigmatisation*.  
 
     design:
       columns: '1' 
