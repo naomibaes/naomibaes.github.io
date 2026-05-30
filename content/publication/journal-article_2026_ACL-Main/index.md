@@ -27,9 +27,9 @@ publication_types: ["paper-conference"]
 publication: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics"
 publication_short: "ACL 2026"
 
-abstract: "Polysemy allows a single word to express multiple related meanings, reflecting both conceptual and affective aspects of language change. We introduce the first sense-level benchmark for modeling semantic relations between word senses that combines denotational and connotational aspects of meaning. The benchmark distinguishes denotational relations, including generalization, specialization, homonymy, metonymy, and metaphor, alongside connotational dimensions of valence and arousal. We evaluate large language models and fine-tuned models on their ability to classify sense relations and align with human affective judgments. Results show that GPT-4o aligns most strongly with human judgments of connotational meaning, while a fine-tuned RoBERTa model performs best for denotational relation classification."
+abstract: "Polysemy enables a single word to convey multiple related meanings, reflecting the conceptual and emotional aspects of language evolution. We introduce the first sense-level benchmark for modeling semantic relations between word senses, uniting denotational and connotational aspects of meanings. The benchmark distinguishes denotational relations, such as generalization or metaphor, as well as two connotational dimensions: valence and arousal. We evaluate large language models (LLMs), GPT-4o, Llama 3.1, and DeepSeek, in zero-shot and fine-tuned settings. Results show that GPT-4o best aligns with human affective judgments, while a fine-tuned RoBERTa model excels at classifying denotational relations."
 
-summary: "We introduce a sense-level benchmark for modeling semantic relations between word senses, combining denotational relation types with connotational dimensions of valence and arousal, and evaluating how well LLMs and fine-tuned models align with human judgments."
+summary: "We introduce the first sense-level benchmark for modeling denotational and connotational relations between word senses, combining semantic relation types with valence and arousal judgments to evaluate humans, LLMs, and fine-tuned models."
 
 tags:
   - Lexical Semantics
