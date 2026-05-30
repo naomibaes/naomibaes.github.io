@@ -36,14 +36,8 @@ sections:
       subtitle: ''
       text: |-
 
-        Broadly, my research uses computational methods to study how socially meaningful concepts change over time, and how those shifts reflect wider cultural and societal dynamics. At the intersection of psychology, linguistics, and natural language processing, I develop theory-driven approaches for tracing conceptual change in historical text corpora using contextual embeddings, large language models, lexical resources, and statistical modelling. My current work focuses especially on mental health-related concepts and how their meanings and representations shift across scientific, media, and everyday language. This research program develops new ways of modelling conceptual change, evaluating computational methods, and applying them to important societal and cultural questions across languages, domains and disciplines.
+        Broadly, my research uses computational methods to study how meanings and concepts change over time, and how those shifts reflect wider cultural and social dynamics. At the intersection of NLP, computational social science, and psychology, I develop theory-informed approaches for tracing semantic and conceptual change in historical text corpora using contextual embeddings, large language models, lexical resources, and statistical modeling. My current work focuses especially on mental health language, media discourse, and socially contested language.
 
-        **Key Contributions:**
-        - **SIBling:** A multidimensional framework for modelling lexical semantic change across three core dimensions: **Sentiment, Intensity, and Breadth (SIB)**. [[Paper]](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/)        
-        - **SIB Toolkit:** A computational implementation of SIBling for measuring semantic change across SIB and related features such as *salience* and *thematic content* across scientific, media, and everyday domains.  
-        - **LSC-Eval:** A benchmarking framework that uses LLM-generated synthetic historical data to evaluate methods for detecting lexical semantic change and identify dimension- and domain-sensitive approaches. [[Paper]](https://naomibaes.github.io/publication/preprint_2025/) 
-        - **Sense-tracking pipeline**, for estimating the prevalence of word senses in historical text corpora, to assist with LSC interpretability. [[Paper]](https://aclanthology.org/2026.lchange-1.5/)
-        - **Applications:** Case studies of mental health-related concepts, such as *mental health* and *schizophrenia*, examining broader cultural trends including *concept creep*, *pathologization*, and *media representations*.  
 
     design:
       columns: '1' 
@@ -55,19 +49,19 @@ sections:
       text: |-
 
         **Semantic and conceptual change**  
-        I develop computational methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
+        Methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
         Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Schizophrenia WSD](/publication/workshop-paper-2026_sense-prevalence/).
 
         **Mental health language and media discourse**  
-        I apply these methods to mental-health concepts and related terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
+        Applications to mental-health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
         Key work: trauma, schizophrenia, ADHD, anxiety/depression, and generic mental-health terminology papers.
 
         **Meaning representations in humans and language models**  
-        I study how humans and large language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
+        Benchmarking how humans and language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
         Key work: [SenseRel](/publication/journal-article_2026_ACL-Main/), [LSC-Eval](/publication/preprint_2025/).
 
         **Socially contested language**  
-        I examine how language encodes evaluation, dehumanization, identity, and cultural disagreement in domains such as mental health, online communities, and public discourse.  
+        Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
         Key work: ICWSM dehumanization paper, mental-health stigma benchmark, identity/person-first language paper, and common-good work.
 
     design:
