@@ -1,4 +1,3 @@
-```yaml
 ---
 title: 'Sense Rel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations'
 
@@ -62,4 +61,3 @@ image:
 projects: []
 slides: ""
 ---
-```
