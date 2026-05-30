@@ -47,6 +47,32 @@ sections:
 
     design:
       columns: '1' 
+      
+  - block: markdown
+    content:
+      title: 'Research Themes'
+      subtitle: ''
+      text: |-
+
+        **Semantic and conceptual change**  
+        I develop computational methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
+        Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Schizophrenia WSD](/publication/workshop-paper-2026_sense-prevalence/).
+
+        **Mental health language and media discourse**  
+        I apply these methods to mental-health concepts and related terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
+        Key work: trauma, schizophrenia, ADHD, anxiety/depression, and generic mental-health terminology papers.
+
+        **Meaning representations in humans and language models**  
+        I study how humans and large language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
+        Key work: [SenseRel](/publication/journal-article_2026_ACL-Main/), [LSC-Eval](/publication/preprint_2025/).
+
+        **Socially contested language**  
+        I examine how language encodes evaluation, dehumanization, identity, and cultural disagreement in domains such as mental health, online communities, and public discourse.  
+        Key work: ICWSM dehumanization paper, mental-health stigma benchmark, identity/person-first language paper, and common-good work.
+
+    design:
+      columns: '1'
+
   - block: collection
     id: papers
     content:
