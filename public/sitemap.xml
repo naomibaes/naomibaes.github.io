@@ -2,23 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/arousal/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/benchmarking/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/connotation/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/denotation/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/human--llm-evaluation/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/lexical-semantics/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/polysemy/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/semantic-change/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/journal-article_2026_acl-main/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/valence/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/word-senses/</loc>
+    <lastmod>2026-05-30T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/diachronic-word-sense-disambiguation/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -216,9 +264,6 @@
   </url><url>
     <loc>http://localhost:1313/project/logos_wear/</loc>
     <lastmod>2017-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2026_acl-main/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/home/</loc>
