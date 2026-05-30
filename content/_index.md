@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: 'Research Program'
@@ -38,15 +39,7 @@ sections:
 
         Broadly, my research uses computational methods to study how meanings and concepts change over time, and how those shifts reflect wider cultural and social dynamics. At the intersection of NLP, computational social science, and psychology, I develop theory-informed approaches for tracing semantic and conceptual change in historical text corpora using contextual embeddings, large language models, lexical resources, and statistical modeling. My current work focuses especially on mental health language, media discourse, and socially contested language.
 
-
-    design:
-      columns: '1' 
-      
-  - block: markdown
-    content:
-      title: 'Research Themes'
-      subtitle: ''
-      text: |-
+        **Research themes**
 
         **Semantic and conceptual change**  
         Methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
@@ -58,7 +51,7 @@ sections:
 
         **Meaning representations in humans and language models**  
         Benchmarking how humans and language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
-        Key work: [SenseRel](/publication/journal-article_2026_ACL-Main/), [LSC-Eval](/publication/preprint_2025/).
+        Key work: [SenseRel](/publication/journal-article_2026_acl-main/), [LSC-Eval](/publication/preprint_2025/).
 
         **Socially contested language**  
         Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
@@ -78,6 +71,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Selected Publications
@@ -88,6 +82,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -99,6 +94,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
@@ -138,7 +134,6 @@ sections:
 
         - **5 Aug – 30 Sept 2025** — [Interned](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)**. The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
 
-        
         - *Corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
 
         </div>
