@@ -41,13 +41,13 @@ sections:
 
         ### Research streams
 
-        My work asks how meanings and concepts change as they move across scientific, media, and public contexts, especially where the boundaries of social and psychological categories are shifting or contested. It clusters around three overlapping streams:
+        My work asks how meanings and concepts change as they move across scientific, media, and public contexts, especially where language reflects shifting boundaries between normality and pathology, harm and hardship, clinical and everyday meaning, or human and dehumanized social categories. It clusters around three overlapping streams:
 
         - **Semantic and conceptual change**  
           Developing methods for tracing how meanings shift across time, from multidimensional models of lexical semantic change to synthetic benchmarks, diachronic word-sense tracking, and recent work on how humans and language models represent meaning.  
           **Key work:** [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/journal-article_2025_acl-findings/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/), [SenseRel](/publication/journal-article_2026_acl-main/).
 
-        - **Mental health concepts across scientific, media, and general-language corpora**  
+        - **Mental health concepts and category boundaries**  
           Applying these methods to mental health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English, interpreted through psychological theory.  
           **Selected work:** Historical semantic shifts in [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
 
@@ -73,6 +73,18 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      text: |
+        <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2rem;">
+          <a href="/publication/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+            See all papers
+          </a>
+        </div>
+    design:
+      columns: 1
+
+  - block: markdown
+    content:
       title: Highlights
       text: |
         <div style="font-size: 1rem">
@@ -83,36 +95,28 @@ sections:
 
         - **ACL 2024:** Lead author of **SIBling**, a multidimensional framework for modeling lexical semantic change with social science applications.
 
-        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization of women versus men in incel discourse.
+        - **ICWSM 2026:** Lead author of a computational social science paper on gendered dehumanization in incel discourse.
 
         - **Awards and research support:** Australian Government Research Training Program Scholar; selected for Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
 
-        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental health stigma in online communication', led by Yulia Otmakhova.
+        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental-health stigma in online communication', led by Yulia Otmakhova.
 
         - **Research leadership and service:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
 
         - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
 
-        - **Invited talks:** Presented PhD work on modeling semantic change in mental health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
+        - **Invited talks:** Presented PhD work on modeling semantic change in mental-health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
         
-        [See all updates](/updates/)
-        
+        <div style="text-align: center; margin-top: 1.5rem;">
+          <a href="/updates/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+            See all updates
+          </a>        
+        </div>
+
         </div>
     design:
       columns: 1
-      #css_class: mt-4
       css_class: research-overview-wide
-
-  - block: collection
-    content:
-      title: Selected Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
 
   - block: collection
     id: talks
@@ -128,17 +132,27 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      text: |
+        <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2rem;">
+          <a href="/talks/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+            See all presentations
+          </a>
+        </div>
+    design:
+      columns: 1
+
+  - block: markdown
+    content:
       title: Research Ethos
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, mental health, and the shifting boundaries of social and psychological categories. I see and use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
+        My work is motivated by substantive questions about language, meaning, mental health, and the shifting boundaries of social and psychological categories. I use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
 
         </div>
     design:
       columns: 1
-      #css_class: mt-4
       css_class: research-overview-wide
-
 
 ---
