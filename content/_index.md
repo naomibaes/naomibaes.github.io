@@ -76,10 +76,12 @@ sections:
       title: ''
       text: |
         <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2rem;">
-          <a href="/publication/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+        <div style="text-align: center; margin-top: -2rem; margin-bottom: 1.5rem;">
+          <a href="/publication/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all papers
           </a>
         </div>
+
     design:
       columns: 1
 
@@ -107,11 +109,10 @@ sections:
 
         - **Invited talks:** Presented PhD work on modeling semantic change in mental-health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
         
-        <div style="text-align: center; margin-top: 1.5rem;">
-          <a href="/updates/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+        <div style="text-align: center; margin-top: 1.2rem;">
+          <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all updates
           </a>        
-        </div>
 
         </div>
     design:
@@ -134,8 +135,8 @@ sections:
     content:
       title: ''
       text: |
-        <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2rem;">
-          <a href="/talks/" style="display: inline-block; padding: 0.6rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; text-decoration: none; font-weight: 500;">
+        <div style="text-align: center; margin-top: -2rem; margin-bottom: 1.5rem;">
+          <a href="/talks/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all presentations
           </a>
         </div>
