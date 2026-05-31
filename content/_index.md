@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
         
-        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially in domains where language carries social, cultural, and psychological significance. My work focuses on questions about mental health concepts, social representation, and contested language: how terms expand to new contexts, shift in severity or emotional force, acquire new evaluative associations, or become embedded in dehumanizing and stigmatizing patterns of language use. To answer these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms expand into new domains, change in severity or emotional force, acquire new evaluative associations, or become embedded in stigmatizing and dehumanizing patterns of language use. To answer these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
         **Research streams**
 
@@ -59,6 +59,7 @@ sections:
 
     design:
       columns: '1'
+      css_class: research-overview-wide
 
   - block: collection
     id: papers
@@ -99,7 +100,8 @@ sections:
         </div>
     design:
       columns: 1
-      css_class: mt-4
+      #css_class: mt-4
+      css_class: research-overview-wide
 
   - block: collection
     content:
@@ -135,8 +137,8 @@ sections:
         </div>
     design:
       columns: 1
-      css_class: mt-4
-
+      #css_class: mt-4
+      css_class: research-overview-wide
 
 
 ---
