@@ -14,11 +14,21 @@ all_day: false
 
 publishDate: 2025-04-22T00:00:00Z
 
-summary: "Presented my PhD work on modelling conceptual change using two developed frameworks: (1) SIBling, a linguistic model of semantic change; and (2) LSC-Eval, a general-purpose framework for evaluating methods for assessing dimensions of semantic change. Event: Change is Key! Conference (University of Gothenburg, Dept. of Philosophy, Linguistics & Theory of Science)"
+summary: "Presented my PhD work on modeling conceptual change in mental health concepts using (1) SIBling and (2) LSC-Eval @ **Change is Key! Conference (University of Gothenburg, Dept. of Philosophy, Linguistics & Theory of Science)**"
+
+#summary: "Presented my PhD work on modeling conceptual change using two developed frameworks: (1) SIBling, a linguistic model of semantic change; and (2) LSC-Eval, a general-purpose framework for evaluating methods for assessing dimensions of semantic change. Event: Change is Key! Conference (University of Gothenburg, Dept. of Philosophy, Linguistics & Theory of Science)"
 abstract: "Presented my PhD work on modelling conceptual change using two developed frameworks: (1) SIBling, a linguistic model of semantic change; and (2) LSC-Eval, a general-purpose framework for evaluating methods for assessing dimensions of semantic change.Slides available via the link above."
 url_slides: "https://www.slideshare.net/slideshow/dimensions-of-semantic-change-validation-and-application-of-the-sibling-framework/283131650"
 
 authors: ["admin"]
 featured: true
 projects: []
+
+tags:
+  - Conceptual Change
+  - Lexical Semantic Change
+  - Semantic Change
+  - Mental Health Language
+  - NLP
+  - Computational Social Science
 ---

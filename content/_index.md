@@ -93,7 +93,7 @@ sections:
 
         - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
 
-        - **Invited talks:** Presented PhD work on modeling semantic change in mental health concepts at *Utrecht University*, the *University of Gothenburg*, the *National Research Council Canada*, and the University of Melbourne *Mental Health PhD Program*.
+        - **Invited talks:** Presented PhD work on modeling semantic change in mental health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
 
         </div>
     design:
@@ -115,7 +115,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Selected Talks
+      title: Selected Presentations
       filters:
         folders:
           - talks

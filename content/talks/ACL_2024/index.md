@@ -12,7 +12,7 @@ address:
   postcode: '10330'
   country: 'Thailand'
 
-summary: "Presented the foundational SIBling paper at ACL 2024. The paper introduces a multidimensional framework for modeling lexical semantic change across Sentiment, Intensity, and Breadth, and applies it to semantic shifts in mental health and mental illness."
+summary: "Presented the foundational SIBling paper at **ACL 2024**. We introduce a multidimensional framework for modeling lexical semantic change across Sentiment, Intensity, and Breadth, applied to *mental health* and *mental illness*."
 
 abstract: "Historical linguists have identified multiple forms of lexical semantic change, but computational studies often treat semantic change as a single undifferentiated phenomenon. This paper introduces SIBling, a three-dimensional framework for modeling lexical semantic change across Sentiment, Intensity, and Breadth. These dimensions capture whether a term’s usage becomes more positive or negative in connotation, more or less emotionally intense, and broader or narrower in contextual range. The framework is complemented by analyses of term frequency and thematic content. We illustrate SIBling by examining semantic shifts in mental health and mental illness across psychology and general-language corpora, showing how computational measures of semantic change can help address social-scientific questions about pathologization, stigma, and concept creep."
 
