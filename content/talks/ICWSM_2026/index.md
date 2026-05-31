@@ -48,7 +48,7 @@ image:
   caption: ''
   focal_point: 'Smart'
 
-url_pdf: 'https://ojs.aaai.org/index.php/ICWSM/article/view/42632'
+url_pdf: 'https://ojs.aaai.org/index.php/ICWSM/article/view/42632/50192'
 url_code: 'https://github.com/lraszewski/words-against-women'
 url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-computational-analysis-of-dehumanization-in-incel-discourse-48b4/287807673'
 url_video: ''

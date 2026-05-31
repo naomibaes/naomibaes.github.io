@@ -3,3 +3,15 @@
 .research-overview-wide .container {
   max-width: 760px !important;
 }
+
+/* Widen prose and card/list pages slightly */
+.max-w-prose,
+.prose {
+  max-width: 760px !important;
+}
+
+/* Widen list/card containers on pages such as Talks, Publications, Updates */
+main .container,
+main .mx-auto {
+  max-width: 900px;
+}

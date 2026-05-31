@@ -1,5 +1,5 @@
 ---
-title: "Semantic Shifts in Mental Health-Related Concepts"
+title: "Invited Talk: Semantic Shifts in Mental Health-Related Concepts"
 event: "‘Rapid Fire’ Talk – Mental Health PhD Program Conference, 3rd October 2025"
 event_url: "https://psychologicalsciences.unimelb.edu.au/research/mental-health-phd-program#home"
 location: "University of Melbourne"
@@ -19,6 +19,6 @@ abstract: "Mental health-related concepts have risen in prominence and changed t
 url_slides: "https://www.slideshare.net/slideshow/semantic-shifts-in-mental-health-related-concepts/283693660"
 
 authors: ["admin"]
-featured: true
+featured: false
 projects: []
 ---
