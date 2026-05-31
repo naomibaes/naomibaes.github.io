@@ -41,19 +41,19 @@ sections:
 
         ### Research streams
 
-        My work currently clusters around three overlapping streams:
+        My work asks how meanings and concepts change as they move across scientific, media, and public contexts, especially where the boundaries of social and psychological categories are shifting or contested. It clusters around three overlapping streams:
 
         - **Semantic and conceptual change**  
-          Developing methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change, synthetic benchmarks for method evaluation, sense-level meaning relations, and human--LLM evaluation.  
+          Developing methods for tracing how meanings shift across time, from multidimensional models of lexical semantic change to synthetic benchmarks, diachronic word-sense tracking, and recent work on how humans and language models represent meaning.  
           **Key work:** [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/journal-article_2025_acl-findings/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/), [SenseRel](/publication/journal-article_2026_acl-main/).
 
-        - **Mental-health concepts across scientific, media, and general-language corpora**  
-          Applying these methods to mental-health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English.  
-          **Selected work:** case studies of [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
+        - **Mental health concepts across scientific, media, and general-language corpora**  
+          Applying these methods to mental health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English, interpreted through psychological theory.  
+          **Selected work:** Historical semantic shifts in [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
 
         - **Socially contested language**  
-          Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
-          **Selected collaborative work:** [ICWSM dehumanization paper](/publication/journal-article_2026_icwsm/), mental-health stigma benchmark, identity/person-first language paper, and [common-good work](/publication/journal-article_2024_4_bjsp/).
+          Studying how language encodes negative evaluation, dehumanization, identity, stigma, and contested social meanings in online and public discourse.  
+          **Selected collaborative work:** [Dehumanization of women in incel discourse](/publication/journal-article_2026_icwsm/), mental health stigma detection in online communication, identity/person-first language for mental health conditions, and [laypeople's understandings of the common good](/publication/journal-article_2024_4_bjsp/).
 
     design:
       columns: '1'
@@ -85,16 +85,18 @@ sections:
 
         - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization of women versus men in incel discourse.
 
-        - **Individual awards and research support:** Australian Government Research Training Program Scholar; recipient of selected Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
+        - **Awards and research support:** Australian Government Research Training Program Scholar; selected for Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
 
         - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental health stigma in online communication', led by Yulia Otmakhova.
 
-        - **Shared-task and workshop leadership:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
+        - **Research leadership and service:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
 
         - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
 
         - **Invited talks:** Presented PhD work on modeling semantic change in mental health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
-
+        
+        [See all updates](/updates/)
+        
         </div>
     design:
       columns: 1
@@ -130,7 +132,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, and social life. I see and use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well grounded claims about what we are measuring.
+        My work is motivated by substantive questions about language, meaning, mental health, and the shifting boundaries of social and psychological categories. I see and use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
 
         </div>
     design:
