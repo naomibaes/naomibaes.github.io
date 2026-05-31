@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 'Morocco'
 
-summary: "Presented work with Nick Haslam at the LChange'26 Workshop co-located with EACL, introducing a threshold-calibrated, prototype-based pipeline for tracking word sense prevalence in historical U.S. news articles."
+summary: "A sense-tracking study presented at LChange'26 Workshop (EACL) introducing a threshold-calibrated, prototype-based pipeline for tracking word sense prevalence in historical U.S. news articles."
 
 abstract: "Polysemous words pose a challenge for computational approaches to lexical semantic change. In this work, Nick Haslam and I extend a recent hypothesis-driven, prototype-based framework to estimate word sense prevalence in diachronic text corpora, applying it to 109,940 uses of schizophrenia in U.S. news media from 1985 to 2025. We introduce a threshold-calibrated sense-tracking pipeline with robust prototype construction, contextual breadth measurement, and human-calibrated prototype-similarity thresholds for conservative sense assignment at scale. Although commonly used distributional semantic change metrics show significant increases in breadth and semantic drift, threshold-calibrated sense assignments reveal stable sense proportions: the psychiatric sense remains dominant, while split-personality and metaphorical senses remain marginal. The findings suggest that rising lexical semantic change scores can occur without sense redistribution, reflecting contextual diversification within a stable dominant sense rather than polysemization or sense replacement."
 

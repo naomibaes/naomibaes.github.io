@@ -28,7 +28,7 @@ publication_short: "ACL 2026"
 
 abstract: "Polysemy enables a single word to convey multiple related meanings, reflecting the conceptual and emotional aspects of language evolution. We introduce the first sense-level benchmark for modeling semantic relations between word senses, uniting denotational and connotational aspects of meanings. The benchmark distinguishes denotational relations, such as generalization or metaphor, as well as two connotational dimensions: valence and arousal. We evaluate large language models (LLMs), GPT-4o, Llama 3.1, and DeepSeek, in zero-shot and fine-tuned settings. Results show that GPT-4o best aligns with human affective judgments, while a fine-tuned RoBERTa model excels at classifying denotational relations."
 
-summary: "We introduce the first sense-level benchmark for modeling denotational and connotational relations between word senses, combining semantic relation types with valence and arousal judgments to evaluate humans, LLMs, and fine-tuned models."
+summary: "A sense-level benchmark for testing how humans and language models represent denotational (antonymy, homonymy, metaphor, metonymy, taxonomical relations) and connotational (valence, arousal) meaning."
 
 tags:
   - Lexical Semantics

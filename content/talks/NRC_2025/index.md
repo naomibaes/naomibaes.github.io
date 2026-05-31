@@ -15,7 +15,8 @@ publishDate: 2025-09-24T00:00:00+02:00
 
 
 
-summary: "Invited talk (thanks to Principal Research Scientist Saif M Mohammad) at the National Research Council Canada on two complementary frameworks for studying semantic change: (1) SIBling; (2) LSC-Eval."
+#summary: "Invited talk (thanks to Principal Research Scientist Saif M Mohammad) at the National Research Council Canada on two complementary frameworks for studying semantic change: (1) SIBling; (2) LSC-Eval."
+summary: "An invited talk at the National Research Council Canada on SIBling and LSC-Eval as complementary frameworks for modeling and evaluating semantic change across time."
 
 # summary: "Invited talk (thanks to Principal Research Scientist Saif M Mohammad) at the National Research Council Canada on two complementary frameworks for studying lexical semantic change: (1) SIBling, which models change along three dimensions (Sentiment, Intensity, Breadth); and (2) LSC-Eval, which generates synthetic benchmarks for evaluating the suitability of methods for their sensitivity to detecting induced change."
 

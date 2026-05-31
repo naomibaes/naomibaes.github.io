@@ -48,11 +48,11 @@ sections:
           **Key work:** [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/journal-article_2025_acl-findings/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/), [SenseRel](/publication/journal-article_2026_acl-main/).
 
         - **Mental health concepts and category boundaries**  
-          Applying these methods to mental health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English, interpreted through psychological theory.  
+          Applying these methods to mental health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English, interpreting findings through the lens of psychological theory.  
           **Selected work:** Historical semantic shifts in [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
 
         - **Socially contested language**  
-          Studying how language encodes negative evaluation, dehumanization, identity, stigma, and contested social meanings in online and public discourse.  
+          Studying how language encodes negative evaluation, dehumanization, identity, stigma, and contested social meanings in public discourse.  
           **Selected collaborative work:** [Dehumanization of women in incel discourse](/publication/journal-article_2026_icwsm/), mental health stigma detection in online communication, identity/person-first language for mental health conditions, and [laypeople's understandings of the common good](/publication/journal-article_2024_4_bjsp/).
 
     design:
@@ -75,13 +75,11 @@ sections:
     content:
       title: ''
       text: |
-        <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2rem;">
-        <div style="text-align: center; margin-top: -2rem; margin-bottom: 1.5rem;">
+        <div style="text-align: center; margin-top: -3.5rem; margin-bottom: -1rem;">
           <a href="/publication/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all papers
           </a>
         </div>
-
     design:
       columns: 1
 
@@ -135,7 +133,7 @@ sections:
     content:
       title: ''
       text: |
-        <div style="text-align: center; margin-top: -2rem; margin-bottom: 1.5rem;">
+        <div style="text-align: center; margin-top: -3.5rem; margin-bottom: -1rem;">
           <a href="/talks/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all presentations
           </a>

@@ -25,7 +25,7 @@ main:
     weight: 45
 
   - name: Code & Data
-    url: Code & Data/
+    url: resources/
     weight: 50
 
   - name: Projects

@@ -3,8 +3,6 @@ title: Updates
 cms_exclude: true
 ---
 
-# Updates
-
 ## 2026
 
 - **May 2026** — *A Multidimensional Computational Analysis of Dehumanization in Incel Discourse* published in the **ICWSM 2026** proceedings and presented on behalf of the author team in Los Angeles (United States).
@@ -15,9 +13,10 @@ cms_exclude: true
 
 - **September 2025** — Completed a research visit at **Change is Key!**, University of Gothenburg (Sweden).
 - **September 2025** — Presented invited talks at Utrecht University, the University of Gothenburg, and the National Research Council Canada.
+- **July 2025** — **BRIGHTER** awarded Best Resource Paper at ACL 2025 (Contributed Romanian-language gold-standard annotations; team lead: Daniela Teodorescu).
 - **July 2025** — Presented **LSC-Eval** at Findings of ACL 2025 (Vienna, Austria).
 - **July 2025** — Presented SIBling and LSC-Eval at **IC2S2 2025** (Norrköping, Sweden).
-- **June 2025** — Co-recipient of Hallmark Research Initiative seed funding for work on automatic evaluation of mental-health stigma in online communication; 7-member team led by Yulia Otmakhova.
+- **June 2025** — Co-recipient of Hallmark Research Initiative seed funding for a 7-member team project on automatic evaluation of mental health stigma in online communication, led by Yulia Otmakhova.
 - **February 2025** — Selected to attend the **Google Research @ Sydney Student Event** at Google Australia’s Sydney research facility.
 
 ## 2024
