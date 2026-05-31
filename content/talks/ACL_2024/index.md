@@ -1,65 +1,55 @@
 ---
 title: "A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications"
 
-event: The 62nd Annual Meeting of the Association for Computational Linguistics (Thailand, Bangkok)
-event_url: https://doi.org/10.48448/wddq-en63
+event: "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+event_url: "https://aclanthology.org/2024.acl-long.76/"
 
-location: Centara Grand Convention Center
+location: "Centara Grand Convention Center"
 address:
-  street: '' 
-  city: ''
+  street: ''
+  city: 'Bangkok'
   region: ''
   postcode: '10330'
-  country: Thailand
+  country: 'Thailand'
 
-summary: "Accepted to present the foundational paper introducing 'SIBling', our linguistic model of conceptual change, at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). ACL is a prestigious A*-rated conference in computational linguistics, recognized for its international impact and highly competitive acceptance rate (~21%), drawing approximately 4,000 attendees (Bangkok, Thailand)."
+summary: "Presented the foundational SIBling paper at ACL 2024. The paper introduces a multidimensional framework for modeling lexical semantic change across Sentiment, Intensity, and Breadth, and applies it to semantic shifts in mental health and mental illness."
 
-abstract: 'Historical linguists have identified multiple forms of lexical semantic change. We present a three-dimensional framework for integrating these forms and a unified computational methodology for evaluating them concurrently. The dimensions represent increases or decreases in semantic 1) sentiment (valence of a target word’s collocates), 2) intensity (emotional arousal of collocates or the frequency of intensifiers), and 3) breadth (diversity of contexts in which the target word appears). These dimensions can be complemented by evaluation of shifts in the frequency of the target words and the thematic content of its collocates. This framework enables lexical semantic change to be mapped economically and systematically and has applications in computational social science. We present an illustrative analysis of semantic shifts in mental health and mental illness in two corpora, demonstrating patterns of semantic change that illuminate contemporary concerns about pathologization, stigma, and concept creep. Link to slides: https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'
+abstract: "Historical linguists have identified multiple forms of lexical semantic change, but computational studies often treat semantic change as a single undifferentiated phenomenon. This paper introduces SIBling, a three-dimensional framework for modeling lexical semantic change across Sentiment, Intensity, and Breadth. These dimensions capture whether a term’s usage becomes more positive or negative in connotation, more or less emotionally intense, and broader or narrower in contextual range. The framework is complemented by analyses of term frequency and thematic content. We illustrate SIBling by examining semantic shifts in mental health and mental illness across psychology and general-language corpora, showing how computational measures of semantic change can help address social-scientific questions about pathologization, stigma, and concept creep."
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-08-14T13:30:00+08:00'
 date_end: '2024-08-14T15:00:00+08:00'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
 publishDate: '2025-04-22T00:00:00Z'
 
 authors:
   - admin
+  - Nick Haslam
+  - Ekaterina Vylomova
 
-tags: []
+tags:
+  - Lexical Semantic Change
+  - Semantic Change
+  - Conceptual Change
+  - Mental Health Language
+  - NLP
+  - Computational Social Science
 
-# Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: '' #'Image credit: [**Unsplash**](https://x.com/naomi_baes/status/1822225205822996539)'
-  focal_point: '' #Right
+  caption: ''
+  focal_point: 'Smart'
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-#url_code: 'https://github.com'
-#url_pdf: ''
-#url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
+url_pdf: 'https://aclanthology.org/2024.acl-long.76.pdf'
+url_slides: 'https://www.slideshare.net/slideshow/a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications/270910049'
+url_code: 'https://github.com/naomibaes/lexical_semantic_change_framework'
+url_video: 'https://underline.io/lecture/102655-a-multidimensional-framework-for-evaluating-lexical-semantic-change-with-social-science-applications'
+url_project: ''
+url_poster: ''
+url_source: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
-
