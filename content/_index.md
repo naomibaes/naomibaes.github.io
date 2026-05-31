@@ -78,19 +78,21 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **ACL 2026:** Joint-first author on *SenseRel*, a sense-level benchmark for denotational and connotational meaning relations, from my Change is Key! internship (https://www.changeiskey.org/post/25-08-04-naomi-visit/).
-
-        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization in incel discourse.
-
-        - **Research funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** (team of 7) for a project on automatic evaluation of mental-health stigma in online communication, led by the amazing Yulia Otmakhova(https://scholar.google.com/citations?user=yzaozUUAAAAJ&hl=en).
-
-        - **Leadership and service:** Australian English Language Co-Lead with Christine De Kock for the BLEnD SemEval-2026 Shared Task(https://www.codabench.org/competitions/10281/); Program Chair/PC for LChange'26 Workshop (https://www.changeiskey.org/event/2026-eacl-lchange/); Romanian dataset contributos to the ACL 2025 Best Resource Paper Award-winning BRIGHTER dataset (https://aclanthology.org/2025.acl-long.436/).
-
-        - **Invited talks:** Presented work on semantic change at Utrecht University, the University of Gothenburg, the National Research Council Canada, and the University of Melbourne Mental Health PhD Program.
+        - **ACL 2026:** Equal-first author on *SenseRel*, a sense-level benchmark for denotational and connotational meaning relations, developed through my Change is Key! research internship.
 
         - **Findings of ACL 2025:** Lead author of **LSC-Eval**, a framework for evaluating methods for detecting dimensions of lexical semantic change using LLM-generated synthetic data.
 
         - **ACL 2024:** Lead author of **SIBling**, a multidimensional framework for modeling lexical semantic change with social science applications.
+
+        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization in incel discourse.
+
+        - **Research funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a team project on automatic evaluation of mental-health stigma in online communication, led by Yulia Otmakhova.
+
+        - **Shared-task and workshop leadership:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
+
+        - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation.
+
+        - **Invited talks:** Presented work on semantic change at Utrecht University, the University of Gothenburg, the National Research Council Canada, and the University of Melbourne Mental Health PhD Program.
 
         </div>
     design:
