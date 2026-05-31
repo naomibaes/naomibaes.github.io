@@ -2,9 +2,9 @@
 title: 'Sense Rel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations'
 
 authors:
-  - Pierluigi Cassotti
-  - admin
-  - Stefano De Pascale
+  - Pierluigi Cassotti*
+  - admin*
+  - Stefano De Pascale*
   - Jader Martins Camboim de Sá
   - Francesco Periti
   - Nick Haslam

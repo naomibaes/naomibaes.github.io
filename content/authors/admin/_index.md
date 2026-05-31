@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate | NLP · Computational Social Science · Psychology
+role: NLP & Computational Social Science Researcher | Semantic Change · Mental Health Concepts · Socially Contested Language
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -196,4 +196,4 @@ education:
 
 ## About Me
 
-I am an NLP and computational social science researcher studying how meanings and concepts change across time, domains, and communities. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental health language, media discourse, and socially contested language. I led the development of **SIBling**, a framework for modeling semantic change across the dimensions of Sentiment, Intensity, and Breadth, and **LSC-Eval**, a benchmarking framework for evaluating methods for detecting lexical semantic change using synthetic historical data. More broadly, I am interested in language change and variation, conceptual change, mental health discourse, human--LLM evaluation, and computational approaches to culturally important questions.
+I am an NLP and computational social science researcher studying how meanings and concepts change across time, domains, and communities. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental health language, media discourse, and socially contested language. I led the development of **SIBling**, a framework for modeling semantic change across the dimensions of Sentiment, Intensity, and Breadth, and **LSC-Eval**, a benchmarking framework for evaluating methods for detecting lexical semantic change using synthetic historical data. More broadly, I am interested in language change and variation, conceptual change, mental health concepts, human--LLM evaluation, and computational approaches to culturally important questions.

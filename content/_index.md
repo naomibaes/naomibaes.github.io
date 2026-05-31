@@ -33,21 +33,21 @@ sections:
 
   - block: markdown
     content:
-      title: 'Research Program'
+      title: 'Research Overview'
       subtitle: ''
       text: |-
 
-        Broadly, my research uses computational methods to study how meanings and concepts change over time, and how those shifts reflect wider cultural and social dynamics. At the intersection of NLP, computational social science, and psychology, I develop theory-informed approaches for tracing semantic and conceptual change in historical text corpora using contextual embeddings, large language models, lexical resources, and statistical modeling. My current work focuses especially on mental health language, media discourse, and socially contested language.
+        I develop theory-informed computational methods for studying how meanings change in mental health, media, and socially contested language. My work sits at the intersection of NLP, computational social science, and psychology, combining historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
-        **Research themes**
+        **Research streams**
 
         **Semantic and conceptual change**  
         Methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
-        Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Schizophrenia WSD](/publication/workshop-paper-2026_sense-prevalence/).
+        Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/).
 
         **Mental health language and media discourse**  
         Applications to mental-health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
-        Key work: trauma, schizophrenia, ADHD, anxiety/depression, and generic mental-health terminology papers.
+        Selected work: case studies of *trauma*, *schizophrenia*, generic and emotion mental health terminology, and collaborative projects on *ADHD*, *anxiety* and *depression*.
 
         **Meaning representations in humans and language models**  
         Benchmarking how humans and language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
@@ -55,7 +55,7 @@ sections:
 
         **Socially contested language**  
         Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
-        Key work: ICWSM dehumanization paper, mental-health stigma benchmark, identity/person-first language paper, and common-good work.
+        Selected collaborative work: ICWSM dehumanization paper, mental-health stigma benchmark, identity/person-first language paper, and common-good work.
 
     design:
       columns: '1'
@@ -72,6 +72,31 @@ sections:
       view: article-grid
       columns: 2
 
+  - block: markdown
+    content:
+      title: Highlights
+      text: |
+        <div style="font-size: 1rem">
+
+        - **ACL 2026:** Joint-first author on *SenseRel*, a sense-level benchmark for denotational and connotational meaning relations, from my Change is Key! internship (https://www.changeiskey.org/post/25-08-04-naomi-visit/).
+
+        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization in incel discourse.
+
+        - **Research funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** (team of 7) for a project on automatic evaluation of mental-health stigma in online communication, led by the amazing Yulia Otmakhova(https://scholar.google.com/citations?user=yzaozUUAAAAJ&hl=en).
+
+        - **Leadership and service:** Australian English Language Co-Lead with Christine De Kock for the BLEnD SemEval-2026 Shared Task(https://www.codabench.org/competitions/10281/); Program Chair/PC for LChange'26 Workshop (https://www.changeiskey.org/event/2026-eacl-lchange/); Romanian dataset contributos to the ACL 2025 Best Resource Paper Award-winning BRIGHTER dataset (https://aclanthology.org/2025.acl-long.436/).
+
+        - **Invited talks:** Presented work on semantic change at Utrecht University, the University of Gothenburg, the National Research Council Canada, and the University of Melbourne Mental Health PhD Program.
+
+        - **Findings of ACL 2025:** Lead author of **LSC-Eval**, a framework for evaluating methods for detecting dimensions of lexical semantic change using LLM-generated synthetic data.
+
+        - **ACL 2024:** Lead author of **SIBling**, a multidimensional framework for modeling lexical semantic change with social science applications.
+
+        </div>
+    design:
+      columns: 1
+      css_class: mt-4
+
   - block: collection
     content:
       title: Selected Publications
@@ -86,7 +111,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Invited Talks
+      title: Selected Talks
       filters:
         folders:
           - talks
@@ -122,22 +147,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: markdown
-    content:
-      title: Highlights
-      text: |
-        <div style="font-size: 1rem">
 
-        - New sense-tracking pipeline for estimating the prevalence of word senses in historical text corpora: [link](https://www.linkedin.com/feed/update/urn:li:activity:7443471238037106688/?originTrackingId=xIHOlBlkEQxOUDp18rzxEQ%3D%3D)
-
-        - Delighted to share my PhD research at (1) the Change is Key! conference in Gothenburg (Sweden), (2) University of Utrecht (Netherlands), (3) National Research Council Canada, (4) the Mental Health PhD Program Conference!, and (5) The LChange'26 Workshop, colocated with EACL.
-
-        - **5 Aug – 30 Sept 2025** — [Interned](https://www.changeiskey.org/post/25-08-04-naomi-visit/) at **[Change is Key!](https://www.changeiskey.org/about/)**. The program develops computational tools to trace how language, society, and culture evolve, applying NLP and corpus methods to study semantic change and variation across linguistics, digital humanities, and the social sciences.
-
-        - *Corpus data* and *scripts* publicly available — see [Resources](https://naomibaes.github.io/resources/) tab.
-
-        </div>
-    design:
-      columns: 1
-      css_class: mt-4
 ---

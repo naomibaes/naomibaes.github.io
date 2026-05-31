@@ -24,6 +24,6 @@ url_slides: "https://www.slideshare.net/slideshow/dimensions-of-semantic-change-
 
 
 authors: ["admin"]
-featured: true
+featured: false
 projects: []
 ---
