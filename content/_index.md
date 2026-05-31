@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
         
-        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms expand into new domains, change in severity or emotional force, acquire new evaluative associations, or become embedded in stigmatizing and dehumanizing patterns of language use. To answer these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms expand into new domains, change in severity or emotional force, acquire new evaluative associations. To answer these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
         **Research streams**
 
@@ -46,8 +46,8 @@ sections:
         Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/).
 
         **Mental health language and media discourse**  
-        Applications to mental-health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
-        Selected work: case studies of *trauma*, *schizophrenia*, generic and emotion mental health terminology, and collaborative projects on *ADHD*, *anxiety* and *depression*.
+        Applications to mental health-related concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
+        Selected work: Case studies of [*trauma*](https://naomibaes.github.io/publication/journal-article_2023_plc/), [*schizophrenia*](https://naomibaes.github.io/publication/workshop-paper-2026_sense-prevalence/), [generic](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [emotion](https://naomibaes.github.io/publication/journal-article_2023_12_emnlp/) related mental health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](https://naomibaes.github.io/publication/journal-article_2023_06_plosone/).
 
         **Meaning representations in humans and language models**  
         Benchmarking how humans and language models represent word meanings, senses, connotation, denotation, valence, and arousal.  
@@ -55,7 +55,7 @@ sections:
 
         **Socially contested language**  
         Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
-        Selected collaborative work: ICWSM dehumanization paper, mental-health stigma benchmark, identity/person-first language paper, and common-good work.
+        Selected collaborative work: [ICWSM](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) dehumanization paper, mental health stigma benchmark, identity/person-first language paper, and [common good](https://naomibaes.github.io/publication/journal-article_2024_4_bjsp/) work.
 
     design:
       columns: '1'
@@ -132,7 +132,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, and social life. I see computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
+        My work is motivated by substantive questions about language, meaning, and social life. I see and use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well grounded claims about what we are measuring.
 
         </div>
     design:
