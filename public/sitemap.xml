@@ -266,7 +266,10 @@
     <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>http://localhost:1313/publication/journal-article_2026_icwsm/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/awards/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
