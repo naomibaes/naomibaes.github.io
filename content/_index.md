@@ -37,25 +37,23 @@ sections:
       subtitle: ''
       text: |-
         
-        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms expand to be used in new contexts, change in severity or emotional force, and acquire new evaluative associations. To examine these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+        I study how meanings shift as concepts move across scientific, media, and general-language contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms extend into new contexts, change in severity or emotional force, and acquire new evaluative associations. To examine these questions, I combine NLP methods with theory and concepts from social psychology, computational social science, and corpus linguistics, using historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
-        **Research streams**
+        ### Research streams
 
-        **Semantic and conceptual change**  
-        Methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change and synthetic benchmarks for method evaluation.  
-        Key work: [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/preprint_2025/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/).
+        My work currently clusters around three overlapping streams:
 
-        **Mental health concepts across scientific, media, and everyday language**  
-        Applications to mental health-related concepts and terms, examining how meanings and representations shift across psychology, news media, books, and everyday language.  
-        Selected work: Case studies of [*trauma*](https://naomibaes.github.io/publication/journal-article_2023_plc/), [*schizophrenia*](https://naomibaes.github.io/publication/workshop-paper-2026_sense-prevalence/), [generic](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/) and [emotion](https://naomibaes.github.io/publication/journal-article_2023_12_emnlp/) related mental health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](https://naomibaes.github.io/publication/journal-article_2023_06_plosone/).
+        - **Semantic and conceptual change**  
+          Developing methods for studying how meanings shift across time, including multidimensional approaches to lexical semantic change, synthetic benchmarks for method evaluation, sense-level meaning relations, and human--LLM evaluation.  
+          **Key work:** [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/journal-article_2025_acl-findings/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/), [SenseRel](/publication/journal-article_2026_acl-main/).
 
-        **Meaning representations in humans and language models**  
-        Benchmarking how humans and language models represent word meanings, connotation (valence, arousal) and denotation.  
-        Key work: [SenseRel](/publication/journal-article_2026_acl-main/), [LSC-Eval](/publication/preprint_2025/).
+        - **Mental-health concepts across scientific, media, and general-language corpora**  
+          Applying these methods to mental-health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English.  
+          **Selected work:** case studies of [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
 
-        **Socially contested language**  
-        Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
-        Selected collaborative work: [ICWSM](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) dehumanization paper, mental health stigma benchmark, identity/person-first language paper, and [common good](https://naomibaes.github.io/publication/journal-article_2024_4_bjsp/) work.
+        - **Socially contested language**  
+          Computational social science work on evaluative, dehumanizing, identity-related, and contested language in online and public discourse.  
+          **Selected collaborative work:** [ICWSM dehumanization paper](/publication/journal-article_2026_icwsm/), mental-health stigma benchmark, identity/person-first language paper, and [common-good work](/publication/journal-article_2024_4_bjsp/).
 
     design:
       columns: '1'
