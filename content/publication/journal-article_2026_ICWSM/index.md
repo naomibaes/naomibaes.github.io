@@ -44,7 +44,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: 'Multidimensional analysis of dehumanization in incel discourse.'
+  caption: 'Multidimensional analysis of dehumanization of women versus men in incel discourse.'
   focal_point: "Smart"
   preview_only: false
 

@@ -84,17 +84,17 @@ sections:
 
         - **ACL 2024:** Lead author of **SIBling**, a multidimensional framework for modeling lexical semantic change with social science applications.
 
-        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization in incel discourse.
+        - **ICWSM 2026:** Lead author of a computational social science paper on dehumanization of women versus men in incel discourse.
 
-        - **Research funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a team project on automatic evaluation of mental-health stigma in online communication, led by Yulia Otmakhova.
+        - **Individual awards and research support:** Australian Government Research Training Program Scholar; recipient of selected Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
+
+        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental health stigma in online communication', led by Yulia Otmakhova.
 
         - **Shared-task and workshop leadership:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
 
-        - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation.
+        - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
 
-        - **Invited talks:** Presented work on semantic change at Utrecht University, the University of Gothenburg, the National Research Council Canada, and the University of Melbourne Mental Health PhD Program.
-
-        - **Research support:** Australian Government Research Training Program Scholar; Co-recipient of AUD $15,000 Hallmark Research Initiative seed funding (team of 7 led by Yulia Otmakhova); Supported by Concept Creep and Change is Key! research funding.
+        - **Invited talks:** Presented PhD work on modeling semantic change in mental health concepts at *Utrecht University*, the *University of Gothenburg*, the *National Research Council Canada*, and the University of Melbourne *Mental Health PhD Program*.
 
         </div>
     design:
@@ -124,32 +124,20 @@ sections:
       view: article-grid
       columns: 1
 
-  - block: collection
-    id: news
+  - block: markdown
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - news
-        exclude_folders:
-          - resources
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      page_type: post
-      count: 5
-      offset: 0
-      order: desc
+      title: Research Ethos
+      text: |
+        <div style="font-size: 1rem">
+
+        My work is motivated by substantive questions about language, meaning, and social life, and by the belief that answering them well requires conceptual clarity and careful measurement. I am interested in building computational methods that are theoretically grounded, interpretable, and responsible in their application to culturally and socially significant questions.
+
+
+        </div>
     design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: 1
+      css_class: mt-4
+
 
 
 ---
