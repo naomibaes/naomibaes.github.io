@@ -94,6 +94,8 @@ sections:
 
         - **Invited talks:** Presented work on semantic change at Utrecht University, the University of Gothenburg, the National Research Council Canada, and the University of Melbourne Mental Health PhD Program.
 
+        - **Research support:** Australian Government Research Training Program Scholar; Co-recipient of AUD $15,000 Hallmark Research Initiative seed funding (team of 7 led by Yulia Otmakhova); Supported by Concept Creep and Change is Key! research funding.
+
         </div>
     design:
       columns: 1

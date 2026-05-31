@@ -3,25 +3,33 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+```yaml
 main:
   - name: Bio
     url: /
     weight: 10
+
   - name: Papers
-    url: /publication
-    weight: 11
-  - name: Talks
-    url: /talks
-    weight: 12
-  - name: News
-    url: /news
-    weight: 13
-  - name: Resources
-    url: /resources
+    url: publication/
     weight: 20
-  - name: Projects
-    url: /project
+
+  - name: Talks
+    url: talks/
     weight: 30
-  #- name: Teaching
-  #  url: teaching/
-  #  weight: 40
+
+  - name: News
+    url: news/
+    weight: 40
+
+  - name: Awards
+    url: awards/
+    weight: 45
+
+  - name: Resources
+    url: resources/
+    weight: 50
+
+  - name: Projects
+    url: project/
+    weight: 60
+```
