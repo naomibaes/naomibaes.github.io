@@ -89,21 +89,21 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **ACL 2026:** Equal-first author on *SenseRel*, a sense-level benchmark for denotational and connotational meaning relations, developed through my Change is Key! research internship.
+        - **ACL 2026:** Joint-first author on *SenseRel*, a sense-level benchmark for denotational and connotational meaning relations, developed through my Change is Key! research internship.
 
         - **Findings of ACL 2025:** Lead author of **LSC-Eval**, a framework for evaluating methods for detecting dimensions of lexical semantic change using LLM-generated synthetic data.
 
         - **ACL 2024:** Lead author of **SIBling**, a multidimensional framework for modeling lexical semantic change with social science applications.
 
-        - **ICWSM 2026:** Lead author of a computational social science paper on gendered dehumanization in incel discourse.
+        - **ICWSM 2026:** Lead author of a computational social science [paper](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) on dehumanization of women and men in incel discourse.
 
-        - **Awards and research support:** Australian Government Research Training Program Scholar; selected for Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
+        - **Awards and research support:** Australian Government Research Training Program Scholarship; selected for Change is Key! research support for an international research internship and collaboration; supported by Concept Creep research funding for conference travel and research dissemination.
 
-        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental-health stigma in online communication', led by Yulia Otmakhova.
+        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on 'Automatic evaluation of mental health stigma in online communication', led by Yulia Otmakhova.
 
-        - **Research leadership and service:** Australian English Language Co-Lead with Christine de Kock for the BLEnD SemEval-2026 Shared Task; Program Chair/PC for LChange'26, co-located with EACL 2026.
+        - **Research leadership and service:** Australian English Language Co-Lead with Christine de Kock for the [BLEnD SemEval-2026 Shared Task](https://arxiv.org/abs/2605.02601); Program Chair/PC for the [LChange'26 Workshop](https://www.changeiskey.org/event/2026-eacl-lchange/), co-located with EACL 2026.
 
-        - **Community resources:** Contributor to the ACL 2025 Best Resource Paper Award-winning **BRIGHTER** dataset, providing Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
+        - **ACL Best Resource Paper Award:** Contributor to [**BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages**](https://aclanthology.org/2025.acl-long.436/), awarded Best Resource Paper at ACL 2025; contributed Romanian-language gold-standard annotation (team lead: Daniela Teodorescu).
 
         - **Invited talks:** Presented PhD work on modeling semantic change in mental-health concepts at international research groups: *Utrecht University*, the *University of Gothenburg*, and the *National Research Council Canada*.
         
@@ -147,7 +147,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, mental health, and the shifting boundaries of social and psychological categories. I use computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
+        My work is motivated by substantive questions about language, meaning, mental health, and the shifting boundaries of social and psychological categories. I use computational methods and careful measurement to better understand how these categories change, and to make clearer, responsible claims about socially important questions. Theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
 
         </div>
     design:
