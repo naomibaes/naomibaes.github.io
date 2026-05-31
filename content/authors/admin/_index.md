@@ -45,14 +45,14 @@ profiles:
     url: https://orcid.org/0000-0003-3873-5021
 
 interests:
+  - Natural Language Processing
   - Computational Linguistics
   - Computational Social Science
-  - Language Change
-  - Natural Language Processing
-  - Psychology
+  - Social Psychology
+  - Concept Creep of Mental Health
 
 education:
-  - area: PhD, Psychology/ Natural Language Processing
+  - area: PhD, Natural Language Processing/ Social Psychology
     institution: University of Melbourne (2023-)
     date_start: 2023-06-30
     date_end: 2027-03-29
@@ -196,5 +196,5 @@ education:
 
 ## About Me
 
-I am an NLP and computational social science researcher studying how meanings change across time, domains, and communities. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental health language, media discourse, and socially contested language. I led the development of **SIBling**, a framework for modeling semantic change across the dimensions of Sentiment, Intensity, and Breadth, and **LSC-Eval**, a benchmarking framework for evaluating methods for detecting lexical semantic change using synthetic historical data. More broadly, I am interested in language change and variation, shifting mental health concepts, human--LLM evaluation, and computational approaches to culturally important questions.
+I am an NLP and computational social science researcher studying how meanings change across time, domains, and communities. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental health language, media discourse, and socially contested language. I bring training in social psychology to NLP questions about semantic and conceptual change. I led the development of **SIBling**, a framework for modeling semantic change across the dimensions of Sentiment, Intensity, and Breadth, and **LSC-Eval**, a benchmarking framework for evaluating methods for detecting lexical semantic change using synthetic historical data. More broadly, I am interested in language change and variation, shifting mental health concepts, human--LLM evaluation, and computational approaches to culturally important questions.
 

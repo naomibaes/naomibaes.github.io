@@ -1,4 +1,3 @@
-```yaml
 ---
 title: 'A Multidimensional Computational Analysis of Dehumanization in Incel Discourse'
 
@@ -51,4 +50,3 @@ image:
 projects: []
 slides: ""
 ---
-```

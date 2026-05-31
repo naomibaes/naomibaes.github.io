@@ -36,8 +36,8 @@ sections:
       title: 'Research Overview'
       subtitle: ''
       text: |-
-
-        I develop theory-informed computational methods for studying how meanings change in mental health, media, and socially contested language. My work sits at the intersection of NLP, computational social science, and psychology, combining historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+        
+        I study how meanings shift as concepts move across scientific, media, and everyday contexts, especially in domains where language carries social, cultural, and psychological significance. My work focuses on questions about mental health concepts, social representation, and contested language: how terms expand to new contexts, shift in severity or emotional force, acquire new evaluative associations, or become embedded in dehumanizing and stigmatizing patterns of language use. To answer these questions, I combine methods from NLP, computational social science, and psychology, including historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
         **Research streams**
 
@@ -130,8 +130,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, and social life, and by the belief that answering them well requires conceptual clarity and careful measurement. I am interested in building computational methods that are theoretically grounded, interpretable, and responsible in their application to culturally and socially significant questions.
-
+        My work is motivated by substantive questions about language, meaning, and social life. I see computational methods and careful measurement as tools for answering those questions responsibly: theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
 
         </div>
     design:
