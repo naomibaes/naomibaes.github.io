@@ -24,7 +24,7 @@ main:
     url: awards/
     weight: 45
 
-  - name: Code & Data
+  - name: Code, Data, & Benchmarks
     url: resources/
     weight: 50
 
