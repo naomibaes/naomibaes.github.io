@@ -198,3 +198,9 @@ education:
 
 I am an NLP and computational social science researcher studying how word meanings change across time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental-health language, media discourse, and socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change, especially where language reflects shifting social and psychological categories. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. More broadly, I am interested in language change and variation, shifting mental health concepts, human--LLM evaluation, and computational approaches to culturally significant questions. My work has been supported by the Australian Government Research Training Program Scholarship, Concept Creep research funding, and Change is Key! research support.
 
+---
+
+**Methods & tools:** lexical semantic change analysis, contextual embeddings, diachronic word sense disambiguation, LLM-generated synthetic data, benchmark construction, human--LLM evaluation, corpus linguistics, statistical modeling, Python/R, Hugging Face, spaCy, scikit-learn, and HPC/SLURM workflows.
+
+
+
