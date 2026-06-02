@@ -2,274 +2,334 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/arousal/</loc>
+    <loc>https://example.com/tags/arousal/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/benchmarking/</loc>
+    <loc>https://example.com/tags/benchmarking/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/connotation/</loc>
+    <loc>https://example.com/tags/connotation/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/denotation/</loc>
+    <loc>https://example.com/tags/denotation/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/human--llm-evaluation/</loc>
+    <loc>https://example.com/tags/human--llm-evaluation/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/lexical-semantics/</loc>
+    <loc>https://example.com/tags/lexical-semantics/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>https://example.com/publication_types/paper-conference/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/polysemy/</loc>
+    <loc>https://example.com/tags/polysemy/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/semantic-change/</loc>
+    <loc>https://example.com/tags/semantic-change/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2026_acl-main/</loc>
+    <loc>https://example.com/publication/journal-article_2026_acl-main/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/valence/</loc>
+    <loc>https://example.com/tags/valence/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/word-senses/</loc>
+    <loc>https://example.com/tags/word-senses/</loc>
     <lastmod>2026-05-30T00:00:00+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://example.com/talks/icwsm_2026/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/computational-social-science/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/dehumanization/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/gendered-language/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/harmful-language/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/incel-discourse/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/nlp/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/online-communities/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/</loc>
+    <lastmod>2026-05-27T17:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/journal-article_2026_icwsm/</loc>
+    <lastmod>2026-05-25T00:00:00+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/diachronic-word-sense-disambiguation/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/lexical-semantic-change/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/mental-health-language/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/schizophrenia/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/semantic-broadening/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/lchange_2026/</loc>
+    <lastmod>2026-03-28T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/article-journal/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/diachronic-word-sense-disambiguation/</loc>
+    <loc>https://example.com/tags/sense-tracking/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/workshop-paper-2026_sense-prevalence/</loc>
+    <loc>https://example.com/tags/software/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/mhpp_2025/</loc>
+    <loc>https://example.com/resources/sense_prevalence/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/workshop-paper-2026_sense-prevalence/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/mhpp_2025/</loc>
     <lastmod>2025-10-03T15:30:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/</loc>
-    <lastmod>2025-10-03T15:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/talks/nrc_2025/</loc>
+    <loc>https://example.com/tags/conceptual-change/</loc>
     <lastmod>2025-09-24T09:30:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/nltp_lab_2025/</loc>
+    <loc>https://example.com/talks/nrc_2025/</loc>
+    <lastmod>2025-09-24T09:30:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talks/nltp_lab_2025/</loc>
     <lastmod>2025-09-16T09:30:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/news/conferences/</loc>
+    <loc>https://example.com/news/conferences/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://example.com/news/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/conceptual_change_2025/</loc>
+    <loc>https://example.com/talks/conceptual_change_2025/</loc>
     <lastmod>2025-09-12T15:30:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/conceptual-change/</loc>
+    <loc>https://example.com/project/sense_prevalence/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/sibling/</loc>
+    <loc>https://example.com/project/sibling/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>https://example.com/resources/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/psychology_corpus/</loc>
+    <loc>https://example.com/resources/psychology_corpus/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dataset/</loc>
+    <loc>https://example.com/tags/benchmark/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/synthetic_sib/</loc>
+    <loc>https://example.com/tags/dataset/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/evaluation-set/</loc>
+    <loc>https://example.com/resources/lsc-eval/</loc>
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/resources/synthetic_sib/</loc>
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/evaluation-set/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/historical-synthetic-data/</loc>
+    <loc>https://example.com/tags/historical-synthetic-data/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/lexical-semantic-change/</loc>
+    <loc>https://example.com/tags/llm-generated-synthetic-lsc-data/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/llm-generated-synthetic-lsc-data/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://example.com/tags/script/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/script/</loc>
+    <loc>https://example.com/resources/nyt/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/nyt/</loc>
+    <loc>https://example.com/project/synthetic-lsc_pipeline/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/synthetic-lsc_pipeline/</loc>
+    <loc>https://example.com/resources/nyt_corpus/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/nyt_corpus/</loc>
-    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/llm-generated-synthetic-data/</loc>
+    <loc>https://example.com/tags/llm-generated-synthetic-data/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2025_acl-findings/</loc>
+    <loc>https://example.com/publication/journal-article_2025_acl-findings/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/news/google_research@sydney/</loc>
+    <loc>https://example.com/news/google_research@sydney/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/psych_scimago/</loc>
+    <loc>https://example.com/resources/psych_scimago/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/acl_2024/</loc>
+    <loc>https://example.com/talks/acl_2024/</loc>
     <lastmod>2024-08-14T13:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2024_acl_sibling/</loc>
+    <loc>https://example.com/publication/journal-article_2024_acl_sibling/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/concept-creep/</loc>
+    <loc>https://example.com/tags/concept-creep/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/sibling/</loc>
+    <loc>https://example.com/resources/sibling/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2024_6_plos-mental-health/</loc>
+    <loc>https://example.com/publication/journal-article_2024_6_plos-mental-health/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2024_jsp/</loc>
+    <loc>https://example.com/publication/journal-article_2024_jsp/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2024_4_bjsp/</loc>
+    <loc>https://example.com/publication/journal-article_2024_4_bjsp/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/emnlp_2023/</loc>
+    <loc>https://example.com/talks/emnlp_2023/</loc>
     <lastmod>2023-12-06T11:20:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/pathologization/</loc>
+    <loc>https://example.com/tags/pathologization/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2023_12_emnlp/</loc>
+    <loc>https://example.com/publication/journal-article_2023_12_emnlp/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/sasp_2023/</loc>
+    <loc>https://example.com/talks/sasp_2023/</loc>
     <lastmod>2023-11-25T09:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/language-dynamics/</loc>
+    <loc>https://example.com/tags/language-dynamics/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2023_plc/</loc>
+    <loc>https://example.com/publication/journal-article_2023_plc/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2023_06_plosone/</loc>
+    <loc>https://example.com/publication/journal-article_2023_06_plosone/</loc>
     <lastmod>2023-06-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/resources/semantic_severity/</loc>
+    <loc>https://example.com/resources/semantic_severity/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2022_frontiers_psychology/</loc>
+    <loc>https://example.com/publication/journal-article_2022_frontiers_psychology/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talks/cocosci_2022/</loc>
+    <loc>https://example.com/talks/cocosci_2022/</loc>
     <lastmod>2022-04-01T12:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/art/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <loc>https://example.com/awards/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ideas/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/logos/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/project/logos_wear/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/journal-article_2026_icwsm/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/awards/</loc>
+    <loc>https://example.com/updates/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

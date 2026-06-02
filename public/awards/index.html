@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 31, 2026 --><html lang="en-us" dir="ltr"
+<!-- Last Published: June 2, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -41,10 +41,10 @@
   
     
   
-  <meta name="description" content="Selected awards, research support, funding, and academic service." />
+  <meta name="description" content="Selected individual awards, competitive funding, research support, leadership, and academic service." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/awards/" />
+  <link rel="alternate" hreflang="en-us" href="https://example.com/awards/" />
 
   
   
@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P084K5PWRH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-P084K5PWRH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -163,7 +202,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu_4ad40e59b08a748.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_4e014d42fe91a4ad.png" />
 
-  <link rel="canonical" href="http://localhost:1313/awards/" />
+  <link rel="canonical" href="https://example.com/awards/" />
 
   
   
@@ -189,10 +228,10 @@
     <meta property="twitter:creator" content="@GetResearchDev" />
   
   <meta property="og:site_name" content="Naomi Baes" />
-  <meta property="og:url" content="http://localhost:1313/awards/" />
-  <meta property="og:title" content="Awards, Grants &amp; Research Support | Naomi Baes" />
-  <meta property="og:description" content="Selected awards, research support, funding, and academic service." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_12c845088f3cf966.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_12c845088f3cf966.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://example.com/awards/" />
+  <meta property="og:title" content="Awards, Grants, Research Support &amp; Service | Naomi Baes" />
+  <meta property="og:description" content="Selected individual awards, competitive funding, research support, leadership, and academic service." /><meta property="og:image" content="https://example.com/media/icon_hu_12c845088f3cf966.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu_12c845088f3cf966.png" /><meta property="og:locale" content="en-us" />
   
     
   
@@ -202,7 +241,7 @@
 
 
 
-  <title>Awards, Grants &amp; Research Support | Naomi Baes</title>
+  <title>Awards, Grants, Research Support &amp; Service | Naomi Baes</title>
 
   
   
@@ -267,43 +306,19 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -385,6 +400,106 @@
         
       
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
       
       
         
@@ -459,11 +574,6 @@
         
       
     
-  
-  
-  
-  
-  
   
   
   
@@ -585,8 +695,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
+    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
   ></script>
 
   
@@ -604,6 +714,27 @@
       
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+      
+    
+  
+    
+      
+      <style>
+@media (min-width: 768px) {
+  .research-overview-wide .prose,
+  .research-overview-wide .max-w-prose {
+    max-width: 820px !important;
+  }
+
+  .research-overview-wide ul {
+    max-width: 820px !important;
+  }
+
+  .research-overview-wide li {
+    margin-bottom: 0.85rem;
+  }
+}
+</style>
       
     
   
@@ -706,8 +837,8 @@
         <a
           class="nav-link "
           
-          href="/news/"
-        >News</a
+          href="/updates/"
+        >Updates</a
         >
       </li>
       
@@ -735,7 +866,7 @@
           class="nav-link "
           
           href="/resources/"
-        >Resources</a
+        >Code, Data, &amp; Benchmarks</a
         >
       </li>
       
@@ -818,60 +949,31 @@
 
 <div class="max-w-prose mx-auto flex justify-center">
   <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">Awards, Grants &amp; Research Support</h1>
-    <h2 id="research-support-and-funding">Research Support and Funding</h2>
+    <h1 class="lg:text-6xl">Awards, Grants, Research Support &amp; Service</h1>
+    <h2 id="awards--scholarships">Awards &amp; Scholarships</h2>
 <ul>
-<li>
-<p><strong>Australian Government Research Training Program Scholarship</strong> — AUD $135,000 stipend and fee offset, 2023–2026.</p>
-</li>
-<li>
-<p><strong>Hallmark Research Initiative seed funding</strong>, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a team project, led by Yulia Otmakhova, on automatic evaluation of mental health stigma in online communication.</p>
-</li>
-<li>
-<p><strong>Concept Creep research support</strong>, University of Melbourne — AUD ~$20,000 in-kind support, 2023–2025. Supported conference travel, research dissemination, and computational social science work connected to the Concept Creep research program, supervised by Nick Haslam.</p>
-</li>
-<li>
-<p><strong>Change is Key! research support</strong>, University of Gothenburg — AUD ~$6,500 in-kind support for research visit and collaboration, 2025.</p>
-</li>
-<li>
-<p><strong>RHD Career Development Support Scheme</strong>, Melbourne School of Psychological Sciences — AUD $4,000, 2025.</p>
-</li>
-<li>
-<p><strong>Riksbankens Jubileumsfond Project 2026</strong>, <em>MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction</em> — advanced to Round 2, 2026. Team: Pierluigi Cassotti, Naomi Baes, Nick Haslam, Marco Antonio Stranisci.</p>
-</li>
+<li><strong>Australian Government Research Training Program Scholarship</strong> — AUD $135,000 stipend and fee offset, 2023–2026.</li>
+<li><strong>RHD Career Development Support Scheme</strong>, Melbourne School of Psychological Sciences — AUD $4,000, 2025.</li>
+<li><strong>Best Capstone Presentation Award</strong>, University of Melbourne, 2021.</li>
+<li><strong>First Class Honours</strong> and <strong>Advanced Psychological Theory &amp; Practice Prize</strong>, University of Melbourne.</li>
 </ul>
-<h2 id="awards">Awards</h2>
+<h2 id="competitive-grants--team-funding">Competitive Grants &amp; Team Funding</h2>
 <ul>
-<li>
-<p><strong>Best Resource Paper Award</strong>, Association for Computational Linguistics, 2025. Team award for the BRIGHTER dataset.</p>
-</li>
-<li>
-<p><strong>Best Capstone Presentation Award</strong>, University of Melbourne, 2021.</p>
-</li>
-<li>
-<p><strong>First Class Honours</strong>, Graduate Diploma in Psychology (Advanced), University of Melbourne, 2021.</p>
-</li>
-<li>
-<p><strong>Advanced Psychological Theory &amp; Practice Prize</strong>, University of Melbourne, 2020.</p>
-</li>
+<li><strong>Hallmark Research Initiative seed funding</strong>, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a 7-member team project, led by Dr Yulia Otmakhova, on <em>Automatic evaluation of mental-health stigma in online communication</em>.</li>
+<li><strong>Riksbankens Jubileumsfond Project 2026</strong>, <em>MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction</em> — advanced to Round 2, 2026.</li>
 </ul>
-<h2 id="leadership-and-service">Leadership and Service</h2>
+<h2 id="selected-research-support">Selected Research Support</h2>
 <ul>
-<li>
-<p><strong>Program Chair / Program Committee</strong>, International Workshop on Computational Approaches to Language Change (LChange’26), co-located with EACL 2026.</p>
-</li>
-<li>
-<p><strong>Australian English Language Co-Lead</strong>, BLEnD SemEval-2026 Shared Task on Evaluating Cultural Awareness in Language Models, with Christine de Kock.</p>
-</li>
-<li>
-<p><strong>Program Committee</strong>, IC2S2 2026, *SEM 2025/2026, NLP4Democracy 2025, and ALTA 2025.</p>
-</li>
-<li>
-<p><strong>Conference reviewer</strong>, ACL Rolling Review, 2025–2026.</p>
-</li>
-<li>
-<p><strong>Journal reviewer</strong>, including <em>Psychological Trauma: Theory, Research, Practice, and Policy</em>; <em>Journal of Biosocial Science</em>; <em>Advances in Methods and Practices in Psychological Science</em>; <em>PLOS Mental Health</em>; and <em>Journal of Medical Internet Research</em>.</p>
-</li>
+<li><strong>Concept Creep research support</strong>, University of Melbourne — AUD ~$20,000 in-kind support, 2023–2026. Supported conference travel, research dissemination, and computational social science work connected to the Concept Creep research program, led by Professor Nick Haslam and supported by Australian Research Council Discovery Projects DP210103984 and DP250102690.</li>
+<li><strong>Change is Key! research support</strong>, University of Gothenburg — AUD ~$6,500 in-kind support for an international research visit, consortium participation, conference travel, and collaboration, 2025. Change is Key! is supported by Riksbankens Jubileumsfond (reference number M21-0021).</li>
+<li><strong>Ekaterina Vylomova methodological and computational research support</strong>, University of Melbourne, 2023–2025.</li>
+</ul>
+<h2 id="selected-leadership--service">Selected Leadership &amp; Service</h2>
+<ul>
+<li><strong>Program Chair / Program Committee</strong>: LChange’26, co-located with EACL 2026.</li>
+<li><strong>Australian English Language Co-Lead</strong>: BLEnD SemEval-2026 Shared Task, with Christine de Kock.</li>
+<li><strong>Program Committee / Conference Reviewer</strong>: IC2S2, *SEM, NLP4Democracy, ALTA, and ACL Rolling Review.</li>
+<li><strong>Journal Reviewer</strong>, <em>PLOS Mental Health</em>: <em>Psychological Trauma: Theory, Research, Practice, and Policy</em>, <em>Advances in Methods and Practices in Psychological Science</em>, <em>Journal of Biosocial Science</em>, and <em>Journal of Medical Internet Research</em>.</li>
 </ul>
 
   </article>
@@ -897,9 +999,9 @@
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Awards, Grants &amp; Research Support</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Awards, Grants, Research Support &amp; Service</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        Selected awards, research support, funding, and academic service.</p>
+        Selected individual awards, competitive funding, research support, leadership, and academic service.</p>
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 0001</p>
     </div>
   </div>
@@ -924,9 +1026,9 @@
       
     </div>
     <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Awards, Grants &amp; Research Support</div>
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Awards, Grants, Research Support &amp; Service</div>
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        Selected awards, research support, funding, and academic service.</p>
+        Selected individual awards, competitive funding, research support, leadership, and academic service.</p>
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 0001</p>
     </div>
   </div>

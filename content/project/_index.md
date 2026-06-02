@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Selected research software, benchmarks, and datasets developed as part of my work on lexical semantic change, NLP evaluation, and computational social science.
+      text: Selected projects developing computational methods, datasets, and benchmarks for lexical semantic change, NLP evaluation, and computational social science.
 
       filters:
         folders:

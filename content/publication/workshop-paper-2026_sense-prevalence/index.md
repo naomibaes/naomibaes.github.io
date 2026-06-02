@@ -38,13 +38,13 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
+url: ""
 url_pdf:  'https://aclanthology.org/2026.lchange-1.5/'
 url_code: 'https://github.com/naomibaes/threshold-calibrated_wsd'
-url_dataset: ' '
-url_poster: 'https://www.changeiskey.org/event/2026-eacl-lchange/slides/7.pdf'
+url_dataset: 'https://github.com/naomibaes/threshold-calibrated_wsd'
+url_poster: ''
 url_project: ''
-url_slides: 'https://www.slideshare.net/slideshow/threshold-calibrated-word-sense-disambiguation-semantic-broadening-without-sense-redistribution-in-schizophrenia/286484945#6'
+url_slides: 'https://www.changeiskey.org/event/2026-eacl-lchange/slides/7.pdf'
 url_source: ''
 url_video: ''
 

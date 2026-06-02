@@ -33,6 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:naomi_baes@hotmail.com'
     label: E-mail Me
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/naomibaes.bsky.social
+    label: Bluesky
   - icon: brands/x
     url: https://x.com/naomi_baes
   - icon: brands/github
@@ -43,6 +46,7 @@ profiles:
     url: https://scholar.google.com/citations?user=AtBlGyEAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-3873-5021
+
 
 interests:
   - Lexical Semantic Change
@@ -199,6 +203,9 @@ education:
 
 I am an NLP and computational social science researcher studying how word meanings change across time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change in mental-health language, media discourse, and socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change, especially where language reflects shifting social and psychological categories. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. More broadly, I am interested in language change and variation, shifting mental health concepts, human--LLM evaluation, and computational approaches to culturally significant questions. My work has been supported by the Australian Government Research Training Program Scholarship, Concept Creep research funding, and Change is Key! research support.
 
+## About Me
+
+I am an NLP and computational social science researcher studying how word meanings change over time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change, especially in mental health language, media discourse, and socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. My work has been supported by the *Australian Government Research Training Program Scholarship*, ARC-funded *Concept Creep* research funding, and research support from *Change is Key!*, funded by Riksbankens Jubileumsfond.
 
 
 

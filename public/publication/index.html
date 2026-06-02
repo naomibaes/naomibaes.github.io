@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 31, 2026 --><html lang="en-us" dir="ltr"
+<!-- Last Published: June 2, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/" />
+  <link rel="alternate" hreflang="en-us" href="https://example.com/publication/" />
 
   
   
@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P084K5PWRH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-P084K5PWRH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -163,7 +202,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu_4ad40e59b08a748.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_4e014d42fe91a4ad.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/" />
+  <link rel="canonical" href="https://example.com/publication/" />
 
   
   
@@ -189,10 +228,10 @@
     <meta property="twitter:creator" content="@GetResearchDev" />
   
   <meta property="og:site_name" content="Naomi Baes" />
-  <meta property="og:url" content="http://localhost:1313/publication/" />
-  <meta property="og:title" content="Publications on Conceptual Change | Naomi Baes" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_12c845088f3cf966.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_12c845088f3cf966.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://example.com/publication/" />
+  <meta property="og:title" content="Selected Publications | Naomi Baes" />
+  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="https://example.com/media/icon_hu_12c845088f3cf966.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu_12c845088f3cf966.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2026-05-30T00:00:00&#43;10:00" />
@@ -204,7 +243,7 @@
 
 
 
-  <title>Publications on Conceptual Change | Naomi Baes</title>
+  <title>Selected Publications | Naomi Baes</title>
 
   
   
@@ -269,43 +308,19 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -387,6 +402,106 @@
         
       
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
       
       
         
@@ -461,11 +576,6 @@
         
       
     
-  
-  
-  
-  
-  
   
   
   
@@ -587,8 +697,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
+    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
   ></script>
 
   
@@ -606,6 +716,27 @@
       
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+      
+    
+  
+    
+      
+      <style>
+@media (min-width: 768px) {
+  .research-overview-wide .prose,
+  .research-overview-wide .max-w-prose {
+    max-width: 820px !important;
+  }
+
+  .research-overview-wide ul {
+    max-width: 820px !important;
+  }
+
+  .research-overview-wide li {
+    margin-bottom: 0.85rem;
+  }
+}
+</style>
       
     
   
@@ -708,8 +839,8 @@
         <a
           class="nav-link "
           
-          href="/news/"
-        >News</a
+          href="/updates/"
+        >Updates</a
         >
       </li>
       
@@ -737,7 +868,7 @@
           class="nav-link "
           
           href="/resources/"
-        >Resources</a
+        >Code, Data, &amp; Benchmarks</a
         >
       </li>
       
@@ -820,8 +951,9 @@
 
 <div class="max-w-prose mx-auto flex justify-center">
   <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">Publications on Conceptual Change</h1>
-    
+    <h1 class="lg:text-6xl">Selected Publications</h1>
+    <p>My work clusters around two main areas: (1) <strong>NLP and computational linguistics</strong>, including semantic change frameworks, benchmarks, word sense modeling, and human&ndash;LLM evaluation; and (2) <strong>computational social science and psychology applications</strong>, including concept creep in mental health concepts, dehumanization of social groups, stigma, and contested social categories.</p>
+
   </article>
 </div>
 
@@ -844,7 +976,7 @@
 
   </span>
   (2026).
-  <a href="/publication/" class="underline">Publications on Conceptual Change</a>.
+  <a href="/publication/" class="underline">Selected Publications</a>.
   
 
   
@@ -870,7 +1002,7 @@
 
   <span >
       Pierluigi Cassotti*</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Admin*</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Naomi Baes*</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Stefano De Pascale*</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Jader Martins Camboim De Sá</span>, <span >
       Francesco Periti</span>, <span >
@@ -947,6 +1079,111 @@
 
   <span class="font-bold">
       Naomi Baes</span>, <span >
+      Luc Raszewski</span>, <span >
+      Ekaterina Vylomova</span>, <span >
+      Nick Haslam</span>, <span >
+      Christine De Kock</span>
+  </span>
+  (2026).
+  <a href="/publication/journal-article_2026_icwsm/" class="underline">A Multidimensional Computational Analysis of Dehumanization in Incel Discourse</a>.
+  ICWSM 2026.
+  
+
+  
+  <div class="flex flex-wrap space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://ojs.aaai.org/index.php/ICWSM/article/view/42632" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="hb-attachment-link hb-attachment-small" href="https://github.com/lraszewski/words-against-women" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
+  Code
+</a>
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://ojs.aaai.org/index.php/ICWSM/article/view/42632" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+  
+  
+    
+  
+<a class="hb-attachment-link hb-attachment-small" href="https://bsky.app/profile/naomibaes.bsky.social/post/3mmshws6kk22d" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0"/></svg>
+  Poster
+</a>
+
+
+
+  
+  
+    
+  
+  <a class="hb-attachment-link hb-attachment-small" href="https://www.slideshare.net/slideshow/a-multidimensional-computational-analysis-of-dehumanization-in-incel-discourse-48b4/287807673" target="_blank" rel="noopener">
+    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/></svg>
+    Slides
+  </a>
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1609/icwsm.v20i1.42632" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="font-bold">
+      Naomi Baes</span>, <span >
       Nick Haslam</span>
   </span>
   (2026).
@@ -993,7 +1230,7 @@
   
     
   
-<a class="hb-attachment-link hb-attachment-small" href="/%20" target="_blank" rel="noopener">
+<a class="hb-attachment-link hb-attachment-small" href="https://github.com/naomibaes/threshold-calibrated_wsd" target="_blank" rel="noopener">
   <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/></svg>
   Dataset
 </a>
@@ -1001,15 +1238,6 @@
 
 
 
-
-  
-  
-    
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://www.changeiskey.org/event/2026-eacl-lchange/slides/7.pdf" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0"/></svg>
-  Poster
-</a>
 
 
   
@@ -1732,106 +1960,6 @@
 </div>
 
   
-  
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      Yu Xiao</span>, <span class="font-bold">
-      Naomi Baes</span>, <span >
-      Ekaterina Vylomova</span>, <span >
-      Nick Haslam</span>
-  </span>
-  (2023).
-  <a href="/publication/journal-article_2023_06_plosone/" class="underline">Have the concepts of ‘anxiety’ and ‘depression’ been normalized or pathologized? A corpus study of historical semantic change</a>.
-  PLOS One.
-  
-
-  
-  <div class="flex flex-wrap space-x-3">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1371/journal.pone.0288027" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://osf.io/u9mve/" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
-  Code
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="hb-attachment-link hb-attachment-small" href="/" >
-    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
-    </a>
-
-
-  </div>
-  
-
-  
-  
-</div>
-
-  
 
   
 
@@ -1847,7 +1975,7 @@
 
   </span>
   (2026).
-  <a href="/publication/" class="underline">Publications on Conceptual Change</a>.
+  <a href="/publication/" class="underline">Selected Publications</a>.
   
 
   
