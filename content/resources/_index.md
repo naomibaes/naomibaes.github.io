@@ -20,10 +20,10 @@ sections:
 
   - block: collection
     content:
-      title: Research Software & Pipelines
-      text: "Code for modeling semantic change, generating synthetic corpora, processing diachronic text, and evaluating NLP methods."
+      title: Research Code & Pipelines
+      text: "Code and pipelines for modeling semantic change, generating synthetic corpora, processing diachronic text, and evaluating NLP methods."
       filters:
-        tag: software
+        tag: code
     design:
       view: article-grid
       columns: 4

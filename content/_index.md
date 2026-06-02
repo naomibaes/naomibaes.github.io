@@ -82,6 +82,8 @@ sections:
         </div>
     design:
       columns: 1
+      spacing:
+      design: columns: 1 spacing: padding: ["0", "0", "1rem", "0"]
 
   - block: markdown
     content:
@@ -111,11 +113,14 @@ sections:
           <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all updates
           </a>        
+        </div>
 
         </div>
     design:
       columns: 1
       css_class: research-overview-wide
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
 
   - block: collection
     id: talks
@@ -128,6 +133,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing:
+        padding: ["2rem", "0", "0", "0"]
 
   - block: markdown
     content:
@@ -140,6 +147,8 @@ sections:
         </div>
     design:
       columns: 1
+      spacing:
+        padding: ["0", "0", "1rem", "0"]
 
   - block: markdown
     content:
@@ -153,5 +162,7 @@ sections:
     design:
       columns: 1
       css_class: research-overview-wide
+      spacing: 
+        padding: ["2rem", "0", "2rem", "0"]
 
 ---

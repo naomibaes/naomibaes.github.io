@@ -3,7 +3,7 @@ title: "LSC-Eval: Evaluation Framework for Lexical Semantic Change Detection Met
 date: 2025-04-22
 external_link: "https://github.com/naomibaes/LSCD_method_evaluation"
 tags:
-  - software
+  - code
   - benchmark
   - dataset
 ---

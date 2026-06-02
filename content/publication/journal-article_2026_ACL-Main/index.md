@@ -3,7 +3,7 @@ title: 'Sense Rel: A Sense-Level Benchmark for Denotational and Connotational Me
 
 authors:
   - Pierluigi Cassotti*
-  - Naomi Baes*
+  - admin *
   - Stefano De Pascale*
   - Jader Martins Camboim de Sá
   - Francesco Periti
