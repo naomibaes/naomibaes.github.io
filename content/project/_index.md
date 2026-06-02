@@ -10,7 +10,8 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy developing ideas, as demonstrated by some projects that I have worked on...
+      text: Selected research software, benchmarks, and datasets developed as part of my work on lexical semantic change, NLP evaluation, and computational social science.
+
       filters:
         folders:
           - project
