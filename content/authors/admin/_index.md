@@ -200,7 +200,7 @@ education:
 
 ## About Me
 
-I am an NLP and computational social science researcher studying how word meanings change over time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change, especially in mental health language, media discourse, and socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. My work has been supported by the *Australian Government Research Training Program Scholarship*, ARC-funded *Concept Creep* research funding, and research support from *Change is Key!*, funded by Riksbankens Jubileumsfond.
+I am an NLP and computational social science researcher studying how word meanings change over time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change, especially in the mental health domain and in socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. My work has been supported by the *Australian Government Research Training Program Scholarship*, ARC-funded *Concept Creep* research funding, and research support from *Change is Key!*, funded by Riksbankens Jubileumsfond.
 
 
 
