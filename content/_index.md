@@ -37,18 +37,18 @@ sections:
       subtitle: ''
       text: |-
         
-        I study how meanings shift as concepts move across scientific, media, and general-language contexts, especially when language carries social, cultural, or psychological significance. My work asks how mental health concepts and socially contested terms extend into new contexts, change in severity or emotional force, and acquire new evaluative associations. To examine these questions, I combine NLP methods with theory and concepts from social psychology, computational social science, and corpus linguistics, using historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+        I study how word meanings change as concepts move across scientific writing, news media, and general language. My work focuses especially on language with social, cultural, or psychological significance, including mental health concepts and contested social terms. I ask how these terms extend into new contexts, shift in emotional intensity, and acquire more positive or negative associations. To examine these questions, I combine NLP methods with theory from social psychology, computational social science, and corpus linguistics, using historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
 
         ### Research streams
 
         My work clusters around three overlapping streams: (1) diachronic lexical semantic change and evaluation, (2) conceptual change in psychology, and (3) computational social science projects on socially contested language.
 
         - **Diachronic lexical semantic change and evaluation**  
-          I develop computational methods for tracing and evaluating different *kinds* of diachronic lexical semantic change in historical text corpora, with applications in psychology, computational social science, linguistics, and NLP method evaluation. This stream includes: 
-            - [**SIBling**](/publication/journal-article_2024_acl_sibling/), my main framework contribution for modeling whether words become broader, more emotionally intense, or acquire more positive or negative connotations over time. 
-            - [**LSC-Eval**](/publication/journal-article_2025_acl-findings/), an evaluation resource that uses LLM-generated historical datasets in experimental settings to test whether semantic change methods are sensitive to specific kinds of change. 
-            - A [threshold-calibrated diachronic word sense tracking pipeline](/publication/workshop-paper-2026_sense-prevalence/) for estimating sense prevalence in historical corpora. It contributes to LSC interpretability by showing how sense-aware analysis can clarify whether rising LSC scores reflect shifts between senses or increasing contextual diversity within stable senses.  
-            - [**SenseRel**](/publication/journal-article_2026_acl-main/), a sense-level benchmark for modeling semantic relations between word senses, connecting denotational semantic change types (e.g., generalization, specialization, metaphor, metonymy, and homonymy) with connotational dimensions of meaning (e.g., valence and arousal). It evaluates how well LLMs and fine-tuned models capture these relations.
+          I develop computational methods and evaluation resources for tracing different *kinds* of diachronic lexical semantic change in historical text corpora, with applications in psychology, computational social science, linguistics, and NLP method evaluation. Contributions include: 
+            - [**SIBling**](/publication/journal-article_2024_acl_sibling/), a multidimensional framework for modeling whether words become broader, more emotionally intense, or acquire more positive or negative connotations over time. 
+            - [**LSC-Eval**](/publication/journal-article_2025_acl-findings/), an evaluation framework that uses LLM-generated historical datasets in experimental settings to test whether semantic change methods are sensitive to specific kinds of change. 
+            - A [threshold-calibrated diachronic word sense tracking pipeline](/publication/workshop-paper-2026_sense-prevalence/) for estimating sense prevalence in historical corpora. It contributes to LSC interpretability by showing how LSC scores may not reflect sense change.
+            - [**SenseRel**](/publication/journal-article_2026_acl-main/), a sense-level benchmark for modeling semantic relations between word senses, connecting denotational semantic change types (e.g., metaphor, metonymy) with connotational dimensions of meaning (e.g., valence and arousal). We evaluate how well LLMs and fine-tuned models capture these relations.
 
         - **Conceptual change in psychology and mental health language**  
 
