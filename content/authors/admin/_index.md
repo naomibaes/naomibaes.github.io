@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: NLP & Computational Social Science Researcher | Semantic Change
+role: Computational Social Science & NLP Researcher | Mental Health Concepts · Semantic Change
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -200,7 +200,9 @@ education:
 
 ## About Me
 
-I am an NLP and computational social science researcher studying how word meanings change over time and across scientific, media, and public language. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study semantic and conceptual change, especially in the mental health domain and in socially contested language. I bring social science and psychology training to NLP questions about meaning, concepts, and cultural change. I led the development of **SIBling** and **LSC-Eval**, frameworks for modeling and evaluating lexical semantic change. My work has been supported by the *Australian Government Research Training Program Scholarship*, ARC-funded *Concept Creep* research funding, and research support from *Change is Key!*, funded by Riksbankens Jubileumsfond.
+<p>I am a computational social science and NLP researcher studying how mental health concepts change over time across scientific writing, news media, and general language corpora. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study how terms such as <em>trauma</em>, <em>mental illness</em>, <em>schizophrenia</em>, and related concepts broaden, shift in severity or emotional intensity, or acquire new evaluative associations.</p>
+
+<p>I led the development of <strong>SIBling</strong> and <strong>LSC-Eval</strong>, frameworks for modeling and evaluating lexical semantic change, with applications to psychology, media discourse, and computational social science. While my main applications have been to the historical change in meaning of core concepts in mental health and psychology, these frameworks are designed to support interpretable multidimensional semantic change analysis across domains. My work has been supported by the <em>Australian Government Research Training Program Scholarship</em>, ARC-funded <em>Concept Creep</em> research funding, and research support from <em>Change is Key!</em>, funded by Riksbankens Jubileumsfond.</p>
 
 
 

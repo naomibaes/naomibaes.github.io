@@ -41,19 +41,17 @@ sections:
 
         ### Research streams
 
-        My work asks how meanings and concepts change as they move across scientific, media, and public contexts, especially where language reflects shifting boundaries between normality and pathology, harm and hardship, clinical and everyday meaning, or human and dehumanized social categories. It clusters around three overlapping streams:
-
-        - **Semantic and conceptual change**  
-          Developing methods for tracing how meanings shift across time, from multidimensional models of lexical semantic change to synthetic benchmarks, diachronic word-sense tracking, and recent work on how humans and language models represent meaning.  
-          **Key work:** [SIBling](/publication/journal-article_2024_acl_sibling/), [LSC-Eval](/publication/journal-article_2025_acl-findings/), [Diachronic WSD](/publication/workshop-paper-2026_sense-prevalence/), [SenseRel](/publication/journal-article_2026_acl-main/).
+        My work clusters around three overlapping streams: (1) historical semantic shifts in mental health concepts, (2) computational methods for semantic and conceptual change, and (3) collaborative computational social science projects on socially contested language.
 
         - **Mental health concepts and category boundaries**  
-          Applying these methods to mental health concepts and terminology, examining how meanings and representations shift across psychology, news media, books, and general American English, interpreting findings through the lens of psychological theory.  
-          **Selected work:** Historical semantic shifts in [*trauma*](/publication/journal-article_2023_plc/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), [generic](/publication/journal-article_2024_acl_sibling/) and [emotion-related](/publication/journal-article_2023_12_emnlp/) mental-health terminology, and collaborative projects on *ADHD*, [*anxiety* and *depression*](/publication/journal-article_2023_06_plosone/).
 
-        - **Socially contested language**  
-          Studying how language encodes negative evaluation, dehumanization, identity, stigma, and contested social meanings in public discourse.  
-          **Selected collaborative work:** [Dehumanization of women in incel discourse](/publication/journal-article_2026_icwsm/), mental health stigma detection in online communication, identity/person-first language for mental health conditions, and [laypeople's understandings of the common good](/publication/journal-article_2024_4_bjsp/).
+          I study how mental health concepts and terminology change over time across psychology, news media, books, and general language corpora. This stream examines how terms such as [*trauma*](/publication/journal-article_2023_plc/), *[mental illness](/publication/journal-article_2024_acl_sibling/)*, [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), and related [generic](/publication/journal-article_2024_acl_sibling/) and [emotion related](/publication/journal-article_2023_12_emnlp/) mental health terminology change in meaning, severity, salience, and use across domains, interpreted through the lens of psychological theory and concept creep research.
+
+        - **Semantic and conceptual change**  
+          I develop computational methods for tracing and evaluating different *kinds* of semantic change over time. This stream includes [**SIBling**](/publication/journal-article_2024_acl_sibling/) and [**LSC-Eval**](/publication/journal-article_2025_acl-findings/), my key framework and evaluation resource contributions for modeling whether words become broader, more emotionally intense, or come to acquire more positive or negative connotations across historical corpora. It also includes work on [diachronic word sense tracking](/publication/workshop-paper-2026_sense-prevalence/) and human-LLM representations of meaning ([**SenseRel**](/publication/journal-article_2026_acl-main/)).
+
+        - **Computational social science**  
+          I also contribute to collaborative projects that use NLP and computational social science methods to study socially important language, including [dehumanization](/publication/journal-article_2026_icwsm/) of women in incel discourse, mental health stigma detection in online communication, identity/person-first language for mental health conditions, and lay understandings of the [common good](/publication/journal-article_2024_4_bjsp/). These projects are related to my central interest in how language reflects social and psychological categories.
 
     design:
       columns: '1'
