@@ -20,8 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computational Social Science & NLP Researcher | Mental Health Concepts · Semantic Change
-
+role: NLP & Computational Social Science Researcher | Diachronic Semantic Change · Mental Health Concepts
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Melbourne
@@ -51,7 +50,7 @@ profiles:
 interests:
   - Lexical Semantic Change
   - Computational Social Science
-  - Mental Health Language
+  - Mental Health Concepts
   - NLP Evaluation
   - Concept Creep 
 

@@ -158,7 +158,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, mental health, and how social and psychological categories are described, evaluated, and represented in language. I use computational methods and careful measurement to better understand how these categories change, and to make clearer, responsible claims about socially important questions. Theory only becomes useful empirically when we can make clear, interpretable, and well-grounded claims about what we are measuring.
+        My work is motivated by substantive questions about language, meaning, mental health, and how social and psychological categories are described, evaluated, and represented in language. I use computational methods and careful measurement to better understand how these categories change, and to make clearer, responsible claims about socially important questions. Theory becomes useful empirically when we can make clear, more interpretable, and well-grounded claims about what we are measuring.
 
         </div>
     design:
