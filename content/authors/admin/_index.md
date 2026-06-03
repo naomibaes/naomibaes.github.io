@@ -200,9 +200,15 @@ education:
 
 ## About Me
 
-<p>I am a computational social science and NLP researcher studying how mental health concepts change over time across scientific writing, news media, and general language corpora. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to study how terms such as <em>trauma</em>, <em>mental illness</em>, <em>schizophrenia</em>, and related concepts broaden, shift in severity or emotional intensity, or acquire new evaluative associations.</p>
+<p>I am an NLP and computational social science researcher studying diachronic lexical semantic change: how word meanings and psychologically important concepts shift across time and communicative contexts. My work combines historical text corpora, contextual embeddings, lexical resources, statistical modeling, and large language models to develop interpretable methods for measuring changes in word meaning, concept use, and the ways social and psychological categories are described, evalauted, and represented in language.</p>
 
-<p>I led the development of <strong>SIBling</strong> and <strong>LSC-Eval</strong>, frameworks for modeling and evaluating lexical semantic change, with applications to psychology, media discourse, and computational social science. While my main applications have been to the historical change in meaning of core concepts in mental health and psychology, these frameworks are designed to support interpretable multidimensional semantic change analysis across domains. My work has been supported by the <em>Australian Government Research Training Program Scholarship</em>, ARC-funded <em>Concept Creep</em> research funding, and research support from <em>Change is Key!</em>, funded by Riksbankens Jubileumsfond.</p>
+<p>I am especially interested in mental health language, concept creep, and socially contested language, where changes in meaning can shape how people understand distress, disorder, stigma, identity, and social categories. Much of my empirical work examines how concepts such as <em>trauma</em>, <em>mental illness</em>, <em>schizophrenia</em>, and <em>introversion</em> broaden, shift in severity or emotional intensity, or acquire new evaluative associations across scientific writing, news media, and general language corpora.</p>
+
+<p>I led the development of <strong>SIBling</strong> and <strong>LSC-Eval</strong>, frameworks for modeling and evaluating lexical semantic change with applications to psychology, media discourse, linguistics, and computational social science. Although many of my main applications have focused on mental health and psychology, these frameworks are designed to support interpretable multidimensional semantic change analysis across domains. My work has been supported by the <em>Australian Government Research Training Program Scholarship</em>, ARC-funded <em>Concept Creep</em> research funding, and research support from <em>Change is Key!</em>, funded by Riksbankens Jubileumsfond.</p>
+
+
+
+
 
 
 
