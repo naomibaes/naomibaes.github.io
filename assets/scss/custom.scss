@@ -27,3 +27,14 @@ main .mx-auto {
   max-width: 200px !important;
   max-height: 200px !important;
 }
+/* CV button */
+a[href$="resume.pdf"] {
+  border: 1px solid white !important;
+  color: white !important;
+  background-color: transparent !important;
+}
+
+a[href$="resume.pdf"]:hover {
+  background-color: white !important;
+  color: #1a3a2a !important;
+}
