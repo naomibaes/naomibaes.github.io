@@ -16,13 +16,14 @@ main .mx-auto {
   max-width: 900px;
 }
 
-.resume-biography .avatar {
-  width: 225px !important;
-  height: 225px !important;
-  max-width: 225px !important;
-  max-height: 225px !important;
+/* Avatar size */
+#section-resume-biography-3 .avatar-wrapper {
+  width: 200px !important;
 }
 
-.flex-none.m-w-\[130px\] {
-  width: 225px !important;
+#section-resume-biography-3 img.avatar {
+  width: 200px !important;
+  height: 200px !important;
+  max-width: 200px !important;
+  max-height: 200px !important;
 }
