@@ -16,7 +16,13 @@ main .mx-auto {
   max-width: 900px;
 }
 
-.avatar-circle {
-  width: 200px !important;
-  height: 200px !important;
+.resume-biography .avatar {
+  width: 225px !important;
+  height: 225px !important;
+  max-width: 225px !important;
+  max-height: 225px !important;
+}
+
+.flex-none.m-w-\[130px\] {
+  width: 225px !important;
 }
