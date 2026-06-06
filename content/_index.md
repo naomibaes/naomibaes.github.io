@@ -145,17 +145,15 @@ sections:
       text: |
         <hr style="margin: 0 auto 1.6rem auto; max-width: 520px;">
 
-        <div style="text-align: center; margin-top: 0; margin-bottom: 0.6rem;">
-          <div style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 1.2rem;">
+        <div style="text-align: center; margin-top: 0; margin-bottom: 0;">
+          <div style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 0.8rem;">
             Invited Talks
           </div>
-
-          <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
-            <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 34px; max-width: 145px; object-fit: contain; opacity: 0.82;">
-            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 50px; max-width: 105px; object-fit: contain; border-radius: 4px; opacity: 0.85;">
-            <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 28px; max-width: 175px; object-fit: contain; opacity: 0.82;">
+          <div style="display: flex; justify-content: center; align-items: center; gap: 1.4rem; flex-wrap: nowrap; width: 100%; max-width: 620px; margin: 0 auto;">
+            <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 32px; max-width: 135px; object-fit: contain; opacity: 0.82;">
+            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 46px; max-width: 95px; object-fit: contain; border-radius: 4px; opacity: 0.85;">
+            <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 26px; max-width: 165px; object-fit: contain; opacity: 0.82;">
           </div>
-        </div>
     design:
       columns: '1'
       spacing:
@@ -165,7 +163,7 @@ sections:
     content:
       title: ''
       text: |
-        <div style="text-align: center; margin-top: 0.4rem; margin-bottom: 0;">
+        <div style="text-align: center; margin-top: 0; margin-bottom: 0;">
           <a href="/talks/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all presentations
           </a>
