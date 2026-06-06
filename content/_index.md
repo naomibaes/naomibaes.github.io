@@ -151,7 +151,7 @@ sections:
           </div>
           <div style="display: flex; justify-content: center; align-items: center; gap: 1.4rem; flex-wrap: nowrap; width: 100%; max-width: 620px; margin: 0 auto;">
             <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 32px; max-width: 135px; object-fit: contain; opacity: 0.82;">
-            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 46px; max-width: 95px; object-fit: contain; border-radius: 4px; opacity: 0.85;">
+            <img src="/media/logos/university-of-gothenburg.svg" alt="University of Gothenburg" style="max-height: 46px; max-width: 95px; object-fit: contain; border-radius: 4px; opacity: 0.85;">
             <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 26px; max-width: 165px; object-fit: contain; opacity: 0.82;">
           </div>
     design:
