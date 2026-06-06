@@ -143,27 +143,29 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        ***
+        <hr style="margin: 0 auto 1.6rem auto; max-width: 520px;">
 
-        <div style="text-align: center; margin-top: 1.5rem; margin-bottom: 1.8rem;">
-          <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 25px;">
+        <div style="text-align: center; margin-top: 0; margin-bottom: 0.6rem;">
+          <div style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 1.2rem;">
             Invited Talks
           </div>
 
-          <div style="display: flex; justify-content: center; align-items: center; gap: 2.4rem; flex-wrap: wrap;">
-            <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 42px; max-width: 170px; object-fit: contain; filter: grayscale(100%); opacity: 0.68;">
-            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 64px; max-width: 130px; object-fit: contain; border-radius: 4px; opacity: 0.78;">
-            <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 34px; max-width: 210px; object-fit: contain; filter: grayscale(100%); opacity: 0.72;">
+          <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
+            <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 34px; max-width: 145px; object-fit: contain; opacity: 0.82;">
+            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 50px; max-width: 105px; object-fit: contain; border-radius: 4px; opacity: 0.85;">
+            <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 28px; max-width: 175px; object-fit: contain; opacity: 0.82;">
           </div>
         </div>
     design:
       columns: '1'
+      spacing:
+        padding: ["0", "0", "0", "0"]
 
   - block: markdown
     content:
       title: ''
       text: |
-        <div style="text-align: center; margin-top: -3.5rem; margin-bottom: -1rem;">
+        <div style="text-align: center; margin-top: 0.4rem; margin-bottom: 0;">
           <a href="/talks/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all presentations
           </a>
@@ -171,7 +173,7 @@ sections:
     design:
       columns: 1
       spacing:
-        padding: ["0", "0", "1rem", "0"]
+        padding: ["0", "0", "0.5rem", "0"]
 
   - block: markdown
     content:
