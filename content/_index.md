@@ -140,45 +140,19 @@ sections:
 
   - block: markdown
     content:
-      title: ''
+      title: ""
+      subtitle: ""
       text: |
-        <hr style="border: none; border-top: 1px solid #eaeaea; margin: 40px 0 25px 0;">
-        <div style="text-align: center;">
-          <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 25px;">
-            Invited Presentations & Research Collaborations
-          </p>
-          <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 45px; max-width: 900px; margin: 0 auto; padding: 10px;">
-            
-            <!-- University of Melbourne -->
-            <img src="https://wikimedia.org" 
-                 alt="University of Melbourne" 
-                 style="height: 48px; filter: grayscale(100%); opacity: 0.5; transition: all 0.3s ease;"
-                 onmouseover="this.style.opacity=0.9; this.style.filter='grayscale(0%)'" 
-                 onmouseout="this.style.opacity=0.5; this.style.filter='grayscale(100%)'">
+        ***
 
-            <!-- University of Gothenburg -->
-            <img src="https://wikimedia.org" 
-                 alt="University of Gothenburg" 
-                 style="height: 52px; filter: grayscale(100%); opacity: 0.5; transition: all 0.3s ease;"
-                 onmouseover="this.style.opacity=0.9; this.style.filter='grayscale(0%)'" 
-                 onmouseout="this.style.opacity=0.5; this.style.filter='grayscale(100%)'">
+        <center style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 25px; display: block; width: 100%;">Invited Presentations & Research Collaborations</center>
 
-            <!-- Utrecht University -->
-            <img src="https://wikimedia.org" 
-                 alt="Utrecht University" 
-                 style="height: 38px; filter: grayscale(100%); opacity: 0.5; transition: all 0.3s ease;"
-                 onmouseover="this.style.opacity=0.9; this.style.filter='grayscale(0%)'" 
-                 onmouseout="this.style.opacity=0.5; this.style.filter='grayscale(100%)'">
-
-            <!-- National Research Council Canada -->
-            <img src="https://wikimedia.org" 
-                 alt="National Research Council Canada" 
-                 style="height: 32px; filter: grayscale(100%); opacity: 0.5; transition: all 0.3s ease;"
-                 onmouseover="this.style.opacity=0.9; this.style.filter='grayscale(0%)'" 
-                 onmouseout="this.style.opacity=0.5; this.style.filter='grayscale(100%)'">
-
-          </div>
-        </div>
+        <p align="center">
+          <img src="https://wikimedia.org" alt="University of Melbourne" height="48" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
+          <img src="https://wikimedia.org" alt="University of Gothenburg" height="52" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
+          <img src="https://wikimedia.org" alt="Utrecht University" height="38" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
+          <img src="https://wikimedia.org" alt="National Research Council Canada" height="32" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
+        </p>
     design:
       columns: '1'
 
