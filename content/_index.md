@@ -145,14 +145,17 @@ sections:
       text: |
         ***
 
-        <center style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 25px; display: block; width: 100%;">Invited Presentations & Research Collaborations</center>
+        <div style="text-align: center; margin-top: 1.5rem; margin-bottom: 1.8rem;">
+          <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: #777; font-weight: 600; margin-bottom: 25px;">
+            Invited Talks
+          </div>
 
-        <p align="center">
-          <img src="https://wikimedia.org" alt="University of Melbourne" height="48" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
-          <img src="https://wikimedia.org" alt="University of Gothenburg" height="52" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
-          <img src="https://wikimedia.org" alt="Utrecht University" height="38" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
-          <img src="https://wikimedia.org" alt="National Research Council Canada" height="32" style="display:inline-block; margin: 0 20px; vertical-align:middle; filter:grayscale(100%); opacity:0.6;">
-        </p>
+          <div style="display: flex; justify-content: center; align-items: center; gap: 2.4rem; flex-wrap: wrap;">
+            <img src="/media/logos/utrecht-university.svg" alt="Utrecht University" style="max-height: 42px; max-width: 170px; object-fit: contain; filter: grayscale(100%); opacity: 0.68;">
+            <img src="/media/logos/university-of-gothenburg.jpg" alt="University of Gothenburg" style="max-height: 64px; max-width: 130px; object-fit: contain; border-radius: 4px; opacity: 0.78;">
+            <img src="/media/logos/nrc-canada.jpg" alt="National Research Council Canada" style="max-height: 34px; max-width: 210px; object-fit: contain; filter: grayscale(100%); opacity: 0.72;">
+          </div>
+        </div>
     design:
       columns: '1'
 
