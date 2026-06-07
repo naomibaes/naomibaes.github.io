@@ -179,7 +179,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        My work is motivated by substantive questions about language, meaning, mental health, and how social and psychological categories are described, evaluated, and represented in language. I use computational methods and careful measurement to better understand how these categories change, and to make clearer, responsible claims about socially important questions. Theory becomes useful empirically when we can make clear, more interpretable, and well-grounded claims about what we are measuring.
+        Much of my work begins with a measurement problem inspired by a substantive question: existing methods for detecting semantic change often conflate distinct kinds of shift — a word broadening its scope is not the same as it softening in severity or acquiring negative associations, yet most approaches treat these as one phenomenon. My research is motivated by the belief that getting the measurement to approximate the construct as closely as possible is not a technical detail but a substantive one; imprecise tools produce imprecise claims about how language, concepts, and cultural change. SIBling, LSC-Eval, and SenseRel all emerged from this concern: frameworks designed to make semantic change research more interpretable, more evaluable, and more honest about what is and isn't being measured.
 
         </div>
     design:
@@ -188,4 +188,4 @@ sections:
       spacing: 
         padding: ["2rem", "0", "2rem", "0"]
 
----
+---        My work is motivated by substantive questions about language, meaning, mental health, and how social and psychological categories are described, evaluated, and represented in language. I use computational methods and careful measurement to better understand how these categories change, and to make clearer, responsible claims about socially important questions. Theory becomes useful empirically when we can make clear, more interpretable, and well-grounded claims about what we are measuring.
