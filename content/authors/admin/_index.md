@@ -209,7 +209,7 @@ education:
 ##<p>Substantively, my work focuses on mental health language, concept creep, and socially contested language, with empirical studies of concepts such as <em>trauma</em>, <em>mental illness</em>, <em>schizophrenia</em>, and <em>introversion</em>. I led the development of <strong>SIBling</strong> and <strong>LSC-Eval</strong>, frameworks for modeling and evaluating lexical semantic change with applications to psychology, media discourse, linguistics, and computational social science. My research has received support from the <em>Australian Government Research Training Program Scholarship</em>, ARC-funded <em>Concept Creep</em> research funding, and <em>Change is Key!</em>, funded by Riksbankens Jubileumsfond.</p>
 
 
-
+---
 
 <p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Concept creep describes one way these shifts can happen - harm related concepts have expanded in scope and softened in severity since the late twentieth century, coming to describe a broader and milder range of experiences than they once did. These changes matter for how people understand, label, and seek help for distress.</p>
 

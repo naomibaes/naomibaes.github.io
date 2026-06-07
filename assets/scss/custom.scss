@@ -1,61 +1,44 @@
+/* Width: prose and containers */
 .research-overview-wide .prose,
 .research-overview-wide .max-w-prose,
-.research-overview-wide .container {
-  max-width: 760px !important;
-}
-
-/* Widen prose and card/list pages slightly */
+.research-overview-wide .container,
 .max-w-prose,
 .prose {
   max-width: 760px !important;
 }
 
-/* Widen list/card containers on pages such as Talks, Publications, Updates */
 main .container,
 main .mx-auto {
-  max-width: 900px;
+  max-width: 900px !important;
 }
 
-/* Avatar size */
-#section-resume-biography-3 .avatar-wrapper {
-  width: 200px !important;
-}
-
-#section-resume-biography-3 img.avatar {
-  border-radius: 6px !important;
-  filter: contrast(1.05) saturate(0.9) !important;
-  border: 3px solid rgba(255,255,255,0.2) !important;
-}
-
+/* Avatar: square crop, warm tint, subtle border */
 #section-resume-biography-3 .avatar-wrapper {
   width: 220px !important;
-  border-radius: 4px !important;  /* nearly square, just slightly rounded */
+  border-radius: 4px !important;
 }
 
 #section-resume-biography-3 img.avatar {
   width: 220px !important;
   height: 220px !important;
   border-radius: 4px !important;
-  border: 2px solid rgba(255,255,255,0.15) !important;  /* subtle white frame */
+  border: 2px solid rgba(255,255,255,0.2) !important;
+  filter: contrast(1.05) saturate(0.9) !important;
 }
 
-#section-resume-biography-3 img.avatar {
-  width: 200px !important;
-  height: 200px !important;
-  max-width: 200px !important;
-  max-height: 200px !important;
+/* Hide default "About Me" section heading */
+#section-resume-biography-3 h1,
+#section-resume-biography-3 h2 {
+  display: none !important;
 }
+
 /* CV button */
 a[href$="resume.pdf"] {
   border: 1px solid white !important;
   color: white !important;
   background-color: transparent !important;
 }
-
 a[href$="resume.pdf"]:hover {
   background-color: white !important;
   color: #1a3a2a !important;
-}#section-resume-biography-3 h1,
-#section-resume-biography-3 h2 {
-  display: none !important;
 }
