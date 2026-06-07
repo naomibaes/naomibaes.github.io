@@ -211,12 +211,11 @@ education:
 
 ---
 
-<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Concept creep describes one way these shifts can happen - harm related concepts have expanded in scope and softened in severity since the late twentieth century, coming to describe a broader and milder range of experiences than they once did. These changes matter for how people understand, label, and seek help for distress.</p>
+<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Concept creep describes one way these shifts can happen: harm-related concepts have expanded in scope and softened in severity since the late twentieth century, coming to describe a broader and milder range of experiences than they once did. These changes matter for how people understand, label, and seek help for distress.</p>
 
-<p>I build computational tools to measure this kind of change precisely — and to study semantic change more broadly. My frameworks, <strong>SIBling</strong> and <strong>LSC-Eval</strong>, are designed to detect and evaluate specific kinds of semantic change across domains - whether a word is broadening in scope, gaining emotional intensity, or shifting in valence over time. My PhD applies these tools to mental health concepts, tracing how concepts such as <em>trauma</em>, <em>schizophrenia</em>, and <em>mental illness</em> have changed across decades of scientific and public discourse.</p>
+<p>I build computational tools to measure this kind of change precisely — and to study semantic change more broadly. My frameworks, <strong>SIBling</strong> and <strong>LSC-Eval</strong>, are designed to detect and evaluate specific kinds of semantic change across domains: whether a word is broadening in scope, gaining emotional intensity, or shifting in valence over time. My PhD applies these tools to mental health concepts, tracing how concepts have changed across decades of scientific and public discourse.</p>
 
-<p>Most recently, I have collaborated with <strong>Change is Key!</strong>, a leading research program developing computational approaches to semantic change, to develop <strong>SenseRel</strong>, a benchmark for evaluating how well language models capture meaning relations at the sense level. I am a PhD researcher at the University of Melbourne working at the intersection of natural language processing and social psychology, supported by the Australian Government Research Training Program Scholarship, ARC-funded Concept Creep research funding, and Change is Key! (Riksbankens Jubileumsfond).</p>
-
+<p>Most recently, I collaborated with <strong>Change is Key!</strong> (Riksbankens Jubileumsfond) to develop <strong>SenseRel</strong>, a benchmark for evaluating how well language models capture meaning relations at the sense level. I am a PhD researcher at the University of Melbourne working at the intersection of natural language processing and social psychology, supported by the Australian Government Research Training Program Scholarship and ARC-funded Concept Creep research funding.</p>
 
 
 
