@@ -39,11 +39,11 @@ sections:
 
         - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
 
-        - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel online communities.
+        - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel discourse.
 
         - **ACL 2025 Findings (Computational Social Science & Cultural Analytics):** Lead author of [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) — a framework for evaluating whether computational methods are sensitive to detecting dimensions of semantic change, using the mental health domain as a case study.
 
-        - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth), with applications to social and psychological research.
+        - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth), with applications to the social sciences.
 
         - **Invited talks:** Presented work on computational methods for tracking meaning change in the mental health domain — including SIBling, LSC-Eval, and applied case studies in psychology — at [*Utrecht University*](https://naomibaes.github.io/talks/nltp_lab_2025/), the [*University of Gothenburg*](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [*National Research Council Canada*](https://naomibaes.github.io/talks/nrc_2025/).      
 
