@@ -47,7 +47,7 @@ sections:
 
         - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth), with applications to social and psychological research.
 
-        - **International Conference on Computational Social Science (IC2S2) 2025:** [Presented]() SIBling and LSC-Eval to an interdisciplinary audience of social scientists and computational researchers in Norrköping, Sweden.
+        - **International Conference on Computational Social Science (IC2S2) 2025:** [Presented](https://naomibaes.github.io/talks/ic2s2_2025/) SIBling and LSC-Eval to an interdisciplinary audience of social scientists and computational researchers.
 
         - **Public writing:** Co-authored a piece in [*The Conversation*](https://theconversation.com/mental-illness-psychiatric-disorder-or-psychological-problem-what-should-we-call-mental-distress-226748) with Professor Nick Haslam on what we should call mental distress — and why the words we use matter.
 
