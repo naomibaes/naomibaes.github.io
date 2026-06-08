@@ -37,7 +37,7 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint-first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research internship.
+        - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint-first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
 
         - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel online communities.
 
