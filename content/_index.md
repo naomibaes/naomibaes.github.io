@@ -37,29 +37,17 @@ sections:
       text: |
         <div style="font-size: 1rem">
 
-        - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint-first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
+        - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
 
         - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel online communities.
-
-        - **Language Change Workshop (LChange'26; EACL 2026):** Lead author of a [paper](https://naomibaes.github.io/publication/workshop-paper-2026_sense-prevalence/) extending a hypothesis-driven framework to track how the prevalence of word senses shifts over time, applied to *schizophrenia* — presented at the workshop.
 
         - **ACL 2025 Findings (Computational Social Science & Cultural Analytics):** Lead author of [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) — a framework for evaluating whether computational methods are sensitive to detecting dimensions of semantic change, using the mental health domain as a case study.
 
         - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth), with applications to social and psychological research.
 
-        - **International Conference on Computational Social Science (IC2S2) 2025:** [Presented](https://naomibaes.github.io/talks/ic2s2_2025/) SIBling and LSC-Eval to an interdisciplinary audience of social scientists and computational researchers.
-
-        - **Public writing:** Co-authored a piece in [*The Conversation*](https://theconversation.com/mental-illness-psychiatric-disorder-or-psychological-problem-what-should-we-call-mental-distress-226748) with Professor Nick Haslam on what we should call mental distress — and why the words we use matter.
+        - **Invited talks:** Presented work on computational methods for tracking meaning change in the mental health domain — including SIBling, LSC-Eval, and applied case studies in psychology — at [*Utrecht University*](https://naomibaes.github.io/talks/nltp_lab_2025/), the [*University of Gothenburg*](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [*National Research Council Canada*](https://naomibaes.github.io/talks/nrc_2025/).      
 
         - **Awards and research support:** Australian Government Research Training Program Scholarship; selected for Change is Key! international research internship (Riksbankens Jubileumsfond); Concept Creep research funding for conference travel and dissemination.
-
-        - **Competitive team funding:** Co-recipient of **AUD $15,000 Hallmark Research Initiative seed funding** for a 7-member team project on '*Automatic evaluation of mental health stigma in online communication*', led by Yulia Otmakhova.
-
-        - **Research leadership and service:** Program Chair/PC for the [LChange'26 Workshop](https://www.changeiskey.org/event/2026-eacl-lchange/), co-located with EACL 2026; Australian English Language Co-Lead with Christine de Kock for the [BLEnD SemEval-2026 Shared Task](https://arxiv.org/abs/2605.02601).
-
-        - **ACL 2025 Best Resource Paper Award (Resources & Evaluation):** Contributor to [**BRIGHTER**](https://aclanthology.org/2025.acl-long.436/) — a large multilingual dataset for emotion recognition across 28 languages, including many low-resource languages from Africa, Asia, and Eastern Europe; awarded Best Resource Paper at ACL 2025. Contributed Romanian-language annotation (team lead: Daniela Teodorescu).
-
-        - **Invited talks:** Presented work on computational methods for tracking meaning change in the mental health domain — including SIBling, LSC-Eval, and applied case studies in psychology — at [*Utrecht University*](https://naomibaes.github.io/talks/nltp_lab_2025/), the [*University of Gothenburg*](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [*National Research Council Canada*](https://naomibaes.github.io/talks/nrc_2025/).      
 
         <div style="text-align: center; margin-top: 1.2rem;">
           <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">

@@ -23,7 +23,8 @@ summary: "Selected individual awards, competitive funding, research support, lea
 
 ## Selected Leadership & Service
 
-- **Program Chair / Program Committee**: LChange’26 Workshop, co-located with EACL 2026.
-- **Australian English Language Co-Lead**: BLEnD SemEval-2026 Shared Task, with Christine de Kock.
+- **Program Chair / Program Committee**: [LChange'26 Workshop](https://www.changeiskey.org/event/2026-eacl-lchange/), co-located with EACL 2026.
+- **Australian English Language Co-Lead**: [BLEnD SemEval-2026 Shared Task](https://arxiv.org/abs/2605.02601), with Christine de Kock.
 - **Program Committee / Conference Reviewer**: IC2S2, \*SEM, NLP4Democracy, ALTA, and ACL Rolling Review.
 - **Journal Reviewer**, *PLOS Mental Health*: *Psychological Trauma: Theory, Research, Practice, and Policy*, *Advances in Methods and Practices in Psychological Science*, *Journal of Biosocial Science*, and *Journal of Medical Internet Research*.
+
