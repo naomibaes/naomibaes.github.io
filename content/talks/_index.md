@@ -1,5 +1,5 @@
 ---
-title: Talks and Presentations
+title: Invited Talks, Presentations, and Posters
 cms_exclude: true
 
 view: card
