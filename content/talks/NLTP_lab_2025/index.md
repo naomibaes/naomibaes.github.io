@@ -1,5 +1,5 @@
 ---
-title: "Dimensions of Semantic Change: Applying the SIBling Framework to Mental Health Concepts"
+title: "Invited Talk - Dimensions of Semantic Change: Applying the SIBling Framework to Mental Health Concepts"
 event: "NLTP Content Meetings – September 16 – Dimensions of Semantic Change: Applying the SIBling Framework to Mental Health Concepts by Naomi Baes"
 event_url: "https://nlp.sites.uu.nl/2025/09/11/nltp-content-meetings-september-16-dimensions-of-semantic-change-applying-the-sibling-framework-to-mental-health-concepts-by-naomi-baes/"
 location: "University of Utrecht, Natural Language and Text Processing Lab"

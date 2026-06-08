@@ -1,5 +1,5 @@
 ---
-title: "Dimensions of Semantic Change: Validation and Application of the SIBling Framework"
+title: "Invited Talk - Dimensions of Semantic Change: Validation and Application of the SIBling Framework"
 event: "National Research Council Canada – September 24 – Dimensions of Semantic Change: Validation and Application of the SIBling Framework by Naomi Baes"
 location: "Remote"
 address:
