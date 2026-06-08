@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&display=swap');
+
 /* Width: prose and containers */
 .research-overview-wide .prose,
 .research-overview-wide .max-w-prose,
@@ -41,4 +43,61 @@ a[href$="resume.pdf"] {
 a[href$="resume.pdf"]:hover {
   background-color: white !important;
   color: #1a3a2a !important;
+}
+
+/* Typography: scholarly but modern */
+:root {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-serif: "Source Serif 4", Georgia, serif;
+}
+
+/* Main reading text */
+body,
+.prose,
+main p,
+main li {
+  font-family: var(--font-serif) !important;
+  font-size: 1.03rem;
+  line-height: 1.72;
+}
+
+/* Keep interface elements crisp and technical */
+h1, h2, h3, h4, h5, h6,
+nav,
+.navbar,
+.nav-link,
+.btn,
+button,
+.article-metadata,
+.page-subtitle,
+.card-title {
+  font-family: var(--font-sans) !important;
+}
+
+/* Headings: cleaner, more confident */
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Navigation: polished and deliberate */
+nav,
+.navbar,
+.nav-link {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Buttons should remain modern rather than bookish */
+.btn,
+button,
+a.btn {
+  font-family: var(--font-sans) !important;
+  font-weight: 500;
+}
+
+/* Keep the dark hero/resume section clean and readable */
+#section-resume-biography-3,
+#section-resume-biography-3 * {
+  font-family: var(--font-sans) !important;
 }
