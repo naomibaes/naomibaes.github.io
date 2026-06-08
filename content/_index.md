@@ -35,7 +35,6 @@ sections:
     content:
       title: Highlights
       text: |
-        <div style="font-size: 1rem">
 
         - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
 
@@ -53,7 +52,6 @@ sections:
           <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all updates
           </a>        
-        </div>
 
         </div>
     design:
@@ -171,10 +169,7 @@ sections:
     content:
       title: Research Ethos
       text: |
-        <div style="font-size: 1rem">
-
         Much of my work begins with a measurement problem: existing methods for detecting semantic change often conflate distinct kinds of shift — broadening is not the same as softening or acquiring negative associations, yet most approaches treat these as one phenomenon. I believe getting measurement to approximate the construct as closely as possible is not a technical detail but a substantive one; imprecise tools produce imprecise claims about how language and culture change. SIBling, LSC-Eval, and SenseRel all emerged from this concern — frameworks designed to make semantic change research more interpretable, more evaluable, and more honest about what is and isn't being measured.
-        </div>
     design:
       columns: 1
       css_class: research-overview-wide
