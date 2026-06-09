@@ -38,7 +38,7 @@ sections:
 
         - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint first author on [*SenseRel*](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
 
-        - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel discourse across five dimensions (negative evaluation, moral disgust, animal likeness, mind denial, agency denial). Supported by the University of Melbourne Hallmark Research Initiative on Fighting Harmful Online Communication.
+        - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a computational [study](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) examining how women are dehumanized compared to men in incel discourse across five dimensions (*negative evaluation, moral disgust, animal likeness, mind denial, agency denial*). Supported by the University of Melbourne Hallmark Research Initiative on Fighting Harmful Online Communication.
 
         - **ACL 2025 Findings (Computational Social Science & Cultural Analytics):** Lead author of [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) — a framework for evaluating whether computational methods are sensitive to detecting dimensions of semantic change, using the mental health domain as a case study.
 
