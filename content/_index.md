@@ -42,8 +42,7 @@ sections:
 
         - **ACL 2025 Findings (Computational Social Science & Cultural Analytics):** Lead author of [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) — a framework for evaluating whether computational methods are sensitive to detecting dimensions of semantic change, using the mental health domain as a case study.
 
-        - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth). 
-          - Independently [applied and extended](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) by Queen's University Belfast researcher to track semantic change in Japanese economic news during Japan's "Lost Decade (1990-2000)".
+        - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [SIBling](https://aclanthology.org/2024.acl-long.76/) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth). Independently [applied and extended](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) by Queen's University Belfast researcher to track semantic change in Japanese economic news".
 
         - **Invited talks (PhD Candidate):** Presented work on computational methods for tracking meaning change in the mental health domain — including SIBling, LSC-Eval, and applied case studies in psychology — at [*Utrecht University*](https://naomibaes.github.io/talks/nltp_lab_2025/), the [*University of Gothenburg*](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [*National Research Council Canada*](https://naomibaes.github.io/talks/nrc_2025/).      
 
