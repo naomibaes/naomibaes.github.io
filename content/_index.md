@@ -36,18 +36,18 @@ sections:
       title: Highlights
       text: |
 
-        - **Association for Computational Linguistics (ACL) 2026 (Main Conference):** Joint first author on [**SenseRel**]  — [paper](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — a benchmark testing whether AI language models understand the denotational and connotational layers of meaning between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/).
-
-        - **International Conference on Web and Social Media (ICWSM) 2026:** Lead author of a study, extending a computational dehumanization framework to examine how women are dehumanized compared to men in incel discourse across five dimensions (*negative evaluation, moral disgust, animal likeness, mind denial, agency denial*). [[paper](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) · [code](https://github.com/lraszewski/words-against-women)] Supported by the University of Melbourne Hallmark Research Initiative on Fighting Harmful Online Communication.
-
-        - **ACL 2025 Findings (Computational Social Science & Cultural Analytics):** Lead author of [**LSC-Eval**] — [paper](https://aclanthology.org/2025.findings-acl.570/) · [code](https://github.com/naomibaes/LSCD_method_evaluation) — a framework for evaluating whether computational methods are sensitive to detecting dimensions of semantic change, using the mental health domain as a case study.
-
-        - **ACL 2024 Main (Computational Social Science & Cultural Analytics):** Lead author of [**SIBling**] — [paper](https://aclanthology.org/2024.acl-long.76/) · [code](https://github.com/naomibaes/lexical_semantic_change_framework) — a framework for studying lexical semantic change across multiple dimensions (Sentiment, Intensity, Breadth). Independently [applied and extended](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) by Queen's University Belfast researcher to track semantic change in Japanese economic news (Lost Decade).
-
-        - **Invited talks (PhD Candidate):** Presented work on computational methods for tracking meaning change in the mental health domain — including SIBling, LSC-Eval, and applied case studies in psychology — at [*Utrecht University*](https://naomibaes.github.io/talks/nltp_lab_2025/), the [*University of Gothenburg*](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [*National Research Council Canada*](https://naomibaes.github.io/talks/nrc_2025/).      
-
-        - **Awards and research support:** Australian Government Research Training Program Scholarship; selected for Change is Key! international research internship (Riksbankens Jubileumsfond); Concept Creep research funding for conference travel and dissemination.
-
+        - **SIBling — reframing how semantic change is measured:** Lead author, [**ACL 2024 Main**](https://aclanthology.org/2024.acl-long.76/) — introduced a multidimensional framework and computational toolkit for evaluating lexical semantic change across **Sentiment, Intensity, and Breadth**, foregrounding connotational dimensions of meaning change that are often overlooked. [[code](https://github.com/naomibaes/lexical_semantic_change_framework)] Applied and extended in [computational linguistics](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) to track semantic change in Japanese economic news, and in social psychology to track concept creep in mental health concepts (*ADHD*, *schizophrenia*, *narcissism*).
+        
+        - **LSC-Eval — evaluates semantic change methods under controlled conditions:** Lead author, [**ACL Findings 2025**](https://aclanthology.org/2025.findings-acl.570/) — developed an evaluation framework using LLM generated diachronic synthetic corpora to test whether computational methods can detect specific dimensions of semantic change, using the mental health domain as a case study. [[code](https://github.com/naomibaes/LSCD_method_evaluation)]
+        
+        - **SenseRel — evaluates sense-level meaning relations:** Joint first author, [**ACL 2026 Main**](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) — Co-developed a reusable benchmark testing whether AI language models represent denotational and connotational relations between word senses. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/). 
+        
+        - **Computational social science applications:** Lead author, [**ICWSM 2026**](https://ojs.aaai.org/index.php/ICWSM/article/view/42632) — a study of how women are dehumanized compared to men in incel discourse across five dimensions: negative evaluation, moral disgust, animal likeness, mind denial, and agency denial. [[paper](https://naomibaes.github.io/publication/journal-article_2026_icwsm/) · [code](https://github.com/lraszewski/words-against-women)] 
+        
+        - **Invited talks:** Presented my work on computational methods for tracking meaning change in the mental health domain at [Utrecht University](https://naomibaes.github.io/talks/nltp_lab_2025/), the [University of Gothenburg](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [National Research Council Canada](https://naomibaes.github.io/talks/nrc_2025/) — spanning the Netherlands, Sweden, and Canada.
+        
+        - **Awards and research support:** Australian Government Research Training Program Scholarship; Change is Key! international research internship; ARC Concept Creep dissemination funding; University of Melbourne Hallmark Research Initiative support for Fighting Harmful Online Communication. 
+        
         <div style="text-align: center; margin-top: 1.2rem;">
           <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
             See all updates
