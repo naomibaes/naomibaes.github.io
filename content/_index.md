@@ -69,34 +69,34 @@ sections:
 
   - block: markdown
     content:
-    title: Highlights
-    text: |
+      title: Highlights
+      text: |
 
-      Selected indicators of impact, uptake, and recognition.
+        Selected indicators of impact, uptake, and recognition.
 
-      - **SIBling — reusable framework for measuring semantic change:** Lead author, [**ACL 2024 Main**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/). Introduced a multidimensional framework and toolkit for measuring semantic change across **Sentiment, Intensity, and Breadth**. **Impact:** provides a way to distinguish broadening, emotional intensification, and evaluative shift rather than collapsing them into a single change score. **Uptake:** applied and extended in [computational linguistics](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) to track semantic change in Japanese economic news, and in social psychology to study concept creep in mental health concepts. [[paper](https://aclanthology.org/2024.acl-long.76/) · [code](https://github.com/naomibaes/lexical_semantic_change_framework)]
+        - **SIBling — reusable framework for measuring semantic change:** Lead author, [**ACL 2024 Main**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/). Introduced a multidimensional framework and toolkit for measuring semantic change across **Sentiment, Intensity, and Breadth**. **Impact:** provides a way to distinguish broadening, emotional intensification, and evaluative shift rather than collapsing them into a single change score. **Uptake:** applied and extended in [computational linguistics](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) to track semantic change in Japanese economic news, and in social psychology to study concept creep in mental health concepts. [[paper](https://aclanthology.org/2024.acl-long.76/) · [code](https://github.com/naomibaes/lexical_semantic_change_framework)]
 
-      - **LSC-Eval — controlled evaluation for semantic change methods:** Lead author, [**ACL Findings 2025**](https://naomibaes.github.io/publication/journal-article_2025_acl-findings/). Developed an evaluation framework using LLM generated diachronic synthetic corpora to test whether methods detect specific dimensions of semantic change. **Impact:** helps researchers evaluate not only whether a method detects change, but what kind of change it is sensitive to. [[paper](https://aclanthology.org/2025.findings-acl.570/) · [code](https://github.com/naomibaes/LSCD_method_evaluation)]
+        - **LSC-Eval — controlled evaluation for semantic change methods:** Lead author, [**ACL Findings 2025**](https://naomibaes.github.io/publication/journal-article_2025_acl-findings/). Developed an evaluation framework using LLM generated diachronic synthetic corpora to test whether methods detect specific dimensions of semantic change. **Impact:** helps researchers evaluate not only whether a method detects change, but what kind of change it is sensitive to. [[paper](https://aclanthology.org/2025.findings-acl.570/) · [code](https://github.com/naomibaes/LSCD_method_evaluation)]
 
-      - **SenseRel — benchmark for sense-level semantic relations:** Joint first author, [**ACL 2026 Main**](https://naomibaes.github.io/publication/journal-article_2026_acl-main/). Co-developed a gold standard benchmark for testing whether AI language models represent both referential and evaluative relations between word senses. **Impact:** connects denotational relations such as metaphor and metonymy with connotational dimensions such as valence and arousal. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/). [[paper](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf)]
+        - **SenseRel — benchmark for sense-level semantic relations:** Joint first author, [**ACL 2026 Main**](https://naomibaes.github.io/publication/journal-article_2026_acl-main/). Co-developed a gold standard benchmark for testing whether AI language models represent both referential and evaluative relations between word senses. **Impact:** connects denotational relations such as metaphor and metonymy with connotational dimensions such as valence and arousal. Developed during my Change is Key! research [internship](https://www.changeiskey.org/post/25-08-04-naomi-visit/). [[paper](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf)]
 
-      - **Computational social science applications:** Lead author, [**ICWSM 2026**](https://naomibaes.github.io/publication/journal-article_2026_icwsm/). Studied how women are dehumanized compared to men in incel discourse across five dimensions: *negative evaluation, moral disgust, animal likeness, mind denial, and agency denial*. **Impact:** extends my broader interest in interpretable language measurement to harmful online communication and socially contested discourse. [[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/42632) · [code](https://github.com/lraszewski/words-against-women)]
+        - **Computational social science applications:** Lead author, [**ICWSM 2026**](https://naomibaes.github.io/publication/journal-article_2026_icwsm/). Studied how women are dehumanized compared to men in incel discourse across five dimensions: *negative evaluation, moral disgust, animal likeness, mind denial, and agency denial*. **Impact:** extends my broader interest in interpretable language measurement to harmful online communication and socially contested discourse. [[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/42632) · [code](https://github.com/lraszewski/words-against-women)]
 
-      - **International research visibility:** Presented work on computational methods for tracking meaning change in the mental health domain at [Utrecht University](https://naomibaes.github.io/talks/nltp_lab_2025/), the [University of Gothenburg](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [National Research Council Canada](https://naomibaes.github.io/talks/nrc_2025/) — spanning the Netherlands, Sweden, and Canada.
+        - **International research visibility:** Presented work on computational methods for tracking meaning change in the mental health domain at [Utrecht University](https://naomibaes.github.io/talks/nltp_lab_2025/), the [University of Gothenburg](https://naomibaes.github.io/talks/conceptual_change_2025/), and the [National Research Council Canada](https://naomibaes.github.io/talks/nrc_2025/) — spanning the Netherlands, Sweden, and Canada.
 
-      - **Awards and research support:** Australian Government Research Training Program Scholarship; Change is Key! international research internship; ARC Concept Creep dissemination funding; University of Melbourne Hallmark Research Initiative support for Fighting Harmful Online Communication.
+        - **Awards and research support:** Australian Government Research Training Program Scholarship; Change is Key! international research internship; ARC Concept Creep dissemination funding; University of Melbourne Hallmark Research Initiative support for Fighting Harmful Online Communication.
 
-      <div style="text-align: center; margin-top: 1.2rem;">
-        <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
-          See all updates
-        </a>
-      </div>
+        <div style="text-align: center; margin-top: 1.2rem;">
+          <a href="/updates/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
+            See all updates
+          </a>
+        </div>
 
     design:
-    columns: 1
-    css_class: research-overview-wide
-    spacing:
-    padding: ["2rem", "0", "2rem", "0"]
+      columns: 1
+      css_class: research-overview-wide
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
 
   - block: markdown
     content:

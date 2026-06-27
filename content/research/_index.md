@@ -27,7 +27,7 @@ sections:
           </div>
 
           <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
-            <h3 style="margin-top: 0;">Mental health and conceptual change</h3>
+            <h3 style="margin-top: 0;">Conceptual change in the mental health domain</h3>
             <p>I study how psychological and mental health concepts change in meaning, salience, severity, and use across historical corpora.</p>
             <p><a href="/research/mental-health-language/">Read more</a></p>
           </div>
