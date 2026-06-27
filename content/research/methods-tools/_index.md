@@ -1,39 +1,43 @@
----
-title: "Methods & tools for semantic change"
-summary: "Computational tools, benchmarks, and evaluation frameworks for studying semantic change."
----
+* block: markdown
+  content:
+  title: "Methods, tools, and applications"
+  text: |
+  I develop computational tools for measuring how word meanings change over time. My work sits between basic science and substantive application: I build methods for studying semantic change, then apply them to culturally important language about mental health, harm, identity, and social evaluation.
 
-I develop computational tools for measuring how word meanings change over time. Rather than treating semantic change as a single change score, my work separates change into interpretable dimensions that can be linked to psychological, linguistic, and cultural theory.
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: 1.4rem;">
 
-This stream is closest to my basic science contribution: building frameworks, benchmarks, and pipelines that make semantic change research more interpretable and evaluable.
+      <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+        <h3 style="margin-top: 0;">SIBling</h3>
+        <p>A multidimensional framework for measuring semantic change across <strong>Sentiment</strong>, <strong>Intensity</strong>, and <strong>Breadth</strong>.</p>
+        <p style="font-size: 0.95rem;">Useful for studying broadening, emotional intensification, evaluative shift, concept creep, and changing mental health language.</p>
+        <p><a href="/publication/journal-article_2024_acl_sibling/">Paper</a> · <a href="https://github.com/naomibaes/lexical_semantic_change_framework">Code</a></p>
+      </div>
 
-## SIBling
+      <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+        <h3 style="margin-top: 0;">LSC-Eval</h3>
+        <p>An evaluation framework for testing whether semantic change methods detect specific kinds of change under controlled conditions.</p>
+        <p style="font-size: 0.95rem;">Useful for method evaluation, synthetic diachronic corpora, benchmarking, and interpretable NLP.</p>
+        <p><a href="/publication/journal-article_2025_acl-findings/">Paper</a> · <a href="https://github.com/naomibaes/LSCD_method_evaluation">Code</a></p>
+      </div>
 
-**SIBling** is a multidimensional framework for measuring semantic change across **Sentiment**, **Intensity**, and **Breadth**. It helps distinguish whether words become more positive or negative, more emotionally intense, or broader in contextual use.
+      <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+        <h3 style="margin-top: 0;">Sense tracking</h3>
+        <p>A threshold-calibrated pipeline for estimating how the prevalence of a word's senses changes across historical corpora.</p>
+        <p style="font-size: 0.95rem;">Useful for distinguishing contextual change from shifts in literal, metaphorical, or diagnostic senses.</p>
+        <p><a href="/publication/workshop-paper-2026_sense-prevalence/">Project</a></p>
+      </div>
 
-Useful for: concept creep, mental health language, stigma, public discourse, and cultural change.
+      <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+        <h3 style="margin-top: 0;">Substantive applications</h3>
+        <p>I apply these methods to socially important language, including mental health concepts, schizophrenia-related discourse, dehumanization, stigma, and contested social categories.</p>
+        <p style="font-size: 0.95rem;">These applications show how computational tools can help study changing cultural understandings of harm, disorder, identity, and social evaluation.</p>
+        <p><a href="/research/mental-health-language/">Mental health</a> · <a href="/research/social-meaning/">Social meaning</a></p>
+      </div>
 
-[Paper](/publication/journal-article_2024_acl_sibling/) · [Code](https://github.com/naomibaes/lexical_semantic_change_framework)
+    </div>
 
-## LSC-Eval
-
-**LSC-Eval** is an evaluation framework for testing whether semantic change methods can detect specific kinds of change under controlled conditions. It uses LLM generated diachronic synthetic corpora to introduce targeted changes in Sentiment, Intensity, and Breadth.
-
-Useful for: method evaluation, benchmarking, synthetic diachronic data, and interpretable NLP.
-
-[Paper](/publication/journal-article_2025_acl-findings/) · [Code](https://github.com/naomibaes/LSCD_method_evaluation)
-
-## Sense-level evaluation and tracking
-
-I also work on sense-level resources and pipelines for studying how meanings change within and across word senses, including **SenseRel** and a threshold-calibrated sense tracking pipeline for historical corpora.
-
-Relevant work:
-
-- [SenseRel](/publication/journal-article_2026_acl-main/)
-- [Threshold-calibrated sense tracking](/publication/workshop-paper-2026_sense-prevalence/)
-
-## Code, data, and benchmarks
-
-Reusable code, data, benchmarks, and supplementary materials are available on my resources page.
-
-[View resources](/resources/)
+  design:
+  columns: 1
+  css_class: research-overview-wide
+  spacing:
+  padding: ["2rem", "0", "2rem", "0"]
