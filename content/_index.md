@@ -33,11 +33,11 @@ sections:
 
   - block: markdown
     content:
-      title: "Methods & tools"
+      title: "Methods, tools, and applications"
       text: |
         I develop computational tools for measuring how word meanings change over time. My work sits between basic science and application: I build methods for studying semantic change, then apply them to culturally important language about mental health, harm, identity, and social evaluation.
 
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; margin-top: 1.4rem;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin-top: 1.4rem;">
 
           <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
             <h3 style="margin-top: 0;">SIBling</h3>
@@ -60,6 +60,13 @@ sections:
             <p><a href="/publication/workshop-paper-2026_sense-prevalence/">Project</a></p>
           </div>
 
+          <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+            <h3 style="margin-top: 0;">Substantive applications</h3>
+            <p>I apply these tools to changing social and psychological concepts, including mental health language, diagnostic terms such as <em>schizophrenia</em>, and broader language about harm, stigma, identity, and social evaluation.</p>
+            <p style="font-size: 0.95rem;">These applications show how computational methods can help study changing cultural understandings of harm, disorder, identity, and social evaluation.</p>
+            <p><a href="/research/mental-health-language/">Mental health</a> · <a href="/research/social-meaning/">Social meaning</a></p>
+          </div>
+
         </div>
     design:
       columns: 1
@@ -72,7 +79,7 @@ sections:
       title: Highlights
       text: |
 
-        Selected indicators of impact, uptake, and recognition.
+        Selected work showing methodological contribution, uptake, and recognition.
 
         - **SIBling — reusable framework for measuring semantic change:** Lead author, [**ACL 2024 Main**](https://naomibaes.github.io/publication/journal-article_2024_acl_sibling/). Introduced a multidimensional framework and toolkit for measuring semantic change across **Sentiment, Intensity, and Breadth**. **Impact:** provides a way to distinguish broadening, emotional intensification, and evaluative shift rather than collapsing them into a single change score. **Uptake:** applied and extended in [computational linguistics](https://www.changeiskey.org/event/2026-eacl-lchange/slides/18.pdf) to track semantic change in Japanese economic news, and in social psychology to study concept creep in mental health concepts. [[paper](https://aclanthology.org/2024.acl-long.76/) · [code](https://github.com/naomibaes/lexical_semantic_change_framework)]
 
