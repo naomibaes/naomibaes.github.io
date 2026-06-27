@@ -33,6 +33,42 @@ sections:
 
   - block: markdown
     content:
+      title: "Methods & tools"
+      text: |
+        I develop computational tools for measuring how word meanings change over time. My work sits between basic science and application: I build methods for studying semantic change, then apply them to culturally important language about mental health, harm, identity, and social evaluation.
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; margin-top: 1.4rem;">
+
+          <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+            <h3 style="margin-top: 0;">SIBling</h3>
+            <p>A multidimensional framework for measuring semantic change across <strong>Sentiment</strong>, <strong>Intensity</strong>, and <strong>Breadth</strong>.</p>
+            <p style="font-size: 0.95rem;">Useful for studying broadening, emotional intensification, evaluative shift, concept creep, and changing mental health language.</p>
+            <p><a href="/publication/journal-article_2024_acl_sibling/">Paper</a> · <a href="https://github.com/naomibaes/lexical_semantic_change_framework">Code</a></p>
+          </div>
+
+          <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+            <h3 style="margin-top: 0;">LSC-Eval</h3>
+            <p>An evaluation framework for testing whether semantic change methods detect specific kinds of change under controlled conditions.</p>
+            <p style="font-size: 0.95rem;">Useful for method evaluation, synthetic diachronic corpora, benchmarking, and interpretable NLP.</p>
+            <p><a href="/publication/journal-article_2025_acl-findings/">Paper</a> · <a href="https://github.com/naomibaes/LSCD_method_evaluation">Code</a></p>
+          </div>
+
+          <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
+            <h3 style="margin-top: 0;">Sense tracking</h3>
+            <p>A threshold-calibrated pipeline for estimating how the prevalence of a word's senses changes across historical corpora.</p>
+            <p style="font-size: 0.95rem;">Useful for distinguishing contextual change from shifts in literal, metaphorical, or diagnostic senses.</p>
+            <p><a href="/publication/workshop-paper-2026_sense-prevalence/">Project</a></p>
+          </div>
+
+        </div>
+    design:
+      columns: 1
+      css_class: research-overview-wide
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
+
+  - block: markdown
+    content:
       title: Highlights
       text: |
 
@@ -62,33 +98,24 @@ sections:
 
   - block: markdown
     content:
-      title: 'Research Overview'
-      subtitle: ''
-      text: |-
-        
-        I study how word meanings change as concepts move across scientific writing, news media, and general language. My work focuses especially on language with social, cultural, or psychological significance, including mental health concepts and contested social terms. I ask how these terms extend into new contexts, shift in emotional intensity, and acquire more positive or negative associations. To examine these questions, I combine NLP methods with theory from social psychology, computational social science, and corpus linguistics, using historical text corpora, contextual embeddings, lexical resources, large language models, and statistical modeling.
+      title: Research
+      text: |
+        My work clusters around three overlapping streams:
 
-        ### Research streams
+        - **Methods & tools for semantic change:** frameworks, benchmarks, and pipelines for measuring different kinds of meaning change.
+        - **Mental health and conceptual change:** studies of how psychological and mental health concepts change across scientific, media, and general language.
+        - **Social meaning in contested language:** computational social science projects on dehumanization, stigma, identity language, and social evaluation.
 
-        My work clusters around three overlapping streams: (1) diachronic lexical semantic change and evaluation, (2) conceptual change in psychology, and (3) computational social science projects on socially contested language.
-
-        - **Diachronic lexical semantic change and evaluation**  
-          I develop computational methods and evaluation resources for tracing different *kinds* of diachronic lexical semantic change in historical text corpora, with applications in psychology, computational social science, linguistics, and NLP method evaluation. Contributions include: 
-            - [**SIBling**](/publication/journal-article_2024_acl_sibling/), a multidimensional framework for modeling whether words become broader, more emotionally intense, or acquire more positive or negative connotations over time. 
-            - [**LSC-Eval**](/publication/journal-article_2025_acl-findings/), an evaluation framework that uses LLM-generated historical datasets in experimental settings to test whether semantic change methods are sensitive to specific kinds of change. 
-            - A [threshold-calibrated sense tracking pipeline](/publication/workshop-paper-2026_sense-prevalence/) for estimating the prevalence of a word's senses in historical corpora. It touches on LSC interpretability by showing how LSC scores may not reflect sense change.
-            - [**SenseRel**](/publication/journal-article_2026_acl-main/), a sense-level benchmark for modeling semantic relations between word senses, connecting denotational semantic change types (e.g., metaphor, metonymy) with connotational dimensions of meaning (e.g., valence and arousal). We evaluate how well LLMs and fine-tuned models capture these relations.
-
-        - **Conceptual change in psychology and mental health language**  
-
-          I study how psychological and mental health concepts change in meaning, salience, severity, and use across academic psychology, news media, books, and general language corpora. This stream includes substantive case studies of concepts such as [*trauma*](/publication/journal-article_2023_plc/), [*mental illness*](/publication/journal-article_2024_acl_sibling/), [*schizophrenia*](/publication/workshop-paper-2026_sense-prevalence/), *introversion*, and [generic](/publication/journal-article_2024_acl_sibling/) and [emotion related](/publication/journal-article_2023_12_emnlp/) mental health terminology. Together, these studies examine when concepts become more culturally prominent, more widely used, emotionally intense, or evaluatively charged, interpreted through psychological theory, concept creep research, and corpus evidence.
-
-        - **Social meaning in contested language**  
-          I also contribute to collaborative projects that use NLP and computational social science methods to study socially important language, including [dehumanization](/publication/journal-article_2026_icwsm/) of women in incel discourse, mental health stigma detection in online communication, identity/person-first language for mental health conditions, and lay understandings of the [common good](/publication/journal-article_2024_4_bjsp/). These projects extend my broader interest in how language reflects, organizes, and reshapes social and psychological categories.
-
+        <div style="text-align: center; margin-top: 1.2rem;">
+          <a href="/research/" style="display: inline-block; padding: 0.45rem 0.85rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.9rem; font-weight: 400;">
+            Explore research streams
+          </a>
+        </div>
     design:
-      columns: '1'
+      columns: 1
       css_class: research-overview-wide
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
 
   - block: collection
     id: papers
