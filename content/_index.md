@@ -62,8 +62,8 @@ sections:
 
           <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
             <h3 style="margin-top: 0;">Substantive applications</h3>
-            <p>I apply these tools to changing social and psychological concepts, including mental health language, diagnostic terms such as <em>schizophrenia</em>, and broader language about harm, stigma, identity, and social evaluation.</p>
-            <p style="font-size: 0.95rem;">These applications show how computational methods can help study changing cultural understandings of harm, disorder, identity, and social evaluation.</p>
+            <p>I apply these methods to socially and psychologically important terms, using changes in word meaning as evidence relevant to broader conceptual change.</p>
+            <p style="font-size: 0.95rem;">My thesis focuses on mental health language, including <em>mental health</em>, <em>mental illness</em>, <em>schizophrenia</em>, and <em>schizophrenic</em>; related work extends this interest to social evaluation and contested language.</p>
             <p><a href="/research/mental-health-language/">Mental health</a> · <a href="/research/social-meaning/">Social meaning</a></p>
           </div>
 
