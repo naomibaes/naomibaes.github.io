@@ -54,13 +54,6 @@ sections:
           </div>
 
           <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
-            <h3 style="margin-top: 0;">Sense tracking</h3>
-            <p>A threshold-calibrated pipeline for estimating how the prevalence of a word's senses changes across historical corpora.</p>
-            <p style="font-size: 0.95rem;">Useful for distinguishing contextual change from shifts in literal, metaphorical, or diagnostic senses.</p>
-            <p><a href="/publication/workshop-paper-2026_sense-prevalence/">Project</a></p>
-          </div>
-
-          <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
             <h3 style="margin-top: 0;">Substantive applications</h3>
             <p>I apply these methods to socially and psychologically important terms, using changes in word meaning as evidence relevant to broader conceptual change.</p>
             <p style="font-size: 0.95rem;">My thesis focuses on mental health language, including <em>mental health</em>, <em>mental illness</em>, <em>schizophrenia</em>, and <em>schizophrenic</em>; related work extends this interest to social evaluation and contested language.</p>
