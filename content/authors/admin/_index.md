@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: NLP & Computational Social Science Researcher | Diachronic Semantic Change
+role: Computational Social Science Researcher (NLP & Psychology) | Diachronic Semantic Change
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Melbourne
@@ -211,11 +211,11 @@ education:
 
 ---
 
-<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Concept creep describes one way these shifts can happen: harm- and pathology-related concepts have expanded in scope and softened in severity since the late twentieth century, coming to describe a broader and milder range of experiences than they once did. These shifts matter because the meanings attached to mental health terms are tied to how distress is understood, labeled, and responded to.</p>
+<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Their meanings shift as concepts move across scientific writing, news media, and general language. These shifts matter because the meanings attached to socially important terms shape how distress, disorder, harm, identity, and social categories are understood, labeled, and responded to.</p>
 
-<p>I build computational tools to measure this kind of change systematically — and to study semantic change more broadly. My frameworks, <strong>SIBling</strong> and <strong>LSC-Eval</strong>, are designed to detect and evaluate specific kinds of semantic change across domains: whether a word is broadening in scope, gaining emotional intensity, or shifting in evaluative tone. My PhD applies these tools to mental health terms, tracing how words like <em>schizophrenia</em> have changed in use, context, and association across decades of historical text - and what those shifts reveal about how psychological categories are represented and debated in culture. The methods are computational, but the questions are substantive.</p>
+<p>I build computational tools to measure this kind of change systematically — and to study semantic change more broadly. My frameworks, <strong>SIBling</strong> and <strong>LSC-Eval</strong>, are designed to detect and evaluate specific kinds of semantic change across domains: whether a word is broadening in scope, gaining emotional intensity, or shifting in evaluative tone. My PhD applies these tools to mental health terms, tracing how words like <em>schizophrenia</em> have changed in use, context, and association over decades of historical text — and what those shifts reveal about how psychological categories are represented and debated in culture. The methods are computational, but the questions are substantive.</p>
 
-<p>Most recently, I collaborated with Change is Key! (Riksbankens Jubileumsfond) to develop <strong>SenseRel</strong>, a benchmark for evaluating how well language models capture meaning relations at the sense level. I am a PhD researcher at the University of Melbourne working at the intersection of natural language processing and social psychology, supported by the Australian Government Research Training Program Scholarship and ARC-funded Concept Creep research funding.</p> 
+<p>Most recently, I collaborated with Change is Key! (Riksbankens Jubileumsfond) to develop <strong>SenseRel</strong>, a benchmark for evaluating how well language models capture meaning relations at the sense level. I am a PhD researcher at the University of Melbourne working at the intersection of social psychology, natural language processing, and computational social science, supported by the Australian Government Research Training Program Scholarship and ARC-funded Concept Creep research funding.</p> 
 
 
 

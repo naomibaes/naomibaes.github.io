@@ -18,7 +18,7 @@ sections:
     content:
       title: Research streams
       text: |
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: 1.2rem;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin-top: 1.2rem;">
 
           <div style="border: 1px solid #e5e7eb; border-radius: 0.8rem; padding: 1rem; background: #fff;">
             <h3 style="margin-top: 0;">Methods & tools for semantic change</h3>
@@ -39,4 +39,15 @@ sections:
           </div>
 
         </div>
----
+
+        <div style="text-align: center; margin-top: 1.4rem;">
+          <a href="/resources/" style="display: inline-block; padding: 0.5rem 0.9rem; border: 1px solid #d1d5db; border-radius: 0.45rem; text-decoration: none; font-size: 0.95rem;">
+            View code, data, and benchmarks
+          </a>
+        </div>
+    design:
+      columns: 1
+      css_class: research-overview-wide
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
+ 
