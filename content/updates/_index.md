@@ -5,17 +5,18 @@ cms_exclude: true
 
 ## 2026
 
-- **July 2026** — Selected to present research from my PhD at the **International Conference on Computational Social Science (IC2S2 2026) Virtual Day**, examining how the meanings and representations of *schizophrenia* and *schizophrenic* changed across four decades of U.S. news coverage.
+- **July 2026** — Selected to present at the **International Conference on Computational Social Science ([IC2S2 2026](https://ic2s2-2026.org/program/))**, examining how the meanings and representations of *schizophrenia* and *schizophrenic* changed across four decades of U.S. news coverage.
 
-- **July 2026** — [Presented](https://www.slideshare.net/slideshow/schizophrenia-in-u-s-news-media-concept-creep-and-shifting-label-norms/288449898) **“Schizophrenia in U.S. News Media: Concept Creep and Shifting Label Norms”** at the University of Melbourne’s **Mental Health PhD Program Colloquium**, held as part of the **Orygen Seminar Series**.
+- **July 2026** — Selected to [present](https://www.slideshare.net/slideshow/schizophrenia-in-u-s-news-media-concept-creep-and-shifting-label-norms/288449898) **“Schizophrenia in U.S. News Media: Concept Creep and Shifting Label Norms”** at the University of Melbourne’s **Mental Health PhD Program Colloquium**, held as part of the **Orygen Seminar Series**.
 
-- **July 2026** — *[SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations](https://naomibaes.github.io/publication/journal-article_2026_acl-main/)* was presented as an oral paper at the **63rd Annual Meeting of the Association for Computational Linguistics (ACL 2026)** in San Diego, United States, by Dr Pierluigi Cassotti on behalf of the author team.
+- **July 2026** — *[SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations](https://naomibaes.github.io/publication/journal-article_2026_acl-main/)* was presented as an oral paper at the **63rd Annual Meeting of the Association for Computational Linguistics (ACL 2026)** in San Diego, United States, by Dr Pierluigi Cassotti on behalf of the author team - and published in [Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)](https://aclanthology.org/2026.acl-long.20/).
 
 - **June 2026** — Submitted my PhD thesis for examination, **“A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications,”** at the University of Melbourne (27 June).
 
 - **May 2026** — *[A Multidimensional Computational Analysis of Dehumanization in Incel Discourse](https://naomibaes.github.io/publication/journal-article_2026_icwsm/)* published in the **International Conference on Web and Social Media (ICWSM) 2026** proceedings, with the conference presentation delivered on behalf of the author team by Jemima Kang in Los Angeles, United States.
-- **May 2026** — *[SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations](https://naomibaes.github.io/publication/journal-article_2026_acl-main/)* accepted to **ACL 2026** in San Diego, United States.
+
 - **March 2026** — Presented a threshold-calibrated word sense disambiguation [paper](https://naomibaes.github.io/publication/workshop-paper-2026_sense-prevalence/) at **6th International Workshop on Computational Approaches to Language Change 2026 ([LChange'26](https://www.changeiskey.org/event/2026-eacl-lchange/))**, co-located with EACL 2026 in Rabat, Morocco -extending a hypothesis-driven framework to track how the prevalence of word senses shifts over time, applied to *schizophrenia*.
+
 - **March 2026** — Served as Program Chair for **[LChange'26](https://www.changeiskey.org/event/2026-eacl-lchange/)**, 
 the 6th International Workshop on Computational Approaches to Language Change, co-located with EACL 2026; 
 [proceedings](https://aclanthology.org/2026.lchange-1.0.pdf) published by the Association for Computational Linguistics.
