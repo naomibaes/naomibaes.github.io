@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computational Social Science Researcher (NLP & Psychology) | Diachronic Semantic Change
+role: Computational Social Scientist | NLP, Psychology and Semantic Change
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Melbourne
