@@ -5,11 +5,11 @@ cms_exclude: true
 
 ## 2026
 
-- **October 2026** — Delighted to announce that I will join the University of Tübingen as a postdoctoral researcher in Professor Lea Frermann’s Cognition and Communication Lab, within General and Computational Linguistics in the Faculty of Humanities, Faculty of Humanities.
+- **October 2026** — Delighted to announce that I will join the University of Tübingen as a postdoctoral researcher in Professor Lea Frermann’s Cognition and Communication Lab, within the Department of ([General and Computational Linguistics](Department of General & Computational Linguistics)) in the Faculty of Humanities.
 
 - **September 2026** — I successfully passed my PhD oral examination at the University of Melbourne. I am deeply grateful to my supervisors, Professor Nick Haslam and Associate Professor Ekaterina Vylomova, and to my advisory committee, Associate Professor Katie Greenaway, Professor Yoshi Kashima, and Professor Charles Kemp, for their guidance and support. My interdisciplinary doctoral research spans social psychology, natural language processing, and computational linguistics.
 
-- **July 2026** — Selected to present at the **International Conference on Computational Social Science ([IC2S2 2026](https://ic2s2-2026.org/program/))**, examining how the meanings and representations of *schizophrenia* and *schizophrenic* changed across four decades of U.S. news coverage.
+- **July 2026** — Selected to present at the **International Conference on Computational Social Science ([IC2S2 2026](https://ic2s2-2026.org/program/))**, examining how the meanings and representations of *schizophrenia* and *schizophrenic* changed multidimensionally over four decades of U.S. news coverage.
 
 - **July 2026** — Selected to [present](https://www.slideshare.net/slideshow/schizophrenia-in-u-s-news-media-concept-creep-and-shifting-label-norms/288449898) **“Schizophrenia in U.S. News Media: Concept Creep and Shifting Label Norms”** at the University of Melbourne’s **Mental Health PhD Program Colloquium**, held as part of the **Orygen Seminar Series**.
 
