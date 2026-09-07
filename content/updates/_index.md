@@ -5,7 +5,7 @@ cms_exclude: true
 
 ## 2026
 
-- **October 2026** — Delighted to announce that I will join the University of Tübingen as a postdoctoral researcher in Professor Lea Frermann’s Cognition and Communication Lab, within the Department of ([General and Computational Linguistics](Department of General & Computational Linguistics)) in the Faculty of Humanities.
+- **October 2026** — Delighted to announce that I will join the University of Tübingen as a postdoctoral researcher in Professor Lea Frermann’s Cognition and Communication Lab, within the ([Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics-ascl/)) in the Faculty of Humanities.
 
 - **September 2026** — I successfully passed my PhD oral examination at the University of Melbourne. I am deeply grateful to my supervisors, Professor Nick Haslam and Associate Professor Ekaterina Vylomova, and to my advisory committee, Associate Professor Katie Greenaway, Professor Yoshi Kashima, and Professor Charles Kemp, for their guidance and support. My interdisciplinary doctoral research spans social psychology, natural language processing, and computational linguistics.
 
@@ -15,7 +15,7 @@ cms_exclude: true
 
 - **July 2026** — *[SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations](https://naomibaes.github.io/publication/journal-article_2026_acl-main/)* was presented as an oral paper at the **63rd Annual Meeting of the Association for Computational Linguistics (ACL 2026)** in San Diego, United States, by Dr Pierluigi Cassotti on behalf of the author team - and published in [Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)](https://aclanthology.org/2026.acl-long.20/).
 
-- **June 2026** — Submitted my PhD thesis for examination, **“A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications,”** at the University of Melbourne (27 June).
+- **June 2026** — Submitted my Ph.D. thesis for examination, **“A Multidimensional Framework for Evaluating Lexical Semantic Change with Social Science Applications,”** at the University of Melbourne (27 June).
 
 - **May 2026** — *[A Multidimensional Computational Analysis of Dehumanization in Incel Discourse](https://naomibaes.github.io/publication/journal-article_2026_icwsm/)* published in the **International Conference on Web and Social Media (ICWSM) 2026** proceedings, with the conference presentation delivered on behalf of the author team by Jemima Kang in Los Angeles, United States.
 
