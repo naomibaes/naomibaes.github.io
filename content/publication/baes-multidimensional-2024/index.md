@@ -1,0 +1,31 @@
+---
+title: A Multidimensional Framework for Evaluating Lexical Semantic Change with Social
+  Science Applications
+authors:
+- Naomi Baes
+- Nick Haslam
+- Ekaterina Vylomova
+date: '2024-08-01'
+publishDate: '2025-03-01T12:38:45.442216Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)*'
+doi: 10.18653/v1/2024.acl-long.76
+abstract: Historical linguists have identified multiple forms of lexical semantic
+  change. We present a three-dimensional framework for integrating these forms and
+  a unified computational methodology for evaluating them concurrently. The dimensions
+  represent increases or decreases in semantic 1) sentiment (valence of a target word`s
+  collocates), 2) intensity (emotional arousal of collocates or the frequency of intensifiers),
+  and 3) breadth (diversity of contexts in which the target word appears). These dimensions
+  can be complemented by evaluation of shifts in the frequency of the target words
+  and the thematic content of its collocates. This framework enables lexical semantic
+  change to be mapped economically and systematically and has applications in computational
+  social science. We present an illustrative analysis of semantic shifts in mental
+  health and mental illness in two corpora, demonstrating patterns of semantic change
+  that illuminate contemporary concerns about pathologization, stigma, and concept
+  creep.
+links:
+- name: URL
+  url: https://aclanthology.org/2024.acl-long.76/
+---
