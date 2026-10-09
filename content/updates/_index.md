@@ -5,9 +5,11 @@ cms_exclude: true
 
 ## 2026
 
-- **October 2026** — Delighted to announce that I will join the University of Tübingen as a postdoctoral researcher in Professor Lea Frermann’s Cognition and Communication Lab, within the ([Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics-ascl/)) in the Faculty of Humanities.
+- **October 2026** — *[Automatic Evaluation of Mental Health Stigma in Online Communication](*https\://arxiv.org/abs/2610.02775*)** was accepted for publication at **AACL 2026**. The paper develops a computational framework for evaluating multiple forms of mental health stigma in online communication.
 
-- **September 2026** — I successfully passed my PhD oral examination at the University of Melbourne. I am deeply grateful to my supervisors, Professor Nick Haslam and Associate Professor Ekaterina Vylomova, and to my advisory committee, Associate Professor Katie Greenaway, Professor Yoshi Kashima, and Professor Charles Kemp, for their guidance and support. My interdisciplinary doctoral research spans social psychology, natural language processing, and computational linguistics.
+- **October 1 2026** — Delighted to announce that I have joined the University of Tübingen as a postdoctoral researcher (Computational Social Science & NLP) in Professor Lea Frermann’s Cognition and Communication Lab, within the ([Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics-ascl/)) in the Faculty of Humanities.
+
+- **September 24 2026** — My Doctor of Philosophy was conferred by the University of Melbourne. I am deeply grateful to my supervisors, Professor Nick Haslam and Associate Professor Ekaterina Vylomova, and to my advisory committee, Associate Professor Katie Greenaway, Professor Yoshi Kashima, and Professor Charles Kemp, for their guidance and support. My interdisciplinary doctoral research spans social psychology, natural language processing, and computational linguistics.
 
 - **July 2026** — Selected to present at the **International Conference on Computational Social Science ([IC2S2 2026](https://ic2s2-2026.org/program/))**, examining how the meanings and representations of *schizophrenia* and *schizophrenic* changed multidimensionally over four decades of U.S. news coverage.
 
