@@ -5,7 +5,7 @@ cms_exclude: true
 
 ## 2026
 
-- **October 2026** — *[Automatic Evaluation of Mental Health Stigma in Online Communication](*https\://arxiv.org/abs/2610.02775*)** was accepted for publication at **AACL 2026**. The paper develops a computational framework for evaluating multiple forms of mental health stigma in online communication.
+- **October 2026** — *[Automatic Evaluation of Mental Health Stigma in Online Communication](https://arxiv.org/abs/2610.02775)** was accepted for publication at **AACL 2026**. The paper develops a computational framework for evaluating multiple forms of mental health stigma in online communication.
 
 - **October 1 2026** — Delighted to announce that I have joined the University of Tübingen as a postdoctoral researcher (Computational Social Science & NLP) in Professor Lea Frermann’s Cognition and Communication Lab, within the ([Department of General and Computational Linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics-ascl/)) in the Faculty of Humanities.
 
