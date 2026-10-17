@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computational Social Scientist | NLP, Psychology and Semantic Change
+role: Computational Social Scientist | NLP, Psychology, Semantic Change
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: The University of Tübingen
@@ -58,7 +58,7 @@ education:
   - area: PhD, Social Psychology & Natural Language Processing
     institution: University of Melbourne (2023-26)
     date_start: 2023-06-30
-    date_end: 2026-06-29
+    date_end: 2026-09-29
     summary: |
       Developing and evaluating a scalable multidimensional model of lexical semantic change: SIBling. Supervised by [Prof Nick Haslam](https://findanexpert.unimelb.edu.au/profile/6837-nicholas-haslam). Presented PhD papers at ACL-related conferences with the contributions being published in xx journals.
     button:
@@ -211,12 +211,10 @@ education:
 
 ---
 
-<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Their meanings shift as concepts move across scientific writing, news media, and general language. These shifts matter because the meanings attached to socially important terms shape how distress, disorder, harm, identity, and social categories are understood, labeled, and responded to.</p>
+<p>Words like <em>trauma</em>, <em>mental illness</em>, and <em>schizophrenia</em> do not stay still. Their meanings shift as concepts circulate in scientific writing, news media, and everyday language. These shifts matter because the meanings attached to socially important terms shape how we understand, categorise, and respond to the world around us.</p>
 
-<p>I build computational tools to measure this kind of change systematically — and to study semantic change more broadly. My frameworks, <strong>SIBling</strong> and <strong>LSC-Eval</strong>, are designed to detect and evaluate specific kinds of semantic change across domains: whether a word is broadening in scope, gaining emotional intensity, or shifting in evaluative tone. My PhD applies these tools to mental health terms, tracing how words like <em>schizophrenia</em> have changed in use, context, and association over decades of historical text — and what those shifts reveal about how psychological categories are represented and debated in culture. The methods are computational, but the questions are substantive.</p>
+<p>My research investigates how meaning changes over time, and how these changes reflect and shape broader social and cultural processes. I develop computational methods to study these dynamics using natural language processing, machine learning, and historical text corpora. During my PhD at the University of Melbourne, I co-developed  <strong>SIBling</strong> and <strong>LSC-Eval</strong>, frameworks for modelling and evaluating lexical semantic change, with applications to mental health terms and concept creep. I also co-developed <strong>SenseRel</strong>, a benchmark for evaluating language models' understanding of semantic relations.
 
-<p>Most recently, I collaborated with Change is Key! (Riksbankens Jubileumsfond) to develop <strong>SenseRel</strong>, a benchmark for evaluating how well language models capture meaning relations at the sense level. I am a PhD researcher at the University of Melbourne working at the intersection of social psychology, natural language processing, and computational social science, supported by the Australian Government Research Training Program Scholarship and ARC-funded Concept Creep research funding.</p> 
-
-
+I am currently a Postdoctoral Researcher at the University of Tübingen, working in Prof. Lea Frermann's Cognition and Communication Lab, within the Department of General and Computational Linguistics. My position is funded by the *Cluster of Excellence “Machine Learning: New Perspectives for Science”*. My research explores how meanings, frames, and shared representations evolve through communication, and how these processes interact with culture over time.
 
 
