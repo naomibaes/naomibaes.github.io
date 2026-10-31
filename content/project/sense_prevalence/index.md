@@ -1,6 +1,6 @@
 ---
 title: Sense Tracking Pipeline
-date: 2025-08-05
+date: 2026-01-03
 external_link: https://github.com/naomibaes/threshold-calibrated_wsd
 tags:
   - Diachronic Word Sense Disambiguation

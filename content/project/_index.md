@@ -9,7 +9,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Projects
       text: Selected projects developing computational methods, datasets, and benchmarks for lexical semantic change, NLP evaluation, and computational social science.
 
       filters:
