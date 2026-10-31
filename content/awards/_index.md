@@ -3,17 +3,18 @@ title: "Awards, Grants, Research Support & Service"
 summary: "Selected individual awards, competitive funding, research support, leadership, and academic service."
 ---
 
+## Competitive Grants & Team Funding
+
+- **Riksbankens Jubileumsfond (RJ) Project Grant**, *MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction* — **SEK 5,720,371**, awarded in 2026 (project period: 2027–2030). Contributed to the conceptual development and preparation of the successful grant proposal, led by Dr Pierluigi Cassotti.
+
+- **Hallmark Research Initiative seed funding**, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a 7-member team project, led by Dr Yulia Otmakhova, on *Automatic evaluation of mental-health stigma in online communication*.
+
 ## Awards & Scholarships 
 
 - **Australian Government Research Training Program Scholarship** — AUD $135,000 stipend and fee offset, 2023–2026.
 - **RHD Career Development Support Scheme**, Melbourne School of Psychological Sciences — AUD $4,000, 2025.
 - **Best Capstone Presentation Award**, University of Melbourne, Melbourne School of Psychological Sciences, 2021.
 - **First Class Honours** and **Advanced Psychological Theory & Practice Prize**, University of Melbourne, Melbourne School of Psychological Sciences.
-
-## Competitive Grants & Team Funding
-
-- **Hallmark Research Initiative seed funding**, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a 7-member team project, led by Dr Yulia Otmakhova, on *Automatic evaluation of mental-health stigma in online communication*.
-- **Riksbankens Jubileumsfond Project 2026**, *MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction* — advanced to Round 2, 2026.
 
 ## Selected Research Support
 
