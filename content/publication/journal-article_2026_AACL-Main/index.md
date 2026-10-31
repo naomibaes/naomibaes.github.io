@@ -37,7 +37,7 @@ tags:
   - NLP
   - Online Communication
 
-featured: false
+featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2610.02775'
 url_code: 'https://github.com/jemimakang/mh_stigma'

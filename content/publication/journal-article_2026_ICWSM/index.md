@@ -31,7 +31,7 @@ tags:
   - Connotation
   - NLP
 
-featured: false
+featured: true
 
 url_pdf: 'https://ojs.aaai.org/index.php/ICWSM/article/view/42632'
 url_code: 'https://github.com/lraszewski/words-against-women'

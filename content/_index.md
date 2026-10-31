@@ -12,9 +12,7 @@ sections:
     content:
       username: admin
       text: ""
-      button:
-        text: CV
-        url: /resume.pdf
+      # CV button removed until /resume.pdf is updated (currently June 2026).
     design:
       css_class: dark
       background:
@@ -31,11 +29,11 @@ sections:
     content:
       title: Research
       text: |
-        I study how the language used to describe people and social issues changes over time, and what these changes can tell us about broader shifts in social and cultural interpretation. My work connects natural language processing with social-psychological theory through three overlapping lines of research:
+        How do societies change their interpretations of people, groups, and public issues? I use computational methods and social-psychological theory to study the language through which these interpretations are expressed. My research spans three connected areas:
 
-        - **Language, framing, and cultural change.** My current research is moving beyond changes in individual word meanings to examine how social groups and public issues are framed over time. I am especially interested in linking changes in discourse to social identities, stereotypes, and the boundaries of social inclusion, while distinguishing linguistic evidence from broader claims about cultural change.
-        - **Methods for measuring meaning change.** I develop and evaluate interpretable computational methods for distinguishing different kinds of semantic change, including shifts in sentiment, intensity, breadth, and relations between senses.
-        - **Social and psychological applications.** I investigate language about mental health, stigma, identity, and dehumanization, using historical corpora and online discourse to study how socially important concepts and groups are represented and evaluated.
+        - **Language, framing, and cultural change.** I am developing a programme on how public discourse frames social groups and issues over time, including shifts in group boundaries, social identities, and inclusion. A central question is how to distinguish evidence of changing language from evidence of broader cultural change.
+        - **Methods for studying meaning change.** I develop interpretable NLP methods and evaluation benchmarks to distinguish changes in semantic sentiment, intensity, breadth, and relations between word senses.
+        - **Social and psychological applications.** I analyse mental health language, stigma, identity terminology, and dehumanization in historical corpora and online communities, linking computational measurements to social-psychological constructs.
 
         [Explore research areas](/research/)
     design:
@@ -51,7 +49,7 @@ sections:
         - **SIBling (ACL 2024).** Lead author of a framework for tracing semantic change across **Sentiment, Intensity, and Breadth**. [Paper](https://aclanthology.org/2024.acl-long.76/) · [Code](https://github.com/naomibaes/lexical_semantic_change_framework)
         - **LSC-Eval (Findings of ACL 2025).** Lead author of an evaluation framework using LLM-generated diachronic corpora to test what kinds of semantic change computational methods can detect. [Paper](https://aclanthology.org/2025.findings-acl.570/) · [Code](https://github.com/naomibaes/LSCD_method_evaluation)
         - **SenseRel (ACL 2026).** Joint first author of a benchmark for denotational and connotational relations between word senses, including evaluative meaning. [Paper](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf)
-        - **Social meaning in public discourse (2026).** Studies of [dehumanization in incel communities](https://ojs.aaai.org/index.php/ICWSM/article/view/42632) (*ICWSM*), [identity-first and person-first language](https://doi.org/10.1371/journal.pmen.0000684) (*PLOS Mental Health*), and the automatic evaluation of mental health stigma in online communication (accepted at *AACL-IJCNLP*).
+        - **Social meaning in public discourse (2026).** Lead author of [dehumanization research in incel discourse](https://ojs.aaai.org/index.php/ICWSM/article/view/42632) (*ICWSM*); joint first author of [historical identity-first and person-first language research](https://doi.org/10.1371/journal.pmen.0000684) (*PLOS Mental Health*) and a [benchmark for evaluating mental health stigma](https://arxiv.org/abs/2610.02775) (accepted at *AACL-IJCNLP*).
         - **Research community.** Program Chair of [LChange'26](https://www.changeiskey.org/event/2026-eacl-lchange/) and Australian English co-lead for SemEval 2026 Task 7, alongside programme-committee and peer-review service.
 
         [Recent updates](/updates/)
@@ -77,7 +75,7 @@ sections:
     content:
       title: ""
       text: |
-        <div style="text-align: center; margin-top: -2rem;">
+        <div style="text-align: center; margin-top: 0.5rem;">
           <a href="/publication/">View all publications</a>
         </div>
     design:
