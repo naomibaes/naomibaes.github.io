@@ -5,21 +5,21 @@ summary: "Selected individual awards, competitive funding, research support, lea
 
 ## Competitive Grants & Team Funding
 
-- **Riksbankens Jubileumsfond (RJ) Project Grant**, *MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction* — **SEK 5,720,371**, awarded in 2026 (project period: 2027–2030). Contributed to the conceptual development and preparation of the successful grant proposal, led by Dr Pierluigi Cassotti.
+- **Riksbankens Jubileumsfond (RJ) Project Grant**, *MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction* — **SEK 5,720,371**, awarded in 2026 (project period: 2027–2030). Contributed to the conceptual development and preparation of the successful grant proposal on a 4-member team project, led by Dr Pierluigi Cassotti.
 
 - **Hallmark Research Initiative seed funding**, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a 7-member team project, led by Dr Yulia Otmakhova, on *Automatic evaluation of mental-health stigma in online communication*.
 
 ## Awards & Scholarships 
 
-- **Australian Government Research Training Program Scholarship** — AUD $135,000 stipend and fee offset, 2023–2026.
-- **RHD Career Development Support Scheme**, Melbourne School of Psychological Sciences — AUD $4,000, 2025.
+- **Australian Government Research Training Program Scholarship** — **AUD $135,000** stipend and fee offset, 2023–2026.
+- **RHD Career Development Support Scheme**, Melbourne School of Psychological Sciences — **AUD $4,000**, 2025.
 - **Best Capstone Presentation Award**, University of Melbourne, Melbourne School of Psychological Sciences, 2021.
 - **First Class Honours** and **Advanced Psychological Theory & Practice Prize**, University of Melbourne, Melbourne School of Psychological Sciences.
 
 ## Selected Research Support
 
-- **Concept Creep research support**, University of Melbourne — AUD ~$20,000 in-kind support, 2023–2026. Supported conference travel, research dissemination, research training (summer schools, workshops) and computational social science work connected to the Concept Creep research program, led by Professor Nick Haslam and supported by Australian Research Council Discovery Projects DP210103984 and DP250102690.
-- **Change is Key! research support**, University of Gothenburg — AUD ~$6,500 in-kind support for an international research visit, consortium participation, conference travel, and collaboration, 2025. Change is Key! is supported by Riksbankens Jubileumsfond (reference number M21-0021).
+- **Concept Creep research support**, University of Melbourne — AUD **~$20,000** in-kind support, 2023–2026. Supported conference travel, research dissemination, research training (summer schools, workshops) and computational social science work connected to the Concept Creep research program, led by Professor Nick Haslam and supported by Australian Research Council Discovery Projects DP210103984 and DP250102690.
+- **Change is Key! research support**, University of Gothenburg — **AUD ~$6,500** in-kind support for an international research visit, consortium participation, conference travel, and collaboration, 2025. Change is Key! is supported by Riksbankens Jubileumsfond (reference number M21-0021).
 - **University of Melbourne, School of Computing and Information Systems** support through Dr Ekaterina Vylomova to support research training (including workshops, conferences) and research dissemination, 2023–2025.
 
 ## Selected Leadership & Service
