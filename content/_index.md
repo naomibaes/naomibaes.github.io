@@ -31,9 +31,9 @@ sections:
       text: |
         How do societies change their interpretations of people, groups, and public issues? I use computational methods and social-psychological theory to study the language through which these interpretations are expressed. My research spans three connected areas:
 
-        - **Language, framing, and cultural change.** I am developing a programme on how public discourse frames social groups and issues over time, including shifts in group boundaries, social identities, and inclusion. A central question is how to distinguish evidence of changing language from evidence of broader cultural change.
+        - **Language, framing, and cultural change**. I am developing research on how meaning and framing in public discourse change over time, and how these changes relate to broader social and cultural processes.
         - **Methods for studying meaning change.** I develop interpretable NLP methods and evaluation benchmarks to distinguish changes in semantic sentiment, intensity, breadth, and relations between word senses.
-        - **Social and psychological applications.** I analyse mental health language, stigma, identity terminology, and dehumanization in historical corpora and online communities, linking computational measurements to social-psychological constructs.
+        - **Social and psychological applications.** I analyse mental health language, stigma, identity terminology, and dehumanization in historical text corpora and online communities, linking computational measurements to social psychological constructs.
 
         [Explore research areas](/research/)
     design:
