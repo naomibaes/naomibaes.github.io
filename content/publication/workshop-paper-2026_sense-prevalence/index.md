@@ -34,7 +34,7 @@ summary: "A sense-tracking pipeline; in the case of schizophrenia we showed that
 tags:
 - Diachronic Word Sense Disambiguation
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
