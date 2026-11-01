@@ -29,7 +29,7 @@ tags:
   - NLP
   - SIBling
 
-featured: false
+featured: true
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2666560326001258'
 url_code: 'https://github.com/naomibaes/ADHD_SIBling'
