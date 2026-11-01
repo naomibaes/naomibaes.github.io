@@ -25,15 +25,18 @@ sections:
           position: center
           parallax: false
 
+
   - block: markdown
     content:
       title: Research
       text: |
-        How do societies change their understandings of people, groups, and public issues? I combine computational methods with social psychological theory to investigate how language reflects these changes. My research spans three connected areas:
+        What can changes in language tell us about how societies understand socially important concepts, groups, and public issues? I draw on social psychology and linguistics alongside computational methods to investigate conceptual change and its relationship to broader social and cultural processes.
 
-        - **Language and cultural change.** I am developing research on how meanings, frames, and social representations evolve over time, and what these shifts may reveal about broader cultural processes.
-        - **Computational methods.** I develop interpretable methods and evaluation benchmarks for measuring distinct dimensions of lexical semantic change.
-        - **Social and psychological applications.** I study mental health language, stigma, identity, and dehumanization in historical text and online discourse.
+        My research has three interconnected strands:
+
+        - **Language and cultural change.** I investigate how the meanings of socially important concepts change over time, including concept creep (the broadening of harm-related concepts), and am extending this interest to how social groups and public issues are represented and framed over time.
+        - **Computational methods and evaluation.** I develop and evaluate interpretable methods and benchmarks for measuring distinct dimensions of lexical semantic change, with particular attention to construct validity.
+        - **Social and psychological applications.** I study mental health concepts, stigma, identity-related language, and dehumanization in historical texts and online discourse.
 
         [Explore research areas](/research/)
     design:
@@ -42,12 +45,14 @@ sections:
       spacing:
         padding: ["1.5rem", "0", "1rem", "0"]
 
+
   - block: markdown
     content:
       title: Selected contributions
       text: |
-        - **Methods for studying meaning change.** I led the development of [SIBling](https://aclanthology.org/2024.acl-long.76/) (ACL 2024) and [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) (Findings of ACL 2025), and co-developed [SenseRel](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) (ACL 2026).
-        - **Social and psychological applications.** My work examines [dehumanization](https://ojs.aaai.org/index.php/ICWSM/article/view/42632), [identity-related language](https://doi.org/10.1371/journal.pmen.0000684), and [mental health stigma](https://arxiv.org/abs/2610.02775) in public discourse.
+        - **Computational frameworks.** I led the development of [SIBling](https://aclanthology.org/2024.acl-long.76/) (ACL 2024), a reusable framework for measuring semantic change across Sentiment, Intensity, and Breadth, and [LSC-Eval](https://aclanthology.org/2025.findings-acl.570/) (Findings of ACL 2025), a framework for evaluating semantic change methods. I also co-developed [SenseRel](https://www.changeiskey.org/publication/2026-acl/2026.acl.pdf) (ACL 2026).
+        - **Conceptual change in mental health.** SIBling has been applied across multiple studies of mental health language, including [ADHD](https://doi.org/10.1016/j.ssmmh.2026.100710) and [schizophrenia](https://aclanthology.org/2026.lchange-1.5/), to investigate semantic broadening and other changes relevant to concept creep. My earlier research also examined the [semantic inflation of trauma](https://doi.org/10.58734/plc-2023-0002).
+        - **Social and psychological research.** My work also examines [dehumanization](https://ojs.aaai.org/index.php/ICWSM/article/view/42632), [identity-related language](https://doi.org/10.1371/journal.pmen.0000684), and [mental health stigma](https://arxiv.org/abs/2610.02775) in public discourse.
         - **Research community.** I served as Program Chair of [LChange'26](https://www.changeiskey.org/event/2026-eacl-lchange/) and Australian English co-lead for SemEval 2026 Task 7, alongside reviewing and programme-committee service.
 
         [Recent updates](/updates/)
