@@ -43,7 +43,7 @@ url_video: ''
 image:
   caption: 'Historical changes in the Sentiment, Intensity, and Breadth of ADHD in US news media (1990–2025).'
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 projects: []
 slides: ""
