@@ -56,7 +56,7 @@ education:
       Honours research examined the changing meaning of *trauma* in psychology.
 ---
 
-<p>I study how language reflects changing understandings of social groups and public issues. My work brings together <strong>natural language processing, computational social science, and social psychology</strong> to investigate changes in meaning, framing, and social evaluation.</p>
+<p>I study how language reflects changing understandings of socially important concepts, groups, and public issues. My work brings together <strong>natural language processing, computational social science, and social psychology</strong> to investigate changes in meaning, framing, and social evaluation.</p>
 
 <p>I am a postdoctoral researcher in <a href="https://www.frermann.de/">Prof. Lea Frermann's</a> Cognition and Communication Lab at the University of Tübingen, where I am developing research on how frames and social representations change over time — and what such shifts reveal about wider cultural and psychological change.</p>
 
