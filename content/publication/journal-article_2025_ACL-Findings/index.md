@@ -35,6 +35,7 @@ abstract: "Lexical Semantic Change (LSC) provides insight into cultural and soci
 summary: "An evaluation framework that generates historical synthetic benchmark datasets for testing whether semantic change methods are sensitive to detecting the kinds of change they claim to measure."
 
 tags:
+- Lexical Semantic Change
 - LLM-Generated Synthetic Data
 
 featured: true

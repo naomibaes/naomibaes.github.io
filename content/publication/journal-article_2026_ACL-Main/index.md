@@ -31,7 +31,7 @@ abstract: "Polysemy enables a single word to convey multiple related meanings, r
 summary: "A sense-level benchmark for testing how humans and language models represent denotational (antonymy, homonymy, metaphor, metonymy, taxonomical relations) and connotational (valence, arousal) meaning."
 
 tags:
-  - Lexical Semantics
+  - Lexical Semantic Change
   - Semantic Change
   - Word Senses
   - Polysemy
