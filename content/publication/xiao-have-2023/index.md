@@ -1,0 +1,41 @@
+---
+title: Have the concepts of 'anxiety' and 'depression' been normalized or pathologized?
+  A corpus study of historical semantic change
+authors:
+- Yu Xiao
+- Naomi Baes
+- Ekaterina Vylomova
+- Nick Haslam
+date: '2023-01-01'
+publishDate: '2025-03-01T12:38:45.434478Z'
+publication_types:
+- article-journal
+publication: '*PloS One*'
+doi: 10.1371/journal.pone.0288027
+abstract: Research on concept creep indicates that the meanings of some psychological
+  concepts have broadened in recent decades. Some mental health-related concepts such
+  as 'trauma', for example, have acquired more expansive meanings and come to refer
+  to a wider range of events and experiences. 'Anxiety' and 'depression' may have
+  undergone similar semantic inflation, driven by rising public attention and awareness.
+  Critics have argued that everyday emotional experiences are increasingly pathologized,
+  so that 'depression' and 'anxiety' have broadened to include sub-clinical experiences
+  of sadness and worry. The possibility that these concepts have expanded to include
+  less severe phenomena (vertical concept creep) was tested by examining changes in
+  the emotional intensity of words in their vicinity (collocates) using two large
+  historical text corpora, one academic and one general. The academic corpus contained
+  textgreater133 million words from psychology article abstracts published 1970-2018,
+  and the general corpus (textgreater500 million words) consisted of diverse text
+  sources from the USA for the same period. We hypothesized that collocates of 'anxiety'
+  and 'depression' would decline in average emotional severity over the study period.
+  Contrary to prediction, the average severity of collocates for both words increased
+  in both corpora, possibly due to growing clinical framing of the two concepts. The
+  study findings therefore do not support a historical decline in the severity of
+  'anxiety' and 'depression' but do provide evidence for a rise in their pathologization.
+tags:
+- Anxiety
+- Anxiety Disorders
+- Emotions
+- Humans
+- Insufflation
+- Semantics
+---
