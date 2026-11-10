@@ -5,7 +5,7 @@ summary: "Selected individual awards, competitive funding, research support, lea
 
 ## Competitive Grants & Team Funding
 
-- **Riksbankens Jubileumsfond (RJ) Project Grant**, *MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction* — **SEK 5,720,371**, awarded in 2026 (project period: 2027–2030). Contributed to the conceptual development and preparation of the successful grant proposal on a 4-member team project, led by Dr Pierluigi Cassotti.
+- **Riksbankens Jubileumsfond (RJ) Project Grant** — [*MindShift: Meaning Change in Mental Health Terminology and Its Impact on Human–AI Interaction*](https://mindshiftresearch.github.io/) — **SEK 5,726,371**, awarded in 2026 (2027–2029). **Co-investigator**; contributed to the conceptual development and preparation of the successful grant proposal. Principal investigator: Dr Pierluigi Cassotti (University of Gothenburg).
 
 - **Hallmark Research Initiative seed funding**, University of Melbourne — AUD $15,000, 2025–2026. Co-recipient on a 7-member team project, led by Dr Yulia Otmakhova, on *Automatic evaluation of mental-health stigma in online communication*.
 
